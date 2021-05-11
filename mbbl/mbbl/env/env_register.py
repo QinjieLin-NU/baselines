@@ -183,6 +183,10 @@ _ENV_INFO.update({
         'path': 'mbbl.env.gym_env.noise_gym_cartpole',
         'ob_size': 4, 'action_size': 1, 'max_length': 200
     },
+    'gym_swingup': {
+        'path': 'mbbl.env.gym_env.swingup',
+        'ob_size': 4, 'action_size': 1, 'max_length': 500
+    },
 })
 
 

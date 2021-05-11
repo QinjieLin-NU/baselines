@@ -1,0 +1,26 @@
+[32m[0511 16:20:06 @logger.py:103][0m Log file set to /root/mbbl/log/mbmfrl-rsgym_swingupmbmf_gym_swingup_ppo_seed_2341.log/mbmfrl-rsgym_swingupmbmf_gym_swingup_ppo_seed_2341.log
+[32m[0511 16:20:07 @mbmf_main.py:23][0m Training starts at /root/mbbl
+[32m[0511 16:20:07 @base_worker.py:45][0m Worker 0 online
+[32m[0511 16:20:07 @base_worker.py:45][0m Worker 1 online
+[32m[0511 16:20:07 @base_worker.py:45][0m Worker 2 online
+[32m[0511 16:20:07 @base_worker.py:45][0m Worker 3 online
+[32m[0511 16:20:07 @base_worker.py:45][0m Worker 4 online
+[32m[0511 16:20:07 @base_worker.py:45][0m Worker 5 online
+[32m[0511 16:20:07 @base_worker.py:45][0m Worker 6 online
+[32m[0511 16:20:07 @base_worker.py:45][0m Worker 7 online
+[32m[0511 16:20:07 @base_worker.py:45][0m Worker 8 online
+[32m[0511 16:20:07 @base_worker.py:45][0m Worker 9 online
+[32m[0511 16:20:07 @base_worker.py:45][0m Worker 10 online
+[32m[0511 16:20:07 @base_worker.py:45][0m Worker 11 online
+[32m[0511 16:20:07 @base_worker.py:45][0m Worker 12 online
+[32m[0511 16:20:07 @base_worker.py:45][0m Worker 13 online
+[32m[0511 16:20:07 @base_worker.py:45][0m Worker 14 online
+[32m[0511 16:20:07 @base_worker.py:45][0m Worker 15 online
+[32m[0511 16:20:07 @base_worker.py:45][0m Worker 16 online
+[32m[0511 16:20:07 @base_worker.py:45][0m Worker 17 online
+[32m[0511 16:20:07 @base_worker.py:45][0m Worker 18 online
+[32m[0511 16:20:07 @base_worker.py:45][0m Worker 19 online
+[32m[0511 16:20:08 @base_trainer.py:152][0m Trainer maintains [1] policy network
+[32m[0511 16:20:08 @base_trainer.py:152][0m Trainer maintains [1] dynamics network
+[32m[0511 16:20:08 @base_trainer.py:152][0m Trainer maintains [1] reward network
+[32m[0511 16:20:09 @mbmf_main.py:46][0m Generating 1000 random timesteps
