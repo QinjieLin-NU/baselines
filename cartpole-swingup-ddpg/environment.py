@@ -233,10 +233,55 @@ class CartPoleSwingUpContinuousEnv(gym.Env):
         x = self.state
         cartx = x[0] * scale + screen_width / 2.0
         self.carttrans.set_translation(cartx, carty)
-        self.poletrans.set_rotation(x[2])
-        self.pole_bob_trans.set_translation(-self.l * np.sin(x[2]), self.l * np.cos(x[2]))
+        self.poletrans.set_rotation(x[2]-np.pi)
+        self.pole_bob_trans.set_translation(-self.l * np.sin(x[2]-np.pi), self.l * np.cos(x[2]-np.pi))
 
         return self.viewer.render(return_rgb_array=mode == 'rgb_array')
+    
+    def np_dynamics(self,state,action):
+        x, x_dot, theta, theta_dot = state
+        action = action[0]
+
+        # nullify action, if it would normally push the cart out of boundaries
+        if x >= self.x_threshold and action >= 10:
+            action = 0
+        elif x <= -self.x_threshold and action <= -10:
+            action = 0
+
+        #pdp
+        x, dx,  q, dq = x, x_dot, theta, theta_dot
+        mp = self.m_p
+        mc =  self.m_c
+        l = self.l
+        g= self.g
+        xdot_update = (action + mp * sin(q) * (l * dq * dq + g * cos(q))) / (
+                mc + mp * sin(q) * sin(q))  # acceleration of x
+        thetadot_update = (-action * cos(q) - mp * l * dq * dq * sin(q) * cos(q) - (
+                mc + mp) * g * sin(
+            q)) / (l * mc + l * mp * sin(q) * sin(q))  # acceleration of theta
+        x = x + x_dot * self.dt
+        theta = theta + theta_dot * self.dt
+        x_dot = x_dot + xdot_update * self.dt
+        theta_dot = theta_dot + thetadot_update * self.dt
+
+        # restrict state of cart to be within its limits without terminating the game
+        if x > self.x_threshold:
+            x = self.x_threshold
+        elif x < -self.x_threshold:
+            x = -self.x_threshold
+        elif x_dot > self.x_dot_threshold:
+            x_dot = self.x_dot_threshold
+        elif x_dot < -self.x_dot_threshold:
+            x_dot = -self.x_dot_threshold
+        elif theta_dot > self.theta_dot_threshold:
+            theta_dot = self.theta_dot_threshold
+        elif theta_dot < -self.theta_dot_threshold:
+            theta_dot = -self.theta_dot_threshold
+        
+
+        return np.array([x, x_dot, theta, theta_dot])
+
+
 
 
 
