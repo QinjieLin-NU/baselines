@@ -1,0 +1,3 @@
+[32m[0511 05:22:08 @logger.py:103][0m Log file set to /root/mbbl/log/mfrl-mfgym_pendulumppo_gym_pendulum_batch_5000_seed_1234.log/mfrl-mfgym_pendulumppo_gym_pendulum_batch_5000_seed_1234.log
+[32m[0511 05:22:08 @mf_main.py:19][0m Training starts at /root/mbbl
+[32m[0511 05:22:08 @base_worker.py:45][0m Worker 0 online
