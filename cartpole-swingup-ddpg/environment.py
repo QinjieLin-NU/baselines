@@ -16,6 +16,8 @@ from numpy.linalg import inv
 import torch
 from typing import NamedTuple
 # import config
+import os
+import pygame
 
 def angle_normalize(x):
     return ((x + np.pi) % (2 * np.pi)) - np.pi
@@ -306,6 +308,7 @@ class RobotArm(gym.Env):
         # self.true_params = torch.tensor([self.l1,self.m1,self.l2,self.m2]).to(config.device) #l1,m1,l2,m2 
         self.unwrapped.reward =  self.reward_func
         self.env_spec = EnvSpec(self.observation_space.shape[0], self.action_space.shape[0])
+        self.init_window()
 
 
     def dynamics_true(self,state,action):
@@ -377,5 +380,76 @@ class RobotArm(gym.Env):
                          self.wdq1 * cost_dq1 + self.wdq2 * cost_dq2 + self.wu * cost_u
         reward = -1 * path_cost
         return reward
+    
+    def init_window(self):
+        os.environ['SDL_AUDIODRIVER'] = 'dsp'
+        self.window_size = [600,600]
+        self.centre_window = [self.window_size[0]//2, self.window_size[1]//2]
+        self.set_link_properties([100,100])
+        self.viewer = None
 
+    def rotate_z(self, theta):
+        rz = np.array([[np.cos(theta), - np.sin(theta), 0, 0],
+                       [np.sin(theta), np.cos(theta), 0, 0],
+                       [0, 0, 1, 0],
+                       [0, 0, 0, 1]])
+        return rz
 
+    def translate(self, dx, dy, dz):
+        t = np.array([[1, 0, 0, dx],
+                      [0, 1, 0, dy],
+                      [0, 0, 1, dz],
+                      [0, 0, 0, 1]])
+        return t
+
+    def forward_kinematics(self, theta):
+        P = []
+        P.append(np.eye(4))
+        for i in range(0, self.n_links):
+            R = self.rotate_z(theta[i])
+            T = self.translate(self.links[i], 0, 0)
+            P.append(P[-1].dot(R).dot(T))
+        return P
+
+    def inverse_theta(self, theta):
+        new_theta = theta.copy()
+        for i in range(theta.shape[0]):
+            new_theta[i] = -1*theta[i]
+        return new_theta
+
+    def set_link_properties(self, links):
+        self.links = links
+        self.n_links = len(self.links)
+        self.min_theta = math.radians(0)
+        self.max_theta = math.radians(90)
+        self.max_length = sum(self.links)
+
+    def draw_arm(self, theta):
+        LINK_COLOR = (255, 255, 255)
+        JOINT_COLOR = (0, 0, 0)
+        TIP_COLOR = (0, 0, 255)
+        theta = self.inverse_theta(theta)
+        P = self.forward_kinematics(theta)
+        origin = np.eye(4)
+        origin_to_base = self.translate(self.centre_window[0],self.centre_window[1],0)
+        base = origin.dot(origin_to_base)
+        F_prev = base.copy()
+        for i in range(1, len(P)):
+            F_next = base.dot(P[i])
+            pygame.draw.line(self.screen, LINK_COLOR, (int(F_prev[0,3]), int(F_prev[1,3])), (int(F_next[0,3]), int(F_next[1,3])), 5)
+            pygame.draw.circle(self.screen, JOINT_COLOR, (int(F_prev[0,3]), int(F_prev[1,3])), 10)
+            F_prev = F_next.copy()
+        pygame.draw.circle(self.screen, TIP_COLOR, (int(F_next[0,3]), int(F_next[1,3])), 8)
+
+    def render(self, mode='human'):
+        SCREEN_COLOR = (50, 168, 52)
+        if self.viewer == None:
+            pygame.init()
+            pygame.display.set_caption("RobotArm-Env")
+            self.screen = pygame.display.set_mode(self.window_size)
+            self.clock = pygame.time.Clock()
+        self.screen.fill(SCREEN_COLOR)
+        theta = np.array([self.state[0],self.state[1]])
+        self.draw_arm(theta)
+        self.clock.tick(60)
+        pygame.display.flip()

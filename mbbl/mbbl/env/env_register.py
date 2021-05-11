@@ -187,6 +187,10 @@ _ENV_INFO.update({
         'path': 'mbbl.env.gym_env.swingup',
         'ob_size': 4, 'action_size': 1, 'max_length': 500
     },
+    'gym_robotarm': {
+        'path': 'mbbl.env.gym_env.robotarm',
+        'ob_size': 4, 'action_size': 2, 'max_length': 200
+    },
 })
 
 

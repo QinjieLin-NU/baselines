@@ -1,5 +1,5 @@
-# from environment import CartPoleSwingUpContinuousEnv, RobotArm
-# import numpy as np
+from environment import CartPoleSwingUpContinuousEnv, RobotArm
+import numpy as np
 
 # env = CartPoleSwingUpContinuousEnv()
 # env.reset()
@@ -12,21 +12,38 @@
 
 # env=RobotArm()
 # env.reset()
-# state, reward ,_,_ = env.step(np.array([1.,2.]))
+# for i in range(100):
+#     state, reward ,_,_ = env.step(np.array([1.,2.]))
+#     # env.render()
 # print(state,reward)
 
 
+# import gym
+# import numpy as np
+# env = gym.make("BaselineSwingUp-v0")
+# s0 = env.reset()
+# a0 = np.array([0.1])
+# s1,_r,_,_ = env.step(a0)
+# print(s1)
+# s2,_r,_,_ = env.step(a0)
+# print(s2)
+
+# s1_hat = env.np_dynamics(s0,a0)
+# print(s1_hat)
+# s2_hat = env.np_dynamics(s1_hat,a0)
+# print(s2_hat)
+
 import gym
 import numpy as np
-env = gym.make("BaselineSwingUp-v0")
+env = gym.make("BaselineRobotArm-v0")
 s0 = env.reset()
-a0 = np.array([0.1])
+a0 = np.array([0.1,0.2])
 s1,_r,_,_ = env.step(a0)
 print(s1)
 s2,_r,_,_ = env.step(a0)
 print(s2)
 
-s1_hat = env.np_dynamics(s0,a0)
+s1_hat = env.dynamics_true(s0,a0)
 print(s1_hat)
-s2_hat = env.np_dynamics(s1_hat,a0)
+s2_hat = env.dynamics_true(s1_hat,a0)
 print(s2_hat)
