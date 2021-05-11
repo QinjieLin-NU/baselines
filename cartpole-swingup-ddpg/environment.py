@@ -15,7 +15,7 @@ from math import *
 from numpy.linalg import inv
 import torch
 from typing import NamedTuple
-import config
+# import config
 
 def angle_normalize(x):
     return ((x + np.pi) % (2 * np.pi)) - np.pi
@@ -258,7 +258,7 @@ class RobotArm(gym.Env):
         self.x_goal = [pi / 2, 0, 0, 0]
         self.wq1, self.wq2, self.wdq1, self.wdq2, self.wu = 0.1, 0.1, 0.1, 0.1, 0.01
         self.l1,self.m1,self.l2,self.m2 = 1.0,1.0,1.0,1.0
-        self.true_params = torch.tensor([self.l1,self.m1,self.l2,self.m2]).to(config.device) #l1,m1,l2,m2 
+        # self.true_params = torch.tensor([self.l1,self.m1,self.l2,self.m2]).to(config.device) #l1,m1,l2,m2 
         self.unwrapped.reward =  self.reward_func
         self.env_spec = EnvSpec(self.observation_space.shape[0], self.action_space.shape[0])
 
