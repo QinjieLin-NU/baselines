@@ -1,0 +1,1271 @@
+[32m[0512 00:35:19 @logger.py:103][0m Log file set to /root/mbbl/log/mbmfrl-rsgym_robotarmmbmf_gym_robotarm_ppo_seed_2341.log/mbmfrl-rsgym_robotarmmbmf_gym_robotarm_ppo_seed_2341.log
+[32m[0512 00:35:19 @mbmf_main.py:23][0m Training starts at /root/mbbl
+[32m[0512 00:35:19 @base_worker.py:45][0m Worker 0 online
+[32m[0512 00:35:20 @base_worker.py:45][0m Worker 1 online
+[32m[0512 00:35:20 @base_worker.py:45][0m Worker 2 online
+[32m[0512 00:35:20 @base_worker.py:45][0m Worker 3 online
+[32m[0512 00:35:20 @base_worker.py:45][0m Worker 4 online
+[32m[0512 00:35:20 @base_worker.py:45][0m Worker 5 online
+[32m[0512 00:35:20 @base_worker.py:45][0m Worker 6 online
+[32m[0512 00:35:20 @base_worker.py:45][0m Worker 7 online
+[32m[0512 00:35:20 @base_worker.py:45][0m Worker 8 online
+[32m[0512 00:35:20 @base_worker.py:45][0m Worker 9 online
+[32m[0512 00:35:20 @base_worker.py:45][0m Worker 10 online
+[32m[0512 00:35:20 @base_worker.py:45][0m Worker 11 online
+[32m[0512 00:35:20 @base_worker.py:45][0m Worker 12 online
+[32m[0512 00:35:20 @base_worker.py:45][0m Worker 13 online
+[32m[0512 00:35:20 @base_worker.py:45][0m Worker 14 online
+[32m[0512 00:35:20 @base_worker.py:45][0m Worker 15 online
+[32m[0512 00:35:20 @base_worker.py:45][0m Worker 16 online
+[32m[0512 00:35:20 @base_worker.py:45][0m Worker 17 online
+[32m[0512 00:35:20 @base_worker.py:45][0m Worker 18 online
+[32m[0512 00:35:20 @base_worker.py:45][0m Worker 19 online
+[32m[0512 00:35:21 @base_trainer.py:152][0m Trainer maintains [1] policy network
+[32m[0512 00:35:21 @base_trainer.py:152][0m Trainer maintains [1] dynamics network
+[32m[0512 00:35:21 @base_trainer.py:152][0m Trainer maintains [1] reward network
+[32m[0512 00:35:22 @mbmf_main.py:46][0m Generating 1000 random timesteps
+[32m[0512 00:35:22 @mbmf_sampler.py:39][0m done with episode
+[32m[0512 00:35:22 @mbmf_sampler.py:39][0m done with episode
+[32m[0512 00:35:22 @mbmf_sampler.py:39][0m done with episode
+[32m[0512 00:35:22 @mbmf_sampler.py:39][0m done with episode
+[32m[0512 00:35:22 @mbmf_sampler.py:39][0m done with episode
+[32m[0512 00:35:22 @mbmf_sampler.py:50][0m 1005 timesteps from 5 episodes collected
+[32m[0512 00:35:22 @base_trainer.py:216][0m Mean reward: -383.27955395120006
+[32m[0512 00:35:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.9249225854873657, Train Loss: 1.1195629835128784
+[32m[0512 00:35:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.9249372482299805, Train Loss: 1.1195517778396606
+[32m[0512 00:35:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.9249519109725952, Train Loss: 1.1195405721664429
+[32m[0512 00:35:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.9249668717384338, Train Loss: 1.1195296049118042
+[32m[0512 00:35:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.9249820709228516, Train Loss: 1.119518756866455
+[32m[0512 00:35:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.9249973893165588, Train Loss: 1.1195080280303955
+[32m[0512 00:35:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.9250125885009766, Train Loss: 1.1194977760314941
+[32m[0512 00:35:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.9250282049179077, Train Loss: 1.1194874048233032
+[32m[0512 00:35:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.9250438213348389, Train Loss: 1.1194775104522705
+[32m[0512 00:35:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.9250596165657043, Train Loss: 1.1194677352905273
+[32m[0512 00:35:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.9250755906105042, Train Loss: 1.1194580793380737
+[32m[0512 00:35:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.9250916242599487, Train Loss: 1.1194489002227783
+[32m[0512 00:35:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.9251077175140381, Train Loss: 1.119439721107483
+[32m[0512 00:35:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.9251238703727722, Train Loss: 1.1194305419921875
+[32m[0512 00:35:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.9251402616500854, Train Loss: 1.1194218397140503
+[32m[0512 00:35:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.9251565933227539, Train Loss: 1.1194133758544922
+[32m[0512 00:35:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.9251730442047119, Train Loss: 1.119404911994934
+[32m[0512 00:35:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.9251894354820251, Train Loss: 1.119396686553955
+[32m[0512 00:35:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.9252060055732727, Train Loss: 1.1193888187408447
+[32m[0512 00:35:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.9252225160598755, Train Loss: 1.119381070137024
+[32m[0512 00:35:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.9252393245697021, Train Loss: 1.1193735599517822
+[32m[0512 00:35:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.9252558350563049, Train Loss: 1.1193662881851196
+[32m[0512 00:35:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.9252723455429077, Train Loss: 1.1193591356277466
+[32m[0512 00:35:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.9252889156341553, Train Loss: 1.1193522214889526
+[32m[0512 00:35:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.9253056049346924, Train Loss: 1.1193453073501587
+[32m[0512 00:35:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.9253221154212952, Train Loss: 1.1193389892578125
+[32m[0512 00:35:23 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.9253386855125427, Train Loss: 1.1193325519561768
+[32m[0512 00:35:23 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.9253551363945007, Train Loss: 1.1193265914916992
+[32m[0512 00:35:23 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.925371527671814, Train Loss: 1.1193203926086426
+[32m[0512 00:35:23 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.9253878593444824, Train Loss: 1.1193146705627441
+[32m[0512 00:35:23 @base_main.py:38][0m --------------- Iteration 1 ---------------
+[32m[0512 00:35:23 @base_main.py:44][0m Time elapsed for [** Program Total Time **] is 0.0000 mins
+[32m[0512 00:35:23 @base_main.py:44][0m Time elapsed for [Generate Rollout] is 0.0047 mins
+[32m[0512 00:35:23 @base_main.py:44][0m Time elapsed for [Train Weights] is 0.0119 mins
+[32m[0512 00:35:23 @base_main.py:44][0m Time elapsed for [Assign Weights] is 0.0032 mins
+[32m[0512 00:35:23 @base_main.py:47][0m 1005 total steps have happened
+[32m[0512 00:35:23 @base_main.py:52][0m [avg_reward]: -383.27955395120006
+[32m[0512 00:35:23 @base_main.py:52][0m [update_op]: None
+[32m[0512 00:35:23 @base_main.py:52][0m [train_loss]: 1.1193146705627441
+[32m[0512 00:35:23 @base_main.py:52][0m [val_loss]: 0.9253878593444824
+[32m[0512 00:35:23 @base_main.py:52][0m [avg_train_loss]: 1.1193146705627441
+[32m[0512 00:37:47 @mbmf_sampler.py:39][0m done with episode
+[32m[0512 00:40:09 @mbmf_sampler.py:39][0m done with episode
+[32m[0512 00:42:31 @mbmf_sampler.py:39][0m done with episode
+[32m[0512 00:44:53 @mbmf_sampler.py:39][0m done with episode
+[32m[0512 00:47:14 @mbmf_sampler.py:39][0m done with episode
+[32m[0512 00:47:14 @mbmf_sampler.py:50][0m 1005 timesteps from 5 episodes collected
+[32m[0512 00:47:14 @base_trainer.py:216][0m Mean reward: -359.0204279034786
+[32m[0512 00:47:14 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7561880350112915, Train Loss: 1.0874062776565552
+[32m[0512 00:47:14 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7561955451965332, Train Loss: 1.0874124765396118
+[32m[0512 00:47:15 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7561997771263123, Train Loss: 1.0874145030975342
+[32m[0512 00:47:15 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.756202220916748, Train Loss: 1.0874133110046387
+[32m[0512 00:47:15 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.756203293800354, Train Loss: 1.0874099731445312
+[32m[0512 00:47:15 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7562035918235779, Train Loss: 1.0874050855636597
+[32m[0512 00:47:15 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7562035322189331, Train Loss: 1.0873992443084717
+[32m[0512 00:47:15 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7562033534049988, Train Loss: 1.0873931646347046
+[32m[0512 00:47:15 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7562034130096436, Train Loss: 1.0873867273330688
+[32m[0512 00:47:15 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7562035322189331, Train Loss: 1.0873804092407227
+[32m[0512 00:47:15 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7562039494514465, Train Loss: 1.0873745679855347
+[32m[0512 00:47:15 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7562046647071838, Train Loss: 1.0873689651489258
+[32m[0512 00:47:15 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.756205677986145, Train Loss: 1.0873637199401855
+[32m[0512 00:47:15 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7562069296836853, Train Loss: 1.0873589515686035
+[32m[0512 00:47:15 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7562084197998047, Train Loss: 1.0873546600341797
+[32m[0512 00:47:15 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7562101483345032, Train Loss: 1.0873507261276245
+[32m[0512 00:47:15 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7562117576599121, Train Loss: 1.087347388267517
+[32m[0512 00:47:15 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7562136650085449, Train Loss: 1.0873440504074097
+[32m[0512 00:47:15 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7562156915664673, Train Loss: 1.0873414278030396
+[32m[0512 00:47:15 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7562175989151001, Train Loss: 1.087338924407959
+[32m[0512 00:47:15 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7562195658683777, Train Loss: 1.087336778640747
+[32m[0512 00:47:15 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7562215924263, Train Loss: 1.0873349905014038
+[32m[0512 00:47:15 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7562236189842224, Train Loss: 1.08733332157135
+[32m[0512 00:47:15 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7562254667282104, Train Loss: 1.087332010269165
+[32m[0512 00:47:15 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7562273144721985, Train Loss: 1.0873308181762695
+[32m[0512 00:47:15 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7562289237976074, Train Loss: 1.0873297452926636
+[32m[0512 00:47:15 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7562305927276611, Train Loss: 1.0873287916183472
+[32m[0512 00:47:16 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7562321424484253, Train Loss: 1.0873279571533203
+[32m[0512 00:47:16 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7562336325645447, Train Loss: 1.087327241897583
+[32m[0512 00:47:16 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7562350630760193, Train Loss: 1.0873266458511353
+[32m[0512 00:47:16 @base_main.py:38][0m --------------- Iteration 2 ---------------
+[32m[0512 00:47:16 @base_main.py:44][0m Time elapsed for [** Program Total Time **] is 0.0199 mins
+[32m[0512 00:47:16 @base_main.py:44][0m Time elapsed for [Generate Rollout] is 11.8604 mins
+[32m[0512 00:47:16 @base_main.py:44][0m Time elapsed for [Train Weights] is 0.0204 mins
+[32m[0512 00:47:16 @base_main.py:44][0m Time elapsed for [Assign Weights] is 0.0048 mins
+[32m[0512 00:47:16 @base_main.py:47][0m 2010 total steps have happened
+[32m[0512 00:47:16 @base_main.py:52][0m [avg_reward]: -359.0204279034786
+[32m[0512 00:47:16 @base_main.py:52][0m [update_op]: None
+[32m[0512 00:47:16 @base_main.py:52][0m [train_loss]: 1.2353196144104004
+[32m[0512 00:47:16 @base_main.py:52][0m [val_loss]: 0.7562350630760193
+[32m[0512 00:47:16 @base_main.py:52][0m [avg_train_loss]: 1.0873266458511353
+[32m[0512 00:49:38 @mbmf_sampler.py:39][0m done with episode
+[32m[0512 00:52:00 @mbmf_sampler.py:39][0m done with episode
+[32m[0512 00:54:21 @mbmf_sampler.py:39][0m done with episode
+[32m[0512 00:56:42 @mbmf_sampler.py:39][0m done with episode
+[32m[0512 00:59:04 @mbmf_sampler.py:39][0m done with episode
+[32m[0512 00:59:04 @mbmf_sampler.py:50][0m 1005 timesteps from 5 episodes collected
+[32m[0512 00:59:04 @base_trainer.py:216][0m Mean reward: -307.8521165389804
+[32m[0512 00:59:04 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.6279796361923218, Train Loss: 1.0359923839569092
+[32m[0512 00:59:04 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.6279830932617188, Train Loss: 1.03599214553833
+[32m[0512 00:59:04 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.6279898285865784, Train Loss: 1.0359907150268555
+[32m[0512 00:59:04 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.6279983520507812, Train Loss: 1.035988688468933
+[32m[0512 00:59:04 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.6280079483985901, Train Loss: 1.0359866619110107
+[32m[0512 00:59:04 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.6280174851417542, Train Loss: 1.035984754562378
+[32m[0512 00:59:04 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.6280268430709839, Train Loss: 1.0359828472137451
+[32m[0512 00:59:04 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.6280356049537659, Train Loss: 1.035981297492981
+[32m[0512 00:59:04 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.6280438303947449, Train Loss: 1.035979986190796
+[32m[0512 00:59:04 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.6280513405799866, Train Loss: 1.0359787940979004
+[32m[0512 00:59:05 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.6280583143234253, Train Loss: 1.0359779596328735
+[32m[0512 00:59:05 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.6280644536018372, Train Loss: 1.0359772443771362
+[32m[0512 00:59:05 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.628070056438446, Train Loss: 1.0359766483306885
+[32m[0512 00:59:05 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.6280750632286072, Train Loss: 1.0359762907028198
+[32m[0512 00:59:05 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.6280795931816101, Train Loss: 1.035975694656372
+[32m[0512 00:59:05 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.6280835866928101, Train Loss: 1.0359755754470825
+[32m[0512 00:59:05 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.6280871629714966, Train Loss: 1.0359752178192139
+[32m[0512 00:59:05 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.6280903220176697, Train Loss: 1.0359750986099243
+[32m[0512 00:59:05 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.6280932426452637, Train Loss: 1.0359747409820557
+[32m[0512 00:59:05 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.628095805644989, Train Loss: 1.0359747409820557
+[32m[0512 00:59:05 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.6280980706214905, Train Loss: 1.0359746217727661
+[32m[0512 00:59:05 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.6281000971794128, Train Loss: 1.0359746217727661
+[32m[0512 00:59:05 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.6281018853187561, Train Loss: 1.0359745025634766
+[32m[0512 00:59:05 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.6281035542488098, Train Loss: 1.0359742641448975
+[32m[0512 00:59:05 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.6281050443649292, Train Loss: 1.0359742641448975
+[32m[0512 00:59:05 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.6281063556671143, Train Loss: 1.0359742641448975
+[32m[0512 00:59:06 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.6281075477600098, Train Loss: 1.0359742641448975
+[32m[0512 00:59:06 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.6281086206436157, Train Loss: 1.0359742641448975
+[32m[0512 00:59:06 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.6281095743179321, Train Loss: 1.0359742641448975
+[32m[0512 00:59:06 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.6281104683876038, Train Loss: 1.0359742641448975
+[32m[0512 00:59:06 @base_main.py:38][0m --------------- Iteration 3 ---------------
+[32m[0512 00:59:06 @base_main.py:44][0m Time elapsed for [** Program Total Time **] is 11.9056 mins
+[32m[0512 00:59:06 @base_main.py:44][0m Time elapsed for [Generate Rollout] is 11.7989 mins
+[32m[0512 00:59:06 @base_main.py:44][0m Time elapsed for [Train Weights] is 0.0310 mins
+[32m[0512 00:59:06 @base_main.py:44][0m Time elapsed for [Assign Weights] is 0.0045 mins
+[32m[0512 00:59:06 @base_main.py:47][0m 3015 total steps have happened
+[32m[0512 00:59:06 @base_main.py:52][0m [avg_reward]: -307.8521165389804
+[32m[0512 00:59:06 @base_main.py:52][0m [update_op]: None
+[32m[0512 00:59:06 @base_main.py:52][0m [train_loss]: 0.9714107513427734
+[32m[0512 00:59:06 @base_main.py:52][0m [val_loss]: 0.6281104683876038
+[32m[0512 00:59:06 @base_main.py:52][0m [avg_train_loss]: 1.0359742641448975
+[32m[0512 01:01:27 @mbmf_sampler.py:39][0m done with episode
+[32m[0512 01:03:48 @mbmf_sampler.py:39][0m done with episode
+[32m[0512 01:06:09 @mbmf_sampler.py:39][0m done with episode
+[32m[0512 01:08:30 @mbmf_sampler.py:39][0m done with episode
+[32m[0512 01:10:51 @mbmf_sampler.py:39][0m done with episode
+[32m[0512 01:10:51 @mbmf_sampler.py:50][0m 1005 timesteps from 5 episodes collected
+[32m[0512 01:10:51 @base_trainer.py:216][0m Mean reward: -236.93803259117848
+[32m[0512 01:10:51 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5245884656906128, Train Loss: 1.0810617208480835
+[32m[0512 01:10:51 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5246230363845825, Train Loss: 1.0810543298721313
+[32m[0512 01:10:51 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5246621370315552, Train Loss: 1.081045389175415
+[32m[0512 01:10:51 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.524701714515686, Train Loss: 1.081036925315857
+[32m[0512 01:10:51 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.524739682674408, Train Loss: 1.0810296535491943
+[32m[0512 01:10:51 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5247750282287598, Train Loss: 1.0810236930847168
+[32m[0512 01:10:51 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5248073935508728, Train Loss: 1.0810190439224243
+[32m[0512 01:10:51 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5248365998268127, Train Loss: 1.0810153484344482
+[32m[0512 01:10:51 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5248627662658691, Train Loss: 1.081012487411499
+[32m[0512 01:10:51 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5248859524726868, Train Loss: 1.0810104608535767
+[32m[0512 01:10:51 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5249065160751343, Train Loss: 1.0810086727142334
+[32m[0512 01:10:52 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5249248147010803, Train Loss: 1.0810073614120483
+[32m[0512 01:10:52 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5249408483505249, Train Loss: 1.0810065269470215
+[32m[0512 01:10:52 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5249549150466919, Train Loss: 1.0810058116912842
+[32m[0512 01:10:52 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.52496737241745, Train Loss: 1.0810052156448364
+[32m[0512 01:10:52 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5249783396720886, Train Loss: 1.0810047388076782
+[32m[0512 01:10:52 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5249878764152527, Train Loss: 1.0810043811798096
+[32m[0512 01:10:52 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5249962210655212, Train Loss: 1.0810041427612305
+[32m[0512 01:10:52 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5250034928321838, Train Loss: 1.081004023551941
+[32m[0512 01:10:52 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5250098705291748, Train Loss: 1.0810037851333618
+[32m[0512 01:10:52 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5250153541564941, Train Loss: 1.0810037851333618
+[32m[0512 01:10:52 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5250202417373657, Train Loss: 1.0810037851333618
+[32m[0512 01:10:52 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5250244140625, Train Loss: 1.0810037851333618
+[32m[0512 01:10:53 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5250280499458313, Train Loss: 1.0810035467147827
+[32m[0512 01:10:53 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5250312089920044, Train Loss: 1.0810034275054932
+[32m[0512 01:10:53 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5250338912010193, Train Loss: 1.0810034275054932
+[32m[0512 01:10:53 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5250362753868103, Train Loss: 1.0810035467147827
+[32m[0512 01:10:53 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5250383615493774, Train Loss: 1.0810034275054932
+[32m[0512 01:10:53 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5250400900840759, Train Loss: 1.0810034275054932
+[32m[0512 01:10:53 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5250415802001953, Train Loss: 1.0810034275054932
+[32m[0512 01:10:53 @base_main.py:38][0m --------------- Iteration 4 ---------------
+[32m[0512 01:10:53 @base_main.py:44][0m Time elapsed for [** Program Total Time **] is 23.7401 mins
+[32m[0512 01:10:53 @base_main.py:44][0m Time elapsed for [Generate Rollout] is 11.7425 mins
+[32m[0512 01:10:53 @base_main.py:44][0m Time elapsed for [Train Weights] is 0.0432 mins
+[32m[0512 01:10:53 @base_main.py:44][0m Time elapsed for [Assign Weights] is 0.0045 mins
+[32m[0512 01:10:53 @base_main.py:47][0m 4020 total steps have happened
+[32m[0512 01:10:53 @base_main.py:52][0m [avg_reward]: -236.93803259117848
+[32m[0512 01:10:53 @base_main.py:52][0m [update_op]: None
+[32m[0512 01:10:53 @base_main.py:52][0m [train_loss]: 1.2076445817947388
+[32m[0512 01:10:53 @base_main.py:52][0m [val_loss]: 0.5250415802001953
+[32m[0512 01:10:53 @base_main.py:52][0m [avg_train_loss]: 1.0810034275054932
+[32m[0512 01:13:14 @mbmf_sampler.py:39][0m done with episode
+[32m[0512 01:15:35 @mbmf_sampler.py:39][0m done with episode
+[32m[0512 01:17:56 @mbmf_sampler.py:39][0m done with episode
+[32m[0512 01:20:17 @mbmf_sampler.py:39][0m done with episode
+[32m[0512 01:22:38 @mbmf_sampler.py:39][0m done with episode
+[32m[0512 01:22:38 @mbmf_sampler.py:50][0m 1005 timesteps from 5 episodes collected
+[32m[0512 01:22:38 @base_trainer.py:216][0m Mean reward: -298.79319770378356
+[32m[0512 01:22:38 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7342513203620911, Train Loss: 1.0405497550964355
+[32m[0512 01:22:38 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7342556715011597, Train Loss: 1.040546178817749
+[32m[0512 01:22:39 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7342584133148193, Train Loss: 1.0405421257019043
+[32m[0512 01:22:39 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7342602014541626, Train Loss: 1.0405389070510864
+[32m[0512 01:22:39 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7342613339424133, Train Loss: 1.0405365228652954
+[32m[0512 01:22:39 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.734261691570282, Train Loss: 1.0405352115631104
+[32m[0512 01:22:39 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7342615723609924, Train Loss: 1.0405341386795044
+[32m[0512 01:22:39 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7342612147331238, Train Loss: 1.0405336618423462
+[32m[0512 01:22:39 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.734260618686676, Train Loss: 1.0405333042144775
+[32m[0512 01:22:39 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7342599630355835, Train Loss: 1.0405330657958984
+[32m[0512 01:22:39 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.734259307384491, Train Loss: 1.0405328273773193
+[32m[0512 01:22:39 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7342587113380432, Train Loss: 1.0405327081680298
+[32m[0512 01:22:40 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.734258234500885, Train Loss: 1.0405328273773193
+[32m[0512 01:22:40 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7342577576637268, Train Loss: 1.0405328273773193
+[32m[0512 01:22:40 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7342572808265686, Train Loss: 1.0405328273773193
+[32m[0512 01:22:40 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7342571020126343, Train Loss: 1.0405328273773193
+[32m[0512 01:22:40 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7342568635940552, Train Loss: 1.0405325889587402
+[32m[0512 01:22:40 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7342565655708313, Train Loss: 1.0405327081680298
+[32m[0512 01:22:40 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7342563271522522, Train Loss: 1.0405327081680298
+[32m[0512 01:22:40 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7342562079429626, Train Loss: 1.0405327081680298
+[32m[0512 01:22:40 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7342561483383179, Train Loss: 1.0405327081680298
+[32m[0512 01:22:41 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7342559695243835, Train Loss: 1.0405328273773193
+[32m[0512 01:22:41 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7342559099197388, Train Loss: 1.0405327081680298
+[32m[0512 01:22:41 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7342559099197388, Train Loss: 1.0405327081680298
+[32m[0512 01:22:41 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.734255850315094, Train Loss: 1.0405327081680298
+[32m[0512 01:22:41 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7342557907104492, Train Loss: 1.0405327081680298
+[32m[0512 01:22:41 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.734255850315094, Train Loss: 1.0405327081680298
+[32m[0512 01:22:41 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7342557311058044, Train Loss: 1.0405328273773193
+[32m[0512 01:22:41 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7342557907104492, Train Loss: 1.0405328273773193
+[32m[0512 01:22:41 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.7342557907104492, Train Loss: 1.0405328273773193
+[32m[0512 01:22:42 @base_main.py:38][0m --------------- Iteration 5 ---------------
+[32m[0512 01:22:42 @base_main.py:44][0m Time elapsed for [** Program Total Time **] is 35.5303 mins
+[32m[0512 01:22:42 @base_main.py:44][0m Time elapsed for [Generate Rollout] is 11.7459 mins
+[32m[0512 01:22:42 @base_main.py:44][0m Time elapsed for [Train Weights] is 0.0538 mins
+[32m[0512 01:22:42 @base_main.py:44][0m Time elapsed for [Assign Weights] is 0.0042 mins
+[32m[0512 01:22:42 @base_main.py:47][0m 5025 total steps have happened
+[32m[0512 01:22:42 @base_main.py:52][0m [avg_reward]: -298.79319770378356
+[32m[0512 01:22:42 @base_main.py:52][0m [update_op]: None
+[32m[0512 01:22:42 @base_main.py:52][0m [train_loss]: 0.6604456901550293
+[32m[0512 01:22:42 @base_main.py:52][0m [val_loss]: 0.7342557907104492
+[32m[0512 01:22:42 @base_main.py:52][0m [avg_train_loss]: 1.0405328273773193
+[32m[0512 01:25:03 @mbmf_sampler.py:39][0m done with episode
+[32m[0512 01:27:24 @mbmf_sampler.py:39][0m done with episode
+[32m[0512 01:29:45 @mbmf_sampler.py:39][0m done with episode
+[32m[0512 01:32:06 @mbmf_sampler.py:39][0m done with episode
+[32m[0512 01:34:28 @mbmf_sampler.py:39][0m done with episode
+[32m[0512 01:34:28 @mbmf_sampler.py:50][0m 1005 timesteps from 5 episodes collected
+[32m[0512 01:34:28 @base_trainer.py:216][0m Mean reward: -297.2606565498907
+[32m[0512 01:34:28 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0030477046966553, Train Loss: 0.999498188495636
+[32m[0512 01:34:28 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0031248331069946, Train Loss: 0.9994944930076599
+[32m[0512 01:34:28 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0032002925872803, Train Loss: 0.9994909763336182
+[32m[0512 01:34:28 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0032644271850586, Train Loss: 0.9994884133338928
+[32m[0512 01:34:28 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0033164024353027, Train Loss: 0.9994867444038391
+[32m[0512 01:34:28 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.003357172012329, Train Loss: 0.9994857311248779
+[32m[0512 01:34:29 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.00338876247406, Train Loss: 0.9994853734970093
+[32m[0512 01:34:29 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0034130811691284, Train Loss: 0.9994849562644958
+[32m[0512 01:34:29 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.003431797027588, Train Loss: 0.9994848370552063
+[32m[0512 01:34:29 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0034462213516235, Train Loss: 0.9994844794273376
+[32m[0512 01:34:29 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0034571886062622, Train Loss: 0.9994845986366272
+[32m[0512 01:34:29 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0034658908843994, Train Loss: 0.9994845986366272
+[32m[0512 01:34:29 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0034726858139038, Train Loss: 0.9994844794273376
+[32m[0512 01:34:29 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0034778118133545, Train Loss: 0.9994844794273376
+[32m[0512 01:34:30 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0034818649291992, Train Loss: 0.9994844794273376
+[32m[0512 01:34:30 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0034849643707275, Train Loss: 0.9994845986366272
+[32m[0512 01:34:30 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0034873485565186, Train Loss: 0.9994844794273376
+[32m[0512 01:34:30 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.003489375114441, Train Loss: 0.9994845986366272
+[32m[0512 01:34:30 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.003490686416626, Train Loss: 0.9994844794273376
+[32m[0512 01:34:30 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.003491997718811, Train Loss: 0.9994845986366272
+[32m[0512 01:34:30 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0034929513931274, Train Loss: 0.9994844794273376
+[32m[0512 01:34:30 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0034936666488647, Train Loss: 0.9994844794273376
+[32m[0512 01:34:31 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0034942626953125, Train Loss: 0.9994844198226929
+[32m[0512 01:34:31 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0034947395324707, Train Loss: 0.9994845986366272
+[32m[0512 01:34:31 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0034950971603394, Train Loss: 0.9994844794273376
+[32m[0512 01:34:31 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.003495454788208, Train Loss: 0.9994844794273376
+[32m[0512 01:34:31 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.003495693206787, Train Loss: 0.9994844198226929
+[32m[0512 01:34:31 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0034959316253662, Train Loss: 0.9994844794273376
+[32m[0512 01:34:31 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0034959316253662, Train Loss: 0.9994844794273376
+[32m[0512 01:34:31 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0034961700439453, Train Loss: 0.9994844794273376
+[32m[0512 01:34:32 @base_main.py:38][0m --------------- Iteration 6 ---------------
+[32m[0512 01:34:32 @base_main.py:44][0m Time elapsed for [** Program Total Time **] is 47.3343 mins
+[32m[0512 01:34:32 @base_main.py:44][0m Time elapsed for [Generate Rollout] is 11.7676 mins
+[32m[0512 01:34:32 @base_main.py:44][0m Time elapsed for [Train Weights] is 0.0635 mins
+[32m[0512 01:34:32 @base_main.py:44][0m Time elapsed for [Assign Weights] is 0.0050 mins
+[32m[0512 01:34:32 @base_main.py:47][0m 6030 total steps have happened
+[32m[0512 01:34:32 @base_main.py:52][0m [avg_reward]: -297.2606565498907
+[32m[0512 01:34:32 @base_main.py:52][0m [update_op]: None
+[32m[0512 01:34:32 @base_main.py:52][0m [train_loss]: 0.8188359141349792
+[32m[0512 01:34:32 @base_main.py:52][0m [val_loss]: 1.0034961700439453
+[32m[0512 01:34:32 @base_main.py:52][0m [avg_train_loss]: 0.9994844794273376
+[32m[0512 01:36:54 @mbmf_sampler.py:39][0m done with episode
+[32m[0512 01:39:16 @mbmf_sampler.py:39][0m done with episode
+[32m[0512 01:41:38 @mbmf_sampler.py:39][0m done with episode
+[32m[0512 01:44:00 @mbmf_sampler.py:39][0m done with episode
+[32m[0512 01:46:21 @mbmf_sampler.py:39][0m done with episode
+[32m[0512 01:46:21 @mbmf_sampler.py:50][0m 1005 timesteps from 5 episodes collected
+[32m[0512 01:46:21 @base_trainer.py:216][0m Mean reward: -193.08359199065478
+[32m[0512 01:46:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.40292805433273315, Train Loss: 1.0130871534347534
+[32m[0512 01:46:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.40300947427749634, Train Loss: 1.013080358505249
+[32m[0512 01:46:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.40307995676994324, Train Loss: 1.0130738019943237
+[32m[0512 01:46:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.4031355381011963, Train Loss: 1.0130691528320312
+[32m[0512 01:46:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.40317782759666443, Train Loss: 1.013066053390503
+[32m[0512 01:46:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.4032096862792969, Train Loss: 1.0130642652511597
+[32m[0512 01:46:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.40323328971862793, Train Loss: 1.0130629539489746
+[32m[0512 01:46:23 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.4032510221004486, Train Loss: 1.0130621194839478
+[32m[0512 01:46:23 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.40326425433158875, Train Loss: 1.0130616426467896
+[32m[0512 01:46:23 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.40327420830726624, Train Loss: 1.013061285018921
+[32m[0512 01:46:23 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.40328168869018555, Train Loss: 1.0130610466003418
+[32m[0512 01:46:23 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.4032873511314392, Train Loss: 1.0130608081817627
+[32m[0512 01:46:23 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.40329164266586304, Train Loss: 1.0130606889724731
+[32m[0512 01:46:23 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.4032949209213257, Train Loss: 1.0130606889724731
+[32m[0512 01:46:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.40329739451408386, Train Loss: 1.0130606889724731
+[32m[0512 01:46:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.40329939126968384, Train Loss: 1.013060450553894
+[32m[0512 01:46:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.40330085158348083, Train Loss: 1.013060450553894
+[32m[0512 01:46:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.40330201387405396, Train Loss: 1.013060450553894
+[32m[0512 01:46:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.4033028781414032, Train Loss: 1.013060450553894
+[32m[0512 01:46:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.4033036231994629, Train Loss: 1.013060450553894
+[32m[0512 01:46:25 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.4033041298389435, Train Loss: 1.013060450553894
+[32m[0512 01:46:25 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.4033046066761017, Train Loss: 1.0130603313446045
+[32m[0512 01:46:25 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.40330490469932556, Train Loss: 1.013060450553894
+[32m[0512 01:46:25 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.40330520272254944, Train Loss: 1.0130603313446045
+[32m[0512 01:46:25 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.40330541133880615, Train Loss: 1.0130603313446045
+[32m[0512 01:46:25 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.4033055603504181, Train Loss: 1.0130603313446045
+[32m[0512 01:46:25 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.40330570936203003, Train Loss: 1.0130603313446045
+[32m[0512 01:46:26 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.4033058285713196, Train Loss: 1.0130603313446045
+[32m[0512 01:46:26 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.40330591797828674, Train Loss: 1.0130603313446045
+[32m[0512 01:46:26 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.4033059775829315, Train Loss: 1.0130603313446045
+[32m[0512 01:46:26 @base_main.py:38][0m --------------- Iteration 7 ---------------
+[32m[0512 01:46:26 @base_main.py:44][0m Time elapsed for [** Program Total Time **] is 59.1705 mins
+[32m[0512 01:46:26 @base_main.py:44][0m Time elapsed for [Generate Rollout] is 11.8266 mins
+[32m[0512 01:46:26 @base_main.py:44][0m Time elapsed for [Train Weights] is 0.0750 mins
+[32m[0512 01:46:26 @base_main.py:44][0m Time elapsed for [Assign Weights] is 0.0044 mins
+[32m[0512 01:46:26 @base_main.py:47][0m 7035 total steps have happened
+[32m[0512 01:46:26 @base_main.py:52][0m [avg_reward]: -193.08359199065478
+[32m[0512 01:46:26 @base_main.py:52][0m [update_op]: None
+[32m[0512 01:46:26 @base_main.py:52][0m [train_loss]: 0.55881667137146
+[32m[0512 01:46:26 @base_main.py:52][0m [val_loss]: 0.4033059775829315
+[32m[0512 01:46:26 @base_main.py:52][0m [avg_train_loss]: 1.0130603313446045
+[32m[0512 01:46:26 @mbmf_trainer.py:160][0m Mean reward: -296.60393960416667
+[32m[0512 01:46:26 @mbmf_policy.py:81][0m [dynamics at epoch 0]: Val Loss: 0.23060694336891174, Train Loss: 0.22685937583446503
+[32m[0512 01:46:26 @mbmf_policy.py:81][0m [dynamics at epoch 1]: Val Loss: 0.2306666076183319, Train Loss: 0.22672557830810547
+[32m[0512 01:46:26 @mbmf_policy.py:81][0m [dynamics at epoch 2]: Val Loss: 0.23074886202812195, Train Loss: 0.22668898105621338
+[32m[0512 01:46:26 @mbmf_policy.py:81][0m [dynamics at epoch 3]: Val Loss: 0.23080448806285858, Train Loss: 0.22667847573757172
+[32m[0512 01:46:26 @mbmf_policy.py:81][0m [dynamics at epoch 4]: Val Loss: 0.2308306246995926, Train Loss: 0.2266734093427658
+[32m[0512 01:46:26 @mbmf_policy.py:81][0m [dynamics at epoch 5]: Val Loss: 0.23083928227424622, Train Loss: 0.2266675978899002
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 6]: Val Loss: 0.23084084689617157, Train Loss: 0.2266608476638794
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 7]: Val Loss: 0.2308405339717865, Train Loss: 0.22665376961231232
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 8]: Val Loss: 0.2308400571346283, Train Loss: 0.22664673626422882
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 9]: Val Loss: 0.2308395653963089, Train Loss: 0.22663991153240204
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 10]: Val Loss: 0.230838805437088, Train Loss: 0.22663332521915436
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 11]: Val Loss: 0.23083767294883728, Train Loss: 0.22662697732448578
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 12]: Val Loss: 0.23083633184432983, Train Loss: 0.22662073373794556
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 13]: Val Loss: 0.23083467781543732, Train Loss: 0.22661471366882324
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 14]: Val Loss: 0.23083285987377167, Train Loss: 0.22660879790782928
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 15]: Val Loss: 0.23083087801933289, Train Loss: 0.22660298645496368
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 16]: Val Loss: 0.23082874715328217, Train Loss: 0.22659732401371002
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 17]: Val Loss: 0.2308264672756195, Train Loss: 0.22659175097942352
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 18]: Val Loss: 0.2308240681886673, Train Loss: 0.2265862673521042
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 19]: Val Loss: 0.23082150518894196, Train Loss: 0.22658085823059082
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 20]: Val Loss: 0.23081885278224945, Train Loss: 0.2265755534172058
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 21]: Val Loss: 0.230816051363945, Train Loss: 0.22657032310962677
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 22]: Val Loss: 0.230813130736351, Train Loss: 0.2265651375055313
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 23]: Val Loss: 0.23081010580062866, Train Loss: 0.22655999660491943
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 24]: Val Loss: 0.23080700635910034, Train Loss: 0.22655493021011353
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 25]: Val Loss: 0.23080377280712128, Train Loss: 0.2265499085187912
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 26]: Val Loss: 0.23080046474933624, Train Loss: 0.22654493153095245
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 27]: Val Loss: 0.23079708218574524, Train Loss: 0.2265399843454361
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 28]: Val Loss: 0.23079364001750946, Train Loss: 0.22653506696224213
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 29]: Val Loss: 0.2307901233434677, Train Loss: 0.22653019428253174
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 30]: Val Loss: 0.23078656196594238, Train Loss: 0.22652536630630493
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 31]: Val Loss: 0.23078295588493347, Train Loss: 0.22652053833007812
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 32]: Val Loss: 0.2307792603969574, Train Loss: 0.2265157252550125
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 33]: Val Loss: 0.2307755947113037, Train Loss: 0.2265109270811081
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 34]: Val Loss: 0.23077186942100525, Train Loss: 0.22650618851184845
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 35]: Val Loss: 0.230768084526062, Train Loss: 0.22650142014026642
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 36]: Val Loss: 0.23076432943344116, Train Loss: 0.22649668157100677
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 37]: Val Loss: 0.23076052963733673, Train Loss: 0.2264919877052307
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 38]: Val Loss: 0.2307567298412323, Train Loss: 0.22648727893829346
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 39]: Val Loss: 0.23075293004512787, Train Loss: 0.2264825850725174
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 40]: Val Loss: 0.23074917495250702, Train Loss: 0.22647787630558014
+[32m[0512 01:46:27 @mbmf_policy.py:81][0m [dynamics at epoch 41]: Val Loss: 0.23074539005756378, Train Loss: 0.22647321224212646
+[32m[0512 01:46:28 @mbmf_policy.py:81][0m [dynamics at epoch 42]: Val Loss: 0.23074160516262054, Train Loss: 0.2264685481786728
+[32m[0512 01:46:28 @mbmf_policy.py:81][0m [dynamics at epoch 43]: Val Loss: 0.2307378351688385, Train Loss: 0.22646383941173553
+[32m[0512 01:46:28 @mbmf_policy.py:81][0m [dynamics at epoch 44]: Val Loss: 0.23073409497737885, Train Loss: 0.22645919024944305
+[32m[0512 01:46:28 @mbmf_policy.py:81][0m [dynamics at epoch 45]: Val Loss: 0.23073039948940277, Train Loss: 0.22645451128482819
+[32m[0512 01:46:28 @mbmf_policy.py:81][0m [dynamics at epoch 46]: Val Loss: 0.2307266891002655, Train Loss: 0.22644980251789093
+[32m[0512 01:46:28 @mbmf_policy.py:81][0m [dynamics at epoch 47]: Val Loss: 0.23072302341461182, Train Loss: 0.22644515335559845
+[32m[0512 01:46:28 @mbmf_policy.py:81][0m [dynamics at epoch 48]: Val Loss: 0.2307194024324417, Train Loss: 0.22644053399562836
+[32m[0512 01:46:28 @mbmf_policy.py:81][0m [dynamics at epoch 49]: Val Loss: 0.2307157814502716, Train Loss: 0.2264358401298523
+[32m[0512 01:46:28 @mbmf_policy.py:81][0m [dynamics at epoch 50]: Val Loss: 0.23071222007274628, Train Loss: 0.22643113136291504
+[32m[0512 01:46:28 @mbmf_policy.py:81][0m [dynamics at epoch 51]: Val Loss: 0.23070865869522095, Train Loss: 0.22642648220062256
+[32m[0512 01:46:28 @mbmf_policy.py:81][0m [dynamics at epoch 52]: Val Loss: 0.23070518672466278, Train Loss: 0.2264217883348465
+[32m[0512 01:46:28 @mbmf_policy.py:81][0m [dynamics at epoch 53]: Val Loss: 0.2307017296552658, Train Loss: 0.22641712427139282
+[32m[0512 01:46:28 @mbmf_policy.py:81][0m [dynamics at epoch 54]: Val Loss: 0.2306983321905136, Train Loss: 0.22641241550445557
+[32m[0512 01:46:28 @mbmf_policy.py:81][0m [dynamics at epoch 55]: Val Loss: 0.23069491982460022, Train Loss: 0.2264077067375183
+[32m[0512 01:46:28 @mbmf_policy.py:81][0m [dynamics at epoch 56]: Val Loss: 0.230691596865654, Train Loss: 0.22640301287174225
+[32m[0512 01:46:28 @mbmf_policy.py:81][0m [dynamics at epoch 57]: Val Loss: 0.23068834841251373, Train Loss: 0.2263982892036438
+[32m[0512 01:46:28 @mbmf_policy.py:81][0m [dynamics at epoch 58]: Val Loss: 0.23068511486053467, Train Loss: 0.22639358043670654
+[32m[0512 01:46:28 @mbmf_policy.py:81][0m [dynamics at epoch 59]: Val Loss: 0.230681911110878, Train Loss: 0.2263888567686081
+[32m[0512 01:46:28 @mbmf_policy.py:81][0m [dynamics at epoch 60]: Val Loss: 0.23067881166934967, Train Loss: 0.22638408839702606
+[32m[0512 01:46:28 @mbmf_policy.py:81][0m [dynamics at epoch 61]: Val Loss: 0.23067568242549896, Train Loss: 0.22637934982776642
+[32m[0512 01:46:28 @mbmf_policy.py:81][0m [dynamics at epoch 62]: Val Loss: 0.2306727170944214, Train Loss: 0.2263745814561844
+[32m[0512 01:46:28 @mbmf_policy.py:81][0m [dynamics at epoch 63]: Val Loss: 0.23066973686218262, Train Loss: 0.22636979818344116
+[32m[0512 01:46:28 @mbmf_policy.py:81][0m [dynamics at epoch 64]: Val Loss: 0.23066677153110504, Train Loss: 0.22636501491069794
+[32m[0512 01:46:28 @mbmf_policy.py:81][0m [dynamics at epoch 65]: Val Loss: 0.23066389560699463, Train Loss: 0.22636021673679352
+[32m[0512 01:46:28 @mbmf_policy.py:81][0m [dynamics at epoch 66]: Val Loss: 0.23066110908985138, Train Loss: 0.2263553887605667
+[32m[0512 01:46:28 @mbmf_policy.py:81][0m [dynamics at epoch 67]: Val Loss: 0.23065832257270813, Train Loss: 0.2263505458831787
+[32m[0512 01:46:28 @mbmf_policy.py:81][0m [dynamics at epoch 68]: Val Loss: 0.23065562546253204, Train Loss: 0.2263457030057907
+[32m[0512 01:46:28 @mbmf_policy.py:81][0m [dynamics at epoch 69]: Val Loss: 0.23065295815467834, Train Loss: 0.22634084522724152
+[32m[0512 01:46:28 @mbmf_policy.py:81][0m [dynamics at epoch 70]: Val Loss: 0.23065035045146942, Train Loss: 0.22633598744869232
+[32m[0512 01:46:28 @mbmf_policy.py:81][0m [dynamics at epoch 71]: Val Loss: 0.23064786195755005, Train Loss: 0.22633105516433716
+[32m[0512 01:46:28 @mbmf_policy.py:81][0m [dynamics at epoch 72]: Val Loss: 0.2306453287601471, Train Loss: 0.22632616758346558
+[32m[0512 01:46:28 @mbmf_policy.py:81][0m [dynamics at epoch 73]: Val Loss: 0.2306428849697113, Train Loss: 0.22632122039794922
+[32m[0512 01:46:28 @mbmf_policy.py:81][0m [dynamics at epoch 74]: Val Loss: 0.23064053058624268, Train Loss: 0.22631628811359406
+[32m[0512 01:46:28 @mbmf_policy.py:81][0m [dynamics at epoch 75]: Val Loss: 0.23063820600509644, Train Loss: 0.22631137073040009
+[32m[0512 01:46:29 @mbmf_policy.py:81][0m [dynamics at epoch 76]: Val Loss: 0.23063597083091736, Train Loss: 0.22630633413791656
+[32m[0512 01:46:29 @mbmf_policy.py:81][0m [dynamics at epoch 77]: Val Loss: 0.23063375055789948, Train Loss: 0.22630132734775543
+[32m[0512 01:46:29 @mbmf_policy.py:81][0m [dynamics at epoch 78]: Val Loss: 0.23063160479068756, Train Loss: 0.2262963503599167
+[32m[0512 01:46:29 @mbmf_policy.py:81][0m [dynamics at epoch 79]: Val Loss: 0.23062951862812042, Train Loss: 0.22629129886627197
+[32m[0512 01:46:29 @mbmf_policy.py:81][0m [dynamics at epoch 80]: Val Loss: 0.23062746226787567, Train Loss: 0.22628627717494965
+[32m[0512 01:46:29 @mbmf_policy.py:81][0m [dynamics at epoch 81]: Val Loss: 0.2306254804134369, Train Loss: 0.22628121078014374
+[32m[0512 01:46:29 @mbmf_policy.py:81][0m [dynamics at epoch 82]: Val Loss: 0.23062357306480408, Train Loss: 0.22627611458301544
+[32m[0512 01:46:29 @mbmf_policy.py:81][0m [dynamics at epoch 83]: Val Loss: 0.23062166571617126, Train Loss: 0.22627101838588715
+[32m[0512 01:46:29 @mbmf_policy.py:81][0m [dynamics at epoch 84]: Val Loss: 0.2306198626756668, Train Loss: 0.22626589238643646
+[32m[0512 01:46:29 @mbmf_policy.py:81][0m [dynamics at epoch 85]: Val Loss: 0.23061810433864594, Train Loss: 0.22626076638698578
+[32m[0512 01:46:29 @mbmf_policy.py:81][0m [dynamics at epoch 86]: Val Loss: 0.23061640560626984, Train Loss: 0.22625558078289032
+[32m[0512 01:46:29 @mbmf_policy.py:81][0m [dynamics at epoch 87]: Val Loss: 0.2306147664785385, Train Loss: 0.22625041007995605
+[32m[0512 01:46:29 @mbmf_policy.py:81][0m [dynamics at epoch 88]: Val Loss: 0.23061320185661316, Train Loss: 0.2262452244758606
+[32m[0512 01:46:29 @mbmf_policy.py:81][0m [dynamics at epoch 89]: Val Loss: 0.230611652135849, Train Loss: 0.22624002397060394
+[32m[0512 01:46:29 @mbmf_policy.py:81][0m [dynamics at epoch 90]: Val Loss: 0.23061016201972961, Train Loss: 0.22623474895954132
+[32m[0512 01:46:29 @mbmf_policy.py:81][0m [dynamics at epoch 91]: Val Loss: 0.2306087762117386, Train Loss: 0.2262295037508011
+[32m[0512 01:46:29 @mbmf_policy.py:81][0m [dynamics at epoch 92]: Val Loss: 0.23060740530490875, Train Loss: 0.22622424364089966
+[32m[0512 01:46:29 @mbmf_policy.py:81][0m [dynamics at epoch 93]: Val Loss: 0.2306060642004013, Train Loss: 0.22621898353099823
+[32m[0512 01:46:29 @mbmf_policy.py:81][0m [dynamics at epoch 94]: Val Loss: 0.2306048423051834, Train Loss: 0.22621367871761322
+[32m[0512 01:46:29 @mbmf_policy.py:81][0m [dynamics at epoch 95]: Val Loss: 0.23060362040996552, Train Loss: 0.22620834410190582
+[32m[0512 01:46:29 @mbmf_policy.py:81][0m [dynamics at epoch 96]: Val Loss: 0.23060250282287598, Train Loss: 0.22620302438735962
+[32m[0512 01:46:29 @mbmf_policy.py:81][0m [dynamics at epoch 97]: Val Loss: 0.23060142993927002, Train Loss: 0.22619765996932983
+[32m[0512 01:46:29 @mbmf_policy.py:81][0m [dynamics at epoch 98]: Val Loss: 0.23060043156147003, Train Loss: 0.22619229555130005
+[32m[0512 01:46:29 @mbmf_policy.py:81][0m [dynamics at epoch 99]: Val Loss: 0.23059943318367004, Train Loss: 0.22618691623210907
+[32m[0512 01:46:29 @mbmf_policy.py:81][0m [dynamics at epoch 100]: Val Loss: 0.23059852421283722, Train Loss: 0.2261815220117569
+[32m[0512 01:46:29 @mbmf_policy.py:81][0m [dynamics at epoch 101]: Val Loss: 0.23059765994548798, Train Loss: 0.22617608308792114
+[32m[0512 01:46:29 @mbmf_policy.py:81][0m [dynamics at epoch 102]: Val Loss: 0.2305968552827835, Train Loss: 0.22617065906524658
+[32m[0512 01:46:29 @mbmf_policy.py:81][0m [dynamics at epoch 103]: Val Loss: 0.23059609532356262, Train Loss: 0.22616522014141083
+[32m[0512 01:46:29 @mbmf_policy.py:81][0m [dynamics at epoch 104]: Val Loss: 0.2305953949689865, Train Loss: 0.22615975141525269
+[32m[0512 01:46:29 @mbmf_policy.py:81][0m [dynamics at epoch 105]: Val Loss: 0.23059476912021637, Train Loss: 0.22615426778793335
+[32m[0512 01:46:29 @mbmf_policy.py:81][0m [dynamics at epoch 106]: Val Loss: 0.2305941879749298, Train Loss: 0.2261487990617752
+[32m[0512 01:46:29 @mbmf_policy.py:81][0m [dynamics at epoch 107]: Val Loss: 0.23059363663196564, Train Loss: 0.22614330053329468
+[32m[0512 01:46:29 @mbmf_policy.py:81][0m [dynamics at epoch 108]: Val Loss: 0.23059315979480743, Train Loss: 0.22613777220249176
+[32m[0512 01:46:29 @mbmf_policy.py:81][0m [dynamics at epoch 109]: Val Loss: 0.2305927276611328, Train Loss: 0.22613222897052765
+[32m[0512 01:46:29 @mbmf_policy.py:81][0m [dynamics at epoch 110]: Val Loss: 0.23059238493442535, Train Loss: 0.22612668573856354
+[32m[0512 01:46:30 @mbmf_policy.py:81][0m [dynamics at epoch 111]: Val Loss: 0.2305920571088791, Train Loss: 0.22612114250659943
+[32m[0512 01:46:30 @mbmf_policy.py:81][0m [dynamics at epoch 112]: Val Loss: 0.2305918037891388, Train Loss: 0.22611559927463531
+[32m[0512 01:46:30 @mbmf_policy.py:81][0m [dynamics at epoch 113]: Val Loss: 0.2305915653705597, Train Loss: 0.22611002624034882
+[32m[0512 01:46:30 @mbmf_policy.py:81][0m [dynamics at epoch 114]: Val Loss: 0.23059140145778656, Train Loss: 0.22610442340373993
+[32m[0512 01:46:30 @mbmf_policy.py:81][0m [dynamics at epoch 115]: Val Loss: 0.2305912971496582, Train Loss: 0.22609882056713104
+[32m[0512 01:46:30 @mbmf_policy.py:81][0m [dynamics at epoch 116]: Val Loss: 0.23059123754501343, Train Loss: 0.22609323263168335
+[32m[0512 01:46:30 @mbmf_policy.py:81][0m [dynamics at epoch 117]: Val Loss: 0.23059125244617462, Train Loss: 0.22608758509159088
+[32m[0512 01:46:30 @mbmf_policy.py:81][0m [dynamics at epoch 118]: Val Loss: 0.2305913269519806, Train Loss: 0.2260819673538208
+[32m[0512 01:46:30 @mbmf_policy.py:81][0m [dynamics at epoch 119]: Val Loss: 0.23059138655662537, Train Loss: 0.22607634961605072
+[32m[0512 01:46:30 @mbmf_policy.py:81][0m [dynamics at epoch 120]: Val Loss: 0.2305915653705597, Train Loss: 0.22607065737247467
+[32m[0512 01:46:30 @mbmf_policy.py:81][0m [dynamics at epoch 121]: Val Loss: 0.2305917590856552, Train Loss: 0.22606505453586578
+[32m[0512 01:46:30 @mbmf_policy.py:81][0m [dynamics at epoch 122]: Val Loss: 0.2305920124053955, Train Loss: 0.22605937719345093
+[32m[0512 01:46:30 @mbmf_policy.py:81][0m [dynamics at epoch 123]: Val Loss: 0.23059234023094177, Train Loss: 0.22605371475219727
+[32m[0512 01:46:30 @mbmf_policy.py:81][0m [dynamics at epoch 124]: Val Loss: 0.23059271275997162, Train Loss: 0.2260480523109436
+[32m[0512 01:46:30 @mbmf_policy.py:81][0m [dynamics at epoch 125]: Val Loss: 0.23059310019016266, Train Loss: 0.22604237496852875
+[32m[0512 01:46:30 @mbmf_policy.py:81][0m [dynamics at epoch 126]: Val Loss: 0.23059353232383728, Train Loss: 0.2260366827249527
+[32m[0512 01:46:30 @mbmf_policy.py:81][0m [dynamics at epoch 127]: Val Loss: 0.23059405386447906, Train Loss: 0.22603100538253784
+[32m[0512 01:46:30 @mbmf_policy.py:81][0m [dynamics at epoch 128]: Val Loss: 0.23059457540512085, Train Loss: 0.2260252833366394
+[32m[0512 01:46:30 @mbmf_policy.py:81][0m [dynamics at epoch 129]: Val Loss: 0.2305951863527298, Train Loss: 0.22601960599422455
+[32m[0512 01:46:30 @mbmf_policy.py:81][0m [dynamics at epoch 130]: Val Loss: 0.23059582710266113, Train Loss: 0.2260138988494873
+[32m[0512 01:46:30 @mbmf_policy.py:81][0m [dynamics at epoch 131]: Val Loss: 0.23059652745723724, Train Loss: 0.22600817680358887
+[32m[0512 01:46:30 @mbmf_policy.py:81][0m [dynamics at epoch 132]: Val Loss: 0.23059728741645813, Train Loss: 0.22600246965885162
+[32m[0512 01:46:30 @mbmf_policy.py:81][0m [dynamics at epoch 133]: Val Loss: 0.2305980920791626, Train Loss: 0.22599677741527557
+[32m[0512 01:46:30 @mbmf_policy.py:81][0m [dynamics at epoch 134]: Val Loss: 0.23059889674186707, Train Loss: 0.22599105536937714
+[32m[0512 01:46:30 @mbmf_policy.py:81][0m [dynamics at epoch 135]: Val Loss: 0.2305998057126999, Train Loss: 0.2259853482246399
+[32m[0512 01:46:30 @mbmf_policy.py:81][0m [dynamics at epoch 136]: Val Loss: 0.2306007444858551, Train Loss: 0.22597962617874146
+[32m[0512 01:46:30 @mbmf_policy.py:81][0m [dynamics at epoch 137]: Val Loss: 0.2306017130613327, Train Loss: 0.22597390413284302
+[32m[0512 01:46:30 @mbmf_policy.py:81][0m [dynamics at epoch 138]: Val Loss: 0.23060275614261627, Train Loss: 0.22596818208694458
+[32m[0512 01:46:30 @mbmf_policy.py:81][0m [dynamics at epoch 139]: Val Loss: 0.23060379922389984, Train Loss: 0.22596246004104614
+[32m[0512 01:46:30 @mbmf_policy.py:81][0m [dynamics at epoch 140]: Val Loss: 0.23060490190982819, Train Loss: 0.2259567379951477
+[32m[0512 01:46:30 @mbmf_policy.py:81][0m [dynamics at epoch 141]: Val Loss: 0.2306060791015625, Train Loss: 0.22595101594924927
+[32m[0512 01:46:30 @mbmf_policy.py:81][0m [dynamics at epoch 142]: Val Loss: 0.230607271194458, Train Loss: 0.22594529390335083
+[32m[0512 01:46:30 @mbmf_policy.py:81][0m [dynamics at epoch 143]: Val Loss: 0.2306085079908371, Train Loss: 0.2259395718574524
+[32m[0512 01:46:30 @mbmf_policy.py:81][0m [dynamics at epoch 144]: Val Loss: 0.23060981929302216, Train Loss: 0.22593386471271515
+[32m[0512 01:46:30 @mbmf_policy.py:81][0m [dynamics at epoch 145]: Val Loss: 0.23061113059520721, Train Loss: 0.2259281724691391
+[32m[0512 01:46:31 @mbmf_policy.py:81][0m [dynamics at epoch 146]: Val Loss: 0.23061250150203705, Train Loss: 0.22592242062091827
+[32m[0512 01:46:31 @mbmf_policy.py:81][0m [dynamics at epoch 147]: Val Loss: 0.23061393201351166, Train Loss: 0.22591672837734222
+[32m[0512 01:46:31 @mbmf_policy.py:81][0m [dynamics at epoch 148]: Val Loss: 0.23061536252498627, Train Loss: 0.2259110063314438
+[32m[0512 01:46:31 @mbmf_policy.py:81][0m [dynamics at epoch 149]: Val Loss: 0.23061691224575043, Train Loss: 0.22590531408786774
+[32m[0512 01:46:31 @mbmf_policy.py:81][0m [dynamics at epoch 150]: Val Loss: 0.2306184321641922, Train Loss: 0.2258995920419693
+[32m[0512 01:46:31 @mbmf_policy.py:81][0m [dynamics at epoch 151]: Val Loss: 0.23062001168727875, Train Loss: 0.22589389979839325
+[32m[0512 01:46:31 @mbmf_policy.py:81][0m [dynamics at epoch 152]: Val Loss: 0.23062163591384888, Train Loss: 0.2258882075548172
+[32m[0512 01:46:31 @mbmf_policy.py:81][0m [dynamics at epoch 153]: Val Loss: 0.2306232750415802, Train Loss: 0.22588253021240234
+[32m[0512 01:46:31 @mbmf_policy.py:81][0m [dynamics at epoch 154]: Val Loss: 0.2306249588727951, Train Loss: 0.22587686777114868
+[32m[0512 01:46:31 @mbmf_policy.py:81][0m [dynamics at epoch 155]: Val Loss: 0.23062670230865479, Train Loss: 0.22587116062641144
+[32m[0512 01:46:31 @mbmf_policy.py:81][0m [dynamics at epoch 156]: Val Loss: 0.23062847554683685, Train Loss: 0.22586548328399658
+[32m[0512 01:46:31 @mbmf_policy.py:81][0m [dynamics at epoch 157]: Val Loss: 0.2306303083896637, Train Loss: 0.22585980594158173
+[32m[0512 01:46:31 @mbmf_policy.py:81][0m [dynamics at epoch 158]: Val Loss: 0.23063212633132935, Train Loss: 0.22585414350032806
+[32m[0512 01:46:31 @mbmf_policy.py:81][0m [dynamics at epoch 159]: Val Loss: 0.23063401877880096, Train Loss: 0.2258484959602356
+[32m[0512 01:46:31 @mbmf_policy.py:81][0m [dynamics at epoch 160]: Val Loss: 0.23063592612743378, Train Loss: 0.22584284842014313
+[32m[0512 01:46:31 @mbmf_policy.py:81][0m [dynamics at epoch 161]: Val Loss: 0.23063789308071136, Train Loss: 0.22583721578121185
+[32m[0512 01:46:31 @mbmf_policy.py:81][0m [dynamics at epoch 162]: Val Loss: 0.23063987493515015, Train Loss: 0.22583161294460297
+[32m[0512 01:46:31 @mbmf_policy.py:81][0m [dynamics at epoch 163]: Val Loss: 0.2306419163942337, Train Loss: 0.2258259505033493
+[32m[0512 01:46:31 @mbmf_policy.py:81][0m [dynamics at epoch 164]: Val Loss: 0.23064397275447845, Train Loss: 0.22582031786441803
+[32m[0512 01:46:31 @mbmf_policy.py:81][0m [dynamics at epoch 165]: Val Loss: 0.2306460589170456, Train Loss: 0.22581471502780914
+[32m[0512 01:46:31 @mbmf_policy.py:81][0m [dynamics at epoch 166]: Val Loss: 0.23064815998077393, Train Loss: 0.22580909729003906
+[32m[0512 01:46:31 @mbmf_policy.py:81][0m [dynamics at epoch 167]: Val Loss: 0.23065035045146942, Train Loss: 0.22580350935459137
+[32m[0512 01:46:31 @mbmf_policy.py:81][0m [dynamics at epoch 168]: Val Loss: 0.23065252602100372, Train Loss: 0.22579793632030487
+[32m[0512 01:46:31 @mbmf_policy.py:81][0m [dynamics at epoch 169]: Val Loss: 0.2306547462940216, Train Loss: 0.22579234838485718
+[32m[0512 01:46:31 @mbmf_policy.py:81][0m [dynamics at epoch 170]: Val Loss: 0.23065702617168427, Train Loss: 0.22578679025173187
+[32m[0512 01:46:31 @mbmf_policy.py:81][0m [dynamics at epoch 171]: Val Loss: 0.23065930604934692, Train Loss: 0.22578121721744537
+[32m[0512 01:46:31 @mbmf_policy.py:81][0m [dynamics at epoch 172]: Val Loss: 0.23066164553165436, Train Loss: 0.22577564418315887
+[32m[0512 01:46:31 @mbmf_policy.py:81][0m [dynamics at epoch 173]: Val Loss: 0.2306639701128006, Train Loss: 0.22577010095119476
+[32m[0512 01:46:31 @mbmf_policy.py:81][0m [dynamics at epoch 174]: Val Loss: 0.23066633939743042, Train Loss: 0.22576458752155304
+[32m[0512 01:46:31 @mbmf_policy.py:81][0m [dynamics at epoch 175]: Val Loss: 0.23066876828670502, Train Loss: 0.22575907409191132
+[32m[0512 01:46:31 @mbmf_policy.py:81][0m [dynamics at epoch 176]: Val Loss: 0.23067119717597961, Train Loss: 0.2257535457611084
+[32m[0512 01:46:31 @mbmf_policy.py:81][0m [dynamics at epoch 177]: Val Loss: 0.2306736707687378, Train Loss: 0.22574804723262787
+[32m[0512 01:46:31 @mbmf_policy.py:81][0m [dynamics at epoch 178]: Val Loss: 0.23067611455917358, Train Loss: 0.22574253380298615
+[32m[0512 01:46:31 @mbmf_policy.py:81][0m [dynamics at epoch 179]: Val Loss: 0.23067866265773773, Train Loss: 0.2257370799779892
+[32m[0512 01:46:32 @mbmf_policy.py:81][0m [dynamics at epoch 180]: Val Loss: 0.23068122565746307, Train Loss: 0.22573161125183105
+[32m[0512 01:46:32 @mbmf_policy.py:81][0m [dynamics at epoch 181]: Val Loss: 0.23068378865718842, Train Loss: 0.22572612762451172
+[32m[0512 01:46:32 @mbmf_policy.py:81][0m [dynamics at epoch 182]: Val Loss: 0.23068638145923615, Train Loss: 0.22572068870067596
+[32m[0512 01:46:32 @mbmf_policy.py:81][0m [dynamics at epoch 183]: Val Loss: 0.23068901896476746, Train Loss: 0.2257152646780014
+[32m[0512 01:46:32 @mbmf_policy.py:81][0m [dynamics at epoch 184]: Val Loss: 0.23069165647029877, Train Loss: 0.22570981085300446
+[32m[0512 01:46:32 @mbmf_policy.py:81][0m [dynamics at epoch 185]: Val Loss: 0.23069433867931366, Train Loss: 0.2257043868303299
+[32m[0512 01:46:32 @mbmf_policy.py:81][0m [dynamics at epoch 186]: Val Loss: 0.23069702088832855, Train Loss: 0.22569900751113892
+[32m[0512 01:46:32 @mbmf_policy.py:81][0m [dynamics at epoch 187]: Val Loss: 0.23069973289966583, Train Loss: 0.22569359838962555
+[32m[0512 01:46:32 @mbmf_policy.py:81][0m [dynamics at epoch 188]: Val Loss: 0.2307024747133255, Train Loss: 0.22568821907043457
+[32m[0512 01:46:32 @mbmf_policy.py:81][0m [dynamics at epoch 189]: Val Loss: 0.23070520162582397, Train Loss: 0.22568285465240479
+[32m[0512 01:46:32 @mbmf_policy.py:81][0m [dynamics at epoch 190]: Val Loss: 0.23070800304412842, Train Loss: 0.2256775051355362
+[32m[0512 01:46:32 @mbmf_policy.py:81][0m [dynamics at epoch 191]: Val Loss: 0.23071083426475525, Train Loss: 0.22567212581634521
+[32m[0512 01:46:32 @mbmf_policy.py:81][0m [dynamics at epoch 192]: Val Loss: 0.2307136505842209, Train Loss: 0.2256668210029602
+[32m[0512 01:46:32 @mbmf_policy.py:81][0m [dynamics at epoch 193]: Val Loss: 0.2307165116071701, Train Loss: 0.225661501288414
+[32m[0512 01:46:32 @mbmf_policy.py:81][0m [dynamics at epoch 194]: Val Loss: 0.23071938753128052, Train Loss: 0.2256561666727066
+[32m[0512 01:46:32 @mbmf_policy.py:81][0m [dynamics at epoch 195]: Val Loss: 0.23072226345539093, Train Loss: 0.2256508618593216
+[32m[0512 01:46:32 @mbmf_policy.py:81][0m [dynamics at epoch 196]: Val Loss: 0.23072516918182373, Train Loss: 0.22564561665058136
+[32m[0512 01:46:32 @mbmf_policy.py:81][0m [dynamics at epoch 197]: Val Loss: 0.23072808980941772, Train Loss: 0.22564034163951874
+[32m[0512 01:46:32 @mbmf_policy.py:81][0m [dynamics at epoch 198]: Val Loss: 0.23073101043701172, Train Loss: 0.2256350964307785
+[32m[0512 01:46:32 @mbmf_policy.py:81][0m [dynamics at epoch 199]: Val Loss: 0.23073400557041168, Train Loss: 0.22562982141971588
+[32m[0512 01:46:32 @mbmf_policy.py:81][0m [dynamics at epoch 200]: Val Loss: 0.23073695600032806, Train Loss: 0.22562460601329803
+[32m[0512 01:46:32 @mbmf_policy.py:81][0m [dynamics at epoch 201]: Val Loss: 0.23073998093605042, Train Loss: 0.2256193906068802
+[32m[0512 01:46:32 @mbmf_policy.py:81][0m [dynamics at epoch 202]: Val Loss: 0.23074297606945038, Train Loss: 0.22561417520046234
+[32m[0512 01:46:32 @mbmf_policy.py:81][0m [dynamics at epoch 203]: Val Loss: 0.23074601590633392, Train Loss: 0.22560898959636688
+[32m[0512 01:46:32 @mbmf_policy.py:81][0m [dynamics at epoch 204]: Val Loss: 0.23074905574321747, Train Loss: 0.22560380399227142
+[32m[0512 01:46:32 @mbmf_policy.py:81][0m [dynamics at epoch 205]: Val Loss: 0.2307521104812622, Train Loss: 0.22559861838817596
+[32m[0512 01:46:32 @mbmf_policy.py:81][0m [dynamics at epoch 206]: Val Loss: 0.23075516521930695, Train Loss: 0.2255934625864029
+[32m[0512 01:46:32 @mbmf_policy.py:81][0m [dynamics at epoch 207]: Val Loss: 0.23075827956199646, Train Loss: 0.22558832168579102
+[32m[0512 01:46:32 @mbmf_policy.py:81][0m [dynamics at epoch 208]: Val Loss: 0.2307613641023636, Train Loss: 0.22558319568634033
+[32m[0512 01:46:32 @mbmf_policy.py:81][0m [dynamics at epoch 209]: Val Loss: 0.2307644784450531, Train Loss: 0.22557808458805084
+[32m[0512 01:46:32 @mbmf_policy.py:81][0m [dynamics at epoch 210]: Val Loss: 0.2307676076889038, Train Loss: 0.22557295858860016
+[32m[0512 01:46:32 @mbmf_policy.py:81][0m [dynamics at epoch 211]: Val Loss: 0.2307707518339157, Train Loss: 0.22556789219379425
+[32m[0512 01:46:32 @mbmf_policy.py:81][0m [dynamics at epoch 212]: Val Loss: 0.23077388107776642, Train Loss: 0.22556279599666595
+[32m[0512 01:46:32 @mbmf_policy.py:81][0m [dynamics at epoch 213]: Val Loss: 0.2307770699262619, Train Loss: 0.22555772960186005
+[32m[0512 01:46:32 @mbmf_policy.py:81][0m [dynamics at epoch 214]: Val Loss: 0.2307802140712738, Train Loss: 0.22555269300937653
+[32m[0512 01:46:33 @mbmf_policy.py:81][0m [dynamics at epoch 215]: Val Loss: 0.23078341782093048, Train Loss: 0.2255476713180542
+[32m[0512 01:46:33 @mbmf_policy.py:81][0m [dynamics at epoch 216]: Val Loss: 0.23078662157058716, Train Loss: 0.22554261982440948
+[32m[0512 01:46:33 @mbmf_policy.py:81][0m [dynamics at epoch 217]: Val Loss: 0.23078984022140503, Train Loss: 0.22553764283657074
+[32m[0512 01:46:33 @mbmf_policy.py:81][0m [dynamics at epoch 218]: Val Loss: 0.2307930439710617, Train Loss: 0.22553260624408722
+[32m[0512 01:46:33 @mbmf_policy.py:81][0m [dynamics at epoch 219]: Val Loss: 0.23079627752304077, Train Loss: 0.22552764415740967
+[32m[0512 01:46:33 @mbmf_policy.py:81][0m [dynamics at epoch 220]: Val Loss: 0.23079949617385864, Train Loss: 0.22552268207073212
+[32m[0512 01:46:33 @mbmf_policy.py:81][0m [dynamics at epoch 221]: Val Loss: 0.2308027446269989, Train Loss: 0.22551770508289337
+[32m[0512 01:46:33 @mbmf_policy.py:81][0m [dynamics at epoch 222]: Val Loss: 0.23080600798130035, Train Loss: 0.22551275789737701
+[32m[0512 01:46:33 @mbmf_policy.py:81][0m [dynamics at epoch 223]: Val Loss: 0.230809286236763, Train Loss: 0.22550785541534424
+[32m[0512 01:46:33 @mbmf_policy.py:81][0m [dynamics at epoch 224]: Val Loss: 0.23081253468990326, Train Loss: 0.2255028933286667
+[32m[0512 01:46:33 @mbmf_policy.py:81][0m [dynamics at epoch 225]: Val Loss: 0.2308158427476883, Train Loss: 0.2254980057477951
+[32m[0512 01:46:33 @mbmf_policy.py:81][0m [dynamics at epoch 226]: Val Loss: 0.23081909120082855, Train Loss: 0.22549311816692352
+[32m[0512 01:46:33 @mbmf_policy.py:81][0m [dynamics at epoch 227]: Val Loss: 0.2308223992586136, Train Loss: 0.22548823058605194
+[32m[0512 01:46:33 @mbmf_policy.py:81][0m [dynamics at epoch 228]: Val Loss: 0.23082567751407623, Train Loss: 0.22548335790634155
+[32m[0512 01:46:33 @mbmf_policy.py:81][0m [dynamics at epoch 229]: Val Loss: 0.23082901537418365, Train Loss: 0.22547848522663116
+[32m[0512 01:46:33 @mbmf_policy.py:81][0m [dynamics at epoch 230]: Val Loss: 0.2308323085308075, Train Loss: 0.22547365725040436
+[32m[0512 01:46:33 @mbmf_policy.py:81][0m [dynamics at epoch 231]: Val Loss: 0.23083561658859253, Train Loss: 0.22546882927417755
+[32m[0512 01:46:33 @mbmf_policy.py:81][0m [dynamics at epoch 232]: Val Loss: 0.23083893954753876, Train Loss: 0.22546400129795074
+[32m[0512 01:46:33 @mbmf_policy.py:81][0m [dynamics at epoch 233]: Val Loss: 0.23084227740764618, Train Loss: 0.22545920312404633
+[32m[0512 01:46:33 @mbmf_policy.py:81][0m [dynamics at epoch 234]: Val Loss: 0.2308456003665924, Train Loss: 0.2254544049501419
+[32m[0512 01:46:33 @mbmf_policy.py:81][0m [dynamics at epoch 235]: Val Loss: 0.23084893822669983, Train Loss: 0.22544963657855988
+[32m[0512 01:46:33 @mbmf_policy.py:81][0m [dynamics at epoch 236]: Val Loss: 0.23085227608680725, Train Loss: 0.22544486820697784
+[32m[0512 01:46:33 @mbmf_policy.py:81][0m [dynamics at epoch 237]: Val Loss: 0.23085562884807587, Train Loss: 0.2254401296377182
+[32m[0512 01:46:33 @mbmf_policy.py:81][0m [dynamics at epoch 238]: Val Loss: 0.2308589518070221, Train Loss: 0.22543536126613617
+[32m[0512 01:46:33 @mbmf_policy.py:81][0m [dynamics at epoch 239]: Val Loss: 0.2308623343706131, Train Loss: 0.2254306674003601
+[32m[0512 01:46:33 @mbmf_policy.py:81][0m [dynamics at epoch 240]: Val Loss: 0.23086567223072052, Train Loss: 0.22542594373226166
+[32m[0512 01:46:33 @mbmf_policy.py:81][0m [dynamics at epoch 241]: Val Loss: 0.23086905479431152, Train Loss: 0.2254212349653244
+[32m[0512 01:46:33 @mbmf_policy.py:81][0m [dynamics at epoch 242]: Val Loss: 0.23087240755558014, Train Loss: 0.22541652619838715
+[32m[0512 01:46:33 @mbmf_policy.py:81][0m [dynamics at epoch 243]: Val Loss: 0.23087579011917114, Train Loss: 0.22541187703609467
+[32m[0512 01:46:33 @mbmf_policy.py:81][0m [dynamics at epoch 244]: Val Loss: 0.23087915778160095, Train Loss: 0.2254071980714798
+[32m[0512 01:46:33 @mbmf_policy.py:81][0m [dynamics at epoch 245]: Val Loss: 0.23088249564170837, Train Loss: 0.22540253400802612
+[32m[0512 01:46:33 @mbmf_policy.py:81][0m [dynamics at epoch 246]: Val Loss: 0.23088587820529938, Train Loss: 0.22539789974689484
+[32m[0512 01:46:33 @mbmf_policy.py:81][0m [dynamics at epoch 247]: Val Loss: 0.23088926076889038, Train Loss: 0.22539323568344116
+[32m[0512 01:46:33 @mbmf_policy.py:81][0m [dynamics at epoch 248]: Val Loss: 0.2308926284313202, Train Loss: 0.22538866102695465
+[32m[0512 01:46:34 @mbmf_policy.py:81][0m [dynamics at epoch 249]: Val Loss: 0.23089599609375, Train Loss: 0.22538404166698456
+[32m[0512 01:46:34 @mbmf_policy.py:81][0m [dynamics at epoch 250]: Val Loss: 0.230899378657341, Train Loss: 0.22537946701049805
+[32m[0512 01:46:34 @mbmf_policy.py:81][0m [dynamics at epoch 251]: Val Loss: 0.230902761220932, Train Loss: 0.22537486255168915
+[32m[0512 01:46:34 @mbmf_policy.py:81][0m [dynamics at epoch 252]: Val Loss: 0.23090611398220062, Train Loss: 0.22537030279636383
+[32m[0512 01:46:34 @mbmf_policy.py:81][0m [dynamics at epoch 253]: Val Loss: 0.23090951144695282, Train Loss: 0.22536571323871613
+[32m[0512 01:46:34 @mbmf_policy.py:81][0m [dynamics at epoch 254]: Val Loss: 0.23091290891170502, Train Loss: 0.2253611832857132
+[32m[0512 01:46:34 @mbmf_policy.py:81][0m [dynamics at epoch 255]: Val Loss: 0.23091629147529602, Train Loss: 0.22535665333271027
+[32m[0512 01:46:34 @mbmf_policy.py:81][0m [dynamics at epoch 256]: Val Loss: 0.23091967403888702, Train Loss: 0.22535215318202972
+[32m[0512 01:46:34 @mbmf_policy.py:81][0m [dynamics at epoch 257]: Val Loss: 0.23092304170131683, Train Loss: 0.2253476232290268
+[32m[0512 01:46:34 @mbmf_policy.py:81][0m [dynamics at epoch 258]: Val Loss: 0.23092645406723022, Train Loss: 0.22534312307834625
+[32m[0512 01:46:34 @mbmf_policy.py:81][0m [dynamics at epoch 259]: Val Loss: 0.23092979192733765, Train Loss: 0.2253386378288269
+[32m[0512 01:46:34 @mbmf_policy.py:81][0m [dynamics at epoch 260]: Val Loss: 0.23093317449092865, Train Loss: 0.22533416748046875
+[32m[0512 01:46:34 @mbmf_policy.py:81][0m [dynamics at epoch 261]: Val Loss: 0.23093658685684204, Train Loss: 0.2253297120332718
+[32m[0512 01:46:34 @mbmf_policy.py:81][0m [dynamics at epoch 262]: Val Loss: 0.23093995451927185, Train Loss: 0.22532524168491364
+[32m[0512 01:46:34 @mbmf_policy.py:81][0m [dynamics at epoch 263]: Val Loss: 0.23094335198402405, Train Loss: 0.22532080113887787
+[32m[0512 01:46:34 @mbmf_policy.py:81][0m [dynamics at epoch 264]: Val Loss: 0.23094671964645386, Train Loss: 0.2253163605928421
+[32m[0512 01:46:34 @mbmf_policy.py:81][0m [dynamics at epoch 265]: Val Loss: 0.23095008730888367, Train Loss: 0.22531193494796753
+[32m[0512 01:46:34 @mbmf_policy.py:81][0m [dynamics at epoch 266]: Val Loss: 0.23095346987247467, Train Loss: 0.22530753910541534
+[32m[0512 01:46:34 @mbmf_policy.py:81][0m [dynamics at epoch 267]: Val Loss: 0.23095685243606567, Train Loss: 0.22530315816402435
+[32m[0512 01:46:34 @mbmf_policy.py:81][0m [dynamics at epoch 268]: Val Loss: 0.23096022009849548, Train Loss: 0.22529874742031097
+[32m[0512 01:46:34 @mbmf_policy.py:81][0m [dynamics at epoch 269]: Val Loss: 0.2309635877609253, Train Loss: 0.22529439628124237
+[32m[0512 01:46:34 @mbmf_policy.py:81][0m [dynamics at epoch 270]: Val Loss: 0.2309669554233551, Train Loss: 0.22529000043869019
+[32m[0512 01:46:34 @mbmf_policy.py:81][0m [dynamics at epoch 271]: Val Loss: 0.23097030818462372, Train Loss: 0.22528566420078278
+[32m[0512 01:46:34 @mbmf_policy.py:81][0m [dynamics at epoch 272]: Val Loss: 0.23097367584705353, Train Loss: 0.22528131306171417
+[32m[0512 01:46:34 @mbmf_policy.py:81][0m [dynamics at epoch 273]: Val Loss: 0.23097704350948334, Train Loss: 0.22527696192264557
+[32m[0512 01:46:34 @mbmf_policy.py:81][0m [dynamics at epoch 274]: Val Loss: 0.23098042607307434, Train Loss: 0.22527264058589935
+[32m[0512 01:46:34 @mbmf_policy.py:81][0m [dynamics at epoch 275]: Val Loss: 0.23098377883434296, Train Loss: 0.22526836395263672
+[32m[0512 01:46:34 @mbmf_policy.py:81][0m [dynamics at epoch 276]: Val Loss: 0.23098711669445038, Train Loss: 0.2252640277147293
+[32m[0512 01:46:34 @mbmf_policy.py:81][0m [dynamics at epoch 277]: Val Loss: 0.2309904843568802, Train Loss: 0.22525976598262787
+[32m[0512 01:46:34 @mbmf_policy.py:81][0m [dynamics at epoch 278]: Val Loss: 0.2309938371181488, Train Loss: 0.22525547444820404
+[32m[0512 01:46:34 @mbmf_policy.py:81][0m [dynamics at epoch 279]: Val Loss: 0.23099716007709503, Train Loss: 0.2252511829137802
+[32m[0512 01:46:34 @mbmf_policy.py:81][0m [dynamics at epoch 280]: Val Loss: 0.23100051283836365, Train Loss: 0.22524692118167877
+[32m[0512 01:46:34 @mbmf_policy.py:81][0m [dynamics at epoch 281]: Val Loss: 0.23100385069847107, Train Loss: 0.22524267435073853
+[32m[0512 01:46:34 @mbmf_policy.py:81][0m [dynamics at epoch 282]: Val Loss: 0.23100721836090088, Train Loss: 0.22523844242095947
+[32m[0512 01:46:35 @mbmf_policy.py:81][0m [dynamics at epoch 283]: Val Loss: 0.2310105413198471, Train Loss: 0.22523421049118042
+[32m[0512 01:46:35 @mbmf_policy.py:81][0m [dynamics at epoch 284]: Val Loss: 0.23101387917995453, Train Loss: 0.22522999346256256
+[32m[0512 01:46:35 @mbmf_policy.py:81][0m [dynamics at epoch 285]: Val Loss: 0.23101721704006195, Train Loss: 0.2252257615327835
+[32m[0512 01:46:35 @mbmf_policy.py:81][0m [dynamics at epoch 286]: Val Loss: 0.23102052509784698, Train Loss: 0.22522157430648804
+[32m[0512 01:46:35 @mbmf_policy.py:81][0m [dynamics at epoch 287]: Val Loss: 0.23102383315563202, Train Loss: 0.22521735727787018
+[32m[0512 01:46:35 @mbmf_policy.py:81][0m [dynamics at epoch 288]: Val Loss: 0.23102720081806183, Train Loss: 0.2252131849527359
+[32m[0512 01:46:35 @mbmf_policy.py:81][0m [dynamics at epoch 289]: Val Loss: 0.23103047907352448, Train Loss: 0.22520901262760162
+[32m[0512 01:46:35 @mbmf_policy.py:81][0m [dynamics at epoch 290]: Val Loss: 0.2310338020324707, Train Loss: 0.22520484030246735
+[32m[0512 01:46:35 @mbmf_policy.py:81][0m [dynamics at epoch 291]: Val Loss: 0.23103712499141693, Train Loss: 0.22520071268081665
+[32m[0512 01:46:35 @mbmf_policy.py:81][0m [dynamics at epoch 292]: Val Loss: 0.23104041814804077, Train Loss: 0.22519655525684357
+[32m[0512 01:46:35 @mbmf_policy.py:81][0m [dynamics at epoch 293]: Val Loss: 0.23104369640350342, Train Loss: 0.22519242763519287
+[32m[0512 01:46:35 @mbmf_policy.py:81][0m [dynamics at epoch 294]: Val Loss: 0.23104701936244965, Train Loss: 0.22518830001354218
+[32m[0512 01:46:35 @mbmf_policy.py:81][0m [dynamics at epoch 295]: Val Loss: 0.23105034232139587, Train Loss: 0.2251841425895691
+[32m[0512 01:46:35 @mbmf_policy.py:81][0m [dynamics at epoch 296]: Val Loss: 0.23105362057685852, Train Loss: 0.22518007457256317
+[32m[0512 01:46:35 @mbmf_policy.py:81][0m [dynamics at epoch 297]: Val Loss: 0.23105691373348236, Train Loss: 0.22517597675323486
+[32m[0512 01:46:35 @mbmf_policy.py:81][0m [dynamics at epoch 298]: Val Loss: 0.231060191988945, Train Loss: 0.22517186403274536
+[32m[0512 01:46:35 @mbmf_policy.py:81][0m [dynamics at epoch 299]: Val Loss: 0.23106347024440765, Train Loss: 0.22516779601573944
+[32m[0512 01:46:35 @mbmf_sampler.py:98][0m Finished 9th episode
+[32m[0512 01:46:35 @mbmf_sampler.py:102][0m 1809 timesteps from 9 episodes collected
+[32m[0512 02:07:46 @mbmf_trainer.py:160][0m Mean reward: -326.75528947927353
+[32m[0512 02:07:46 @mbmf_policy.py:81][0m [dynamics at epoch 0]: Val Loss: 0.21565362811088562, Train Loss: 0.2238864302635193
+[32m[0512 02:07:46 @mbmf_policy.py:81][0m [dynamics at epoch 1]: Val Loss: 0.21568447351455688, Train Loss: 0.22381062805652618
+[32m[0512 02:07:46 @mbmf_policy.py:81][0m [dynamics at epoch 2]: Val Loss: 0.2156539112329483, Train Loss: 0.22377704083919525
+[32m[0512 02:07:46 @mbmf_policy.py:81][0m [dynamics at epoch 3]: Val Loss: 0.2156459093093872, Train Loss: 0.2237529158592224
+[32m[0512 02:07:46 @mbmf_policy.py:81][0m [dynamics at epoch 4]: Val Loss: 0.21565769612789154, Train Loss: 0.22373202443122864
+[32m[0512 02:07:46 @mbmf_policy.py:81][0m [dynamics at epoch 5]: Val Loss: 0.21567237377166748, Train Loss: 0.22371238470077515
+[32m[0512 02:07:46 @mbmf_policy.py:81][0m [dynamics at epoch 6]: Val Loss: 0.2156841903924942, Train Loss: 0.2236945629119873
+[32m[0512 02:07:47 @mbmf_policy.py:81][0m [dynamics at epoch 7]: Val Loss: 0.21569475531578064, Train Loss: 0.22367842495441437
+[32m[0512 02:07:47 @mbmf_policy.py:81][0m [dynamics at epoch 8]: Val Loss: 0.21570587158203125, Train Loss: 0.22366376221179962
+[32m[0512 02:07:47 @mbmf_policy.py:81][0m [dynamics at epoch 9]: Val Loss: 0.21571727097034454, Train Loss: 0.22365020215511322
+[32m[0512 02:07:47 @mbmf_policy.py:81][0m [dynamics at epoch 10]: Val Loss: 0.21572861075401306, Train Loss: 0.22363756597042084
+[32m[0512 02:07:47 @mbmf_policy.py:81][0m [dynamics at epoch 11]: Val Loss: 0.21573977172374725, Train Loss: 0.2236257642507553
+[32m[0512 02:07:47 @mbmf_policy.py:81][0m [dynamics at epoch 12]: Val Loss: 0.21575085818767548, Train Loss: 0.2236146479845047
+[32m[0512 02:07:47 @mbmf_policy.py:81][0m [dynamics at epoch 13]: Val Loss: 0.21576176583766937, Train Loss: 0.22360409796237946
+[32m[0512 02:07:47 @mbmf_policy.py:81][0m [dynamics at epoch 14]: Val Loss: 0.21577249467372894, Train Loss: 0.22359412908554077
+[32m[0512 02:07:47 @mbmf_policy.py:81][0m [dynamics at epoch 15]: Val Loss: 0.21578305959701538, Train Loss: 0.22358457744121552
+[32m[0512 02:07:47 @mbmf_policy.py:81][0m [dynamics at epoch 16]: Val Loss: 0.2157934308052063, Train Loss: 0.22357545793056488
+[32m[0512 02:07:47 @mbmf_policy.py:81][0m [dynamics at epoch 17]: Val Loss: 0.21580363810062408, Train Loss: 0.22356672585010529
+[32m[0512 02:07:47 @mbmf_policy.py:81][0m [dynamics at epoch 18]: Val Loss: 0.21581368148326874, Train Loss: 0.22355829179286957
+[32m[0512 02:07:47 @mbmf_policy.py:81][0m [dynamics at epoch 19]: Val Loss: 0.21582356095314026, Train Loss: 0.22355018556118011
+[32m[0512 02:07:47 @mbmf_policy.py:81][0m [dynamics at epoch 20]: Val Loss: 0.21583326160907745, Train Loss: 0.22354239225387573
+[32m[0512 02:07:47 @mbmf_policy.py:81][0m [dynamics at epoch 21]: Val Loss: 0.21584275364875793, Train Loss: 0.22353477776050568
+[32m[0512 02:07:47 @mbmf_policy.py:81][0m [dynamics at epoch 22]: Val Loss: 0.21585214138031006, Train Loss: 0.2235274463891983
+[32m[0512 02:07:47 @mbmf_policy.py:81][0m [dynamics at epoch 23]: Val Loss: 0.21586132049560547, Train Loss: 0.22352032363414764
+[32m[0512 02:07:47 @mbmf_policy.py:81][0m [dynamics at epoch 24]: Val Loss: 0.21587041020393372, Train Loss: 0.2235133796930313
+[32m[0512 02:07:47 @mbmf_policy.py:81][0m [dynamics at epoch 25]: Val Loss: 0.21587932109832764, Train Loss: 0.2235066145658493
+[32m[0512 02:07:47 @mbmf_policy.py:81][0m [dynamics at epoch 26]: Val Loss: 0.215888112783432, Train Loss: 0.22350002825260162
+[32m[0512 02:07:47 @mbmf_policy.py:81][0m [dynamics at epoch 27]: Val Loss: 0.21589678525924683, Train Loss: 0.22349360585212708
+[32m[0512 02:07:47 @mbmf_policy.py:81][0m [dynamics at epoch 28]: Val Loss: 0.2159052938222885, Train Loss: 0.22348731756210327
+[32m[0512 02:07:47 @mbmf_policy.py:81][0m [dynamics at epoch 29]: Val Loss: 0.21591365337371826, Train Loss: 0.2234811633825302
+[32m[0512 02:07:47 @mbmf_policy.py:81][0m [dynamics at epoch 30]: Val Loss: 0.21592190861701965, Train Loss: 0.2234751582145691
+[32m[0512 02:07:47 @mbmf_policy.py:81][0m [dynamics at epoch 31]: Val Loss: 0.21593008935451508, Train Loss: 0.22346925735473633
+[32m[0512 02:07:47 @mbmf_policy.py:81][0m [dynamics at epoch 32]: Val Loss: 0.21593809127807617, Train Loss: 0.22346344590187073
+[32m[0512 02:07:48 @mbmf_policy.py:81][0m [dynamics at epoch 33]: Val Loss: 0.21594597399234772, Train Loss: 0.22345776855945587
+[32m[0512 02:07:48 @mbmf_policy.py:81][0m [dynamics at epoch 34]: Val Loss: 0.2159537971019745, Train Loss: 0.22345218062400818
+[32m[0512 02:07:48 @mbmf_policy.py:81][0m [dynamics at epoch 35]: Val Loss: 0.21596147119998932, Train Loss: 0.22344669699668884
+[32m[0512 02:07:48 @mbmf_policy.py:81][0m [dynamics at epoch 36]: Val Loss: 0.21596907079219818, Train Loss: 0.22344130277633667
+[32m[0512 02:07:48 @mbmf_policy.py:81][0m [dynamics at epoch 37]: Val Loss: 0.2159765213727951, Train Loss: 0.22343596816062927
+[32m[0512 02:07:48 @mbmf_policy.py:81][0m [dynamics at epoch 38]: Val Loss: 0.21598389744758606, Train Loss: 0.22343070805072784
+[32m[0512 02:07:48 @mbmf_policy.py:81][0m [dynamics at epoch 39]: Val Loss: 0.21599119901657104, Train Loss: 0.22342552244663239
+[32m[0512 02:07:48 @mbmf_policy.py:81][0m [dynamics at epoch 40]: Val Loss: 0.21599838137626648, Train Loss: 0.2234204113483429
+[32m[0512 02:07:48 @mbmf_policy.py:81][0m [dynamics at epoch 41]: Val Loss: 0.21600545942783356, Train Loss: 0.22341537475585938
+[32m[0512 02:07:48 @mbmf_policy.py:81][0m [dynamics at epoch 42]: Val Loss: 0.21601246297359467, Train Loss: 0.22341042757034302
+[32m[0512 02:07:48 @mbmf_policy.py:81][0m [dynamics at epoch 43]: Val Loss: 0.21601933240890503, Train Loss: 0.22340551018714905
+[32m[0512 02:07:48 @mbmf_policy.py:81][0m [dynamics at epoch 44]: Val Loss: 0.2160261571407318, Train Loss: 0.22340063750743866
+[32m[0512 02:07:48 @mbmf_policy.py:81][0m [dynamics at epoch 45]: Val Loss: 0.21603286266326904, Train Loss: 0.22339580953121185
+[32m[0512 02:07:48 @mbmf_policy.py:81][0m [dynamics at epoch 46]: Val Loss: 0.2160395085811615, Train Loss: 0.22339105606079102
+[32m[0512 02:07:48 @mbmf_policy.py:81][0m [dynamics at epoch 47]: Val Loss: 0.21604607999324799, Train Loss: 0.22338633239269257
+[32m[0512 02:07:48 @mbmf_policy.py:81][0m [dynamics at epoch 48]: Val Loss: 0.2160525768995285, Train Loss: 0.2233816683292389
+[32m[0512 02:07:48 @mbmf_policy.py:81][0m [dynamics at epoch 49]: Val Loss: 0.21605896949768066, Train Loss: 0.2233770340681076
+[32m[0512 02:07:48 @mbmf_policy.py:81][0m [dynamics at epoch 50]: Val Loss: 0.21606528759002686, Train Loss: 0.2233724594116211
+[32m[0512 02:07:48 @mbmf_policy.py:81][0m [dynamics at epoch 51]: Val Loss: 0.21607156097888947, Train Loss: 0.22336791455745697
+[32m[0512 02:07:48 @mbmf_policy.py:81][0m [dynamics at epoch 52]: Val Loss: 0.21607771515846252, Train Loss: 0.22336339950561523
+[32m[0512 02:07:48 @mbmf_policy.py:81][0m [dynamics at epoch 53]: Val Loss: 0.216083824634552, Train Loss: 0.22335892915725708
+[32m[0512 02:07:48 @mbmf_policy.py:81][0m [dynamics at epoch 54]: Val Loss: 0.2160898596048355, Train Loss: 0.2233545035123825
+[32m[0512 02:07:48 @mbmf_policy.py:81][0m [dynamics at epoch 55]: Val Loss: 0.21609583497047424, Train Loss: 0.22335010766983032
+[32m[0512 02:07:48 @mbmf_policy.py:81][0m [dynamics at epoch 56]: Val Loss: 0.216101735830307, Train Loss: 0.22334571182727814
+[32m[0512 02:07:48 @mbmf_policy.py:81][0m [dynamics at epoch 57]: Val Loss: 0.216107577085495, Train Loss: 0.22334137558937073
+[32m[0512 02:07:48 @mbmf_policy.py:81][0m [dynamics at epoch 58]: Val Loss: 0.21611334383487701, Train Loss: 0.2233370691537857
+[32m[0512 02:07:48 @mbmf_policy.py:81][0m [dynamics at epoch 59]: Val Loss: 0.21611905097961426, Train Loss: 0.2233327478170395
+[32m[0512 02:07:48 @mbmf_policy.py:81][0m [dynamics at epoch 60]: Val Loss: 0.21612469851970673, Train Loss: 0.22332851588726044
+[32m[0512 02:07:48 @mbmf_policy.py:81][0m [dynamics at epoch 61]: Val Loss: 0.2161303013563156, Train Loss: 0.223324254155159
+[32m[0512 02:07:48 @mbmf_policy.py:81][0m [dynamics at epoch 62]: Val Loss: 0.21613582968711853, Train Loss: 0.22332003712654114
+[32m[0512 02:07:49 @mbmf_policy.py:81][0m [dynamics at epoch 63]: Val Loss: 0.21614131331443787, Train Loss: 0.22331584990024567
+[32m[0512 02:07:49 @mbmf_policy.py:81][0m [dynamics at epoch 64]: Val Loss: 0.21614673733711243, Train Loss: 0.2233116775751114
+[32m[0512 02:07:49 @mbmf_policy.py:81][0m [dynamics at epoch 65]: Val Loss: 0.2161521166563034, Train Loss: 0.2233075499534607
+[32m[0512 02:07:49 @mbmf_policy.py:81][0m [dynamics at epoch 66]: Val Loss: 0.2161574512720108, Train Loss: 0.2233033925294876
+[32m[0512 02:07:49 @mbmf_policy.py:81][0m [dynamics at epoch 67]: Val Loss: 0.21616268157958984, Train Loss: 0.2232993096113205
+[32m[0512 02:07:49 @mbmf_policy.py:81][0m [dynamics at epoch 68]: Val Loss: 0.21616792678833008, Train Loss: 0.2232952117919922
+[32m[0512 02:07:49 @mbmf_policy.py:81][0m [dynamics at epoch 69]: Val Loss: 0.21617309749126434, Train Loss: 0.22329114377498627
+[32m[0512 02:07:49 @mbmf_policy.py:81][0m [dynamics at epoch 70]: Val Loss: 0.21617822349071503, Train Loss: 0.22328709065914154
+[32m[0512 02:07:49 @mbmf_policy.py:81][0m [dynamics at epoch 71]: Val Loss: 0.21618331968784332, Train Loss: 0.2232830673456192
+[32m[0512 02:07:49 @mbmf_policy.py:81][0m [dynamics at epoch 72]: Val Loss: 0.21618835628032684, Train Loss: 0.22327905893325806
+[32m[0512 02:07:49 @mbmf_policy.py:81][0m [dynamics at epoch 73]: Val Loss: 0.21619334816932678, Train Loss: 0.22327503561973572
+[32m[0512 02:07:49 @mbmf_policy.py:81][0m [dynamics at epoch 74]: Val Loss: 0.21619829535484314, Train Loss: 0.22327107191085815
+[32m[0512 02:07:49 @mbmf_policy.py:81][0m [dynamics at epoch 75]: Val Loss: 0.21620319783687592, Train Loss: 0.2232670783996582
+[32m[0512 02:07:49 @mbmf_policy.py:81][0m [dynamics at epoch 76]: Val Loss: 0.2162080705165863, Train Loss: 0.22326309978961945
+[32m[0512 02:07:49 @mbmf_policy.py:81][0m [dynamics at epoch 77]: Val Loss: 0.2162128984928131, Train Loss: 0.22325919568538666
+[32m[0512 02:07:49 @mbmf_policy.py:81][0m [dynamics at epoch 78]: Val Loss: 0.21621769666671753, Train Loss: 0.2232552468776703
+[32m[0512 02:07:49 @mbmf_policy.py:81][0m [dynamics at epoch 79]: Val Loss: 0.21622246503829956, Train Loss: 0.2232513725757599
+[32m[0512 02:07:49 @mbmf_policy.py:81][0m [dynamics at epoch 80]: Val Loss: 0.216227188706398, Train Loss: 0.2232474684715271
+[32m[0512 02:07:49 @mbmf_policy.py:81][0m [dynamics at epoch 81]: Val Loss: 0.21623188257217407, Train Loss: 0.2232435643672943
+[32m[0512 02:07:49 @mbmf_policy.py:81][0m [dynamics at epoch 82]: Val Loss: 0.21623651683330536, Train Loss: 0.2232397198677063
+[32m[0512 02:07:49 @mbmf_policy.py:81][0m [dynamics at epoch 83]: Val Loss: 0.21624113619327545, Train Loss: 0.2232358604669571
+[32m[0512 02:07:49 @mbmf_policy.py:81][0m [dynamics at epoch 84]: Val Loss: 0.21624571084976196, Train Loss: 0.2232319712638855
+[32m[0512 02:07:49 @mbmf_policy.py:81][0m [dynamics at epoch 85]: Val Loss: 0.21625028550624847, Train Loss: 0.22322818636894226
+[32m[0512 02:07:49 @mbmf_policy.py:81][0m [dynamics at epoch 86]: Val Loss: 0.21625478565692902, Train Loss: 0.22322434186935425
+[32m[0512 02:07:49 @mbmf_policy.py:81][0m [dynamics at epoch 87]: Val Loss: 0.21625931560993195, Train Loss: 0.22322052717208862
+[32m[0512 02:07:49 @mbmf_policy.py:81][0m [dynamics at epoch 88]: Val Loss: 0.2162637561559677, Train Loss: 0.2232166975736618
+[32m[0512 02:07:49 @mbmf_policy.py:81][0m [dynamics at epoch 89]: Val Loss: 0.2162681668996811, Train Loss: 0.22321291267871857
+[32m[0512 02:07:50 @mbmf_policy.py:81][0m [dynamics at epoch 90]: Val Loss: 0.21627260744571686, Train Loss: 0.2232091724872589
+[32m[0512 02:07:50 @mbmf_policy.py:81][0m [dynamics at epoch 91]: Val Loss: 0.21627700328826904, Train Loss: 0.2232053577899933
+[32m[0512 02:07:50 @mbmf_policy.py:81][0m [dynamics at epoch 92]: Val Loss: 0.21628133952617645, Train Loss: 0.22320161759853363
+[32m[0512 02:07:50 @mbmf_policy.py:81][0m [dynamics at epoch 93]: Val Loss: 0.21628569066524506, Train Loss: 0.22319787740707397
+[32m[0512 02:07:50 @mbmf_policy.py:81][0m [dynamics at epoch 94]: Val Loss: 0.21628998219966888, Train Loss: 0.22319410741329193
+[32m[0512 02:07:50 @mbmf_policy.py:81][0m [dynamics at epoch 95]: Val Loss: 0.21629424393177032, Train Loss: 0.22319038212299347
+[32m[0512 02:07:50 @mbmf_policy.py:81][0m [dynamics at epoch 96]: Val Loss: 0.21629847586154938, Train Loss: 0.223186656832695
+[32m[0512 02:07:50 @mbmf_policy.py:81][0m [dynamics at epoch 97]: Val Loss: 0.21630273759365082, Train Loss: 0.22318296134471893
+[32m[0512 02:07:50 @mbmf_policy.py:81][0m [dynamics at epoch 98]: Val Loss: 0.21630693972110748, Train Loss: 0.22317926585674286
+[32m[0512 02:07:50 @mbmf_policy.py:81][0m [dynamics at epoch 99]: Val Loss: 0.21631112694740295, Train Loss: 0.22317558526992798
+[32m[0512 02:07:50 @mbmf_policy.py:81][0m [dynamics at epoch 100]: Val Loss: 0.21631528437137604, Train Loss: 0.2231718748807907
+[32m[0512 02:07:50 @mbmf_policy.py:81][0m [dynamics at epoch 101]: Val Loss: 0.21631942689418793, Train Loss: 0.22316822409629822
+[32m[0512 02:07:50 @mbmf_policy.py:81][0m [dynamics at epoch 102]: Val Loss: 0.21632353961467743, Train Loss: 0.22316454350948334
+[32m[0512 02:07:50 @mbmf_policy.py:81][0m [dynamics at epoch 103]: Val Loss: 0.21632766723632812, Train Loss: 0.22316089272499084
+[32m[0512 02:07:50 @mbmf_policy.py:81][0m [dynamics at epoch 104]: Val Loss: 0.21633172035217285, Train Loss: 0.22315722703933716
+[32m[0512 02:07:50 @mbmf_policy.py:81][0m [dynamics at epoch 105]: Val Loss: 0.21633580327033997, Train Loss: 0.22315359115600586
+[32m[0512 02:07:50 @mbmf_policy.py:81][0m [dynamics at epoch 106]: Val Loss: 0.2163398414850235, Train Loss: 0.22314995527267456
+[32m[0512 02:07:50 @mbmf_policy.py:81][0m [dynamics at epoch 107]: Val Loss: 0.21634383499622345, Train Loss: 0.22314634919166565
+[32m[0512 02:07:50 @mbmf_policy.py:81][0m [dynamics at epoch 108]: Val Loss: 0.2163478583097458, Train Loss: 0.22314269840717316
+[32m[0512 02:07:50 @mbmf_policy.py:81][0m [dynamics at epoch 109]: Val Loss: 0.21635183691978455, Train Loss: 0.22313910722732544
+[32m[0512 02:07:50 @mbmf_policy.py:81][0m [dynamics at epoch 110]: Val Loss: 0.2163558155298233, Train Loss: 0.22313548624515533
+[32m[0512 02:07:50 @mbmf_policy.py:81][0m [dynamics at epoch 111]: Val Loss: 0.21635977923870087, Train Loss: 0.22313189506530762
+[32m[0512 02:07:50 @mbmf_policy.py:81][0m [dynamics at epoch 112]: Val Loss: 0.21636371314525604, Train Loss: 0.2231283187866211
+[32m[0512 02:07:50 @mbmf_policy.py:81][0m [dynamics at epoch 113]: Val Loss: 0.21636764705181122, Train Loss: 0.22312472760677338
+[32m[0512 02:07:50 @mbmf_policy.py:81][0m [dynamics at epoch 114]: Val Loss: 0.21637152135372162, Train Loss: 0.22312118113040924
+[32m[0512 02:07:50 @mbmf_policy.py:81][0m [dynamics at epoch 115]: Val Loss: 0.2163754254579544, Train Loss: 0.2231176346540451
+[32m[0512 02:07:50 @mbmf_policy.py:81][0m [dynamics at epoch 116]: Val Loss: 0.2163792997598648, Train Loss: 0.2231140285730362
+[32m[0512 02:07:50 @mbmf_policy.py:81][0m [dynamics at epoch 117]: Val Loss: 0.21638314425945282, Train Loss: 0.22311048209667206
+[32m[0512 02:07:51 @mbmf_policy.py:81][0m [dynamics at epoch 118]: Val Loss: 0.21638698875904083, Train Loss: 0.22310695052146912
+[32m[0512 02:07:51 @mbmf_policy.py:81][0m [dynamics at epoch 119]: Val Loss: 0.21639081835746765, Train Loss: 0.22310341894626617
+[32m[0512 02:07:51 @mbmf_policy.py:81][0m [dynamics at epoch 120]: Val Loss: 0.21639463305473328, Train Loss: 0.22309988737106323
+[32m[0512 02:07:51 @mbmf_policy.py:81][0m [dynamics at epoch 121]: Val Loss: 0.2163984328508377, Train Loss: 0.2230963557958603
+[32m[0512 02:07:51 @mbmf_policy.py:81][0m [dynamics at epoch 122]: Val Loss: 0.21640221774578094, Train Loss: 0.22309282422065735
+[32m[0512 02:07:51 @mbmf_policy.py:81][0m [dynamics at epoch 123]: Val Loss: 0.216405987739563, Train Loss: 0.22308936715126038
+[32m[0512 02:07:51 @mbmf_policy.py:81][0m [dynamics at epoch 124]: Val Loss: 0.21640974283218384, Train Loss: 0.22308583557605743
+[32m[0512 02:07:51 @mbmf_policy.py:81][0m [dynamics at epoch 125]: Val Loss: 0.21641351282596588, Train Loss: 0.22308231890201569
+[32m[0512 02:07:51 @mbmf_policy.py:81][0m [dynamics at epoch 126]: Val Loss: 0.21641723811626434, Train Loss: 0.22307881712913513
+[32m[0512 02:07:51 @mbmf_policy.py:81][0m [dynamics at epoch 127]: Val Loss: 0.2164209634065628, Train Loss: 0.22307536005973816
+[32m[0512 02:07:51 @mbmf_policy.py:81][0m [dynamics at epoch 128]: Val Loss: 0.21642465889453888, Train Loss: 0.2230719029903412
+[32m[0512 02:07:51 @mbmf_policy.py:81][0m [dynamics at epoch 129]: Val Loss: 0.21642835438251495, Train Loss: 0.22306843101978302
+[32m[0512 02:07:51 @mbmf_policy.py:81][0m [dynamics at epoch 130]: Val Loss: 0.21643203496932983, Train Loss: 0.22306494414806366
+[32m[0512 02:07:51 @mbmf_policy.py:81][0m [dynamics at epoch 131]: Val Loss: 0.21643568575382233, Train Loss: 0.22306150197982788
+[32m[0512 02:07:51 @mbmf_policy.py:81][0m [dynamics at epoch 132]: Val Loss: 0.216439351439476, Train Loss: 0.2230580449104309
+[32m[0512 02:07:51 @mbmf_policy.py:81][0m [dynamics at epoch 133]: Val Loss: 0.2164429873228073, Train Loss: 0.22305461764335632
+[32m[0512 02:07:51 @mbmf_policy.py:81][0m [dynamics at epoch 134]: Val Loss: 0.216446653008461, Train Loss: 0.22305116057395935
+[32m[0512 02:07:51 @mbmf_policy.py:81][0m [dynamics at epoch 135]: Val Loss: 0.2164502590894699, Train Loss: 0.22304776310920715
+[32m[0512 02:07:51 @mbmf_policy.py:81][0m [dynamics at epoch 136]: Val Loss: 0.21645386517047882, Train Loss: 0.22304432094097137
+[32m[0512 02:07:51 @mbmf_policy.py:81][0m [dynamics at epoch 137]: Val Loss: 0.21645745635032654, Train Loss: 0.22304090857505798
+[32m[0512 02:07:51 @mbmf_policy.py:81][0m [dynamics at epoch 138]: Val Loss: 0.21646106243133545, Train Loss: 0.2230374813079834
+[32m[0512 02:07:51 @mbmf_policy.py:81][0m [dynamics at epoch 139]: Val Loss: 0.21646463871002197, Train Loss: 0.2230340838432312
+[32m[0512 02:07:51 @mbmf_policy.py:81][0m [dynamics at epoch 140]: Val Loss: 0.2164682000875473, Train Loss: 0.2230306714773178
+[32m[0512 02:07:51 @mbmf_policy.py:81][0m [dynamics at epoch 141]: Val Loss: 0.21647173166275024, Train Loss: 0.2230272740125656
+[32m[0512 02:07:51 @mbmf_policy.py:81][0m [dynamics at epoch 142]: Val Loss: 0.21647527813911438, Train Loss: 0.2230239063501358
+[32m[0512 02:07:51 @mbmf_policy.py:81][0m [dynamics at epoch 143]: Val Loss: 0.21647882461547852, Train Loss: 0.223020538687706
+[32m[0512 02:07:51 @mbmf_policy.py:81][0m [dynamics at epoch 144]: Val Loss: 0.21648234128952026, Train Loss: 0.2230171263217926
+[32m[0512 02:07:52 @mbmf_policy.py:81][0m [dynamics at epoch 145]: Val Loss: 0.216485857963562, Train Loss: 0.22301380336284637
+[32m[0512 02:07:52 @mbmf_policy.py:81][0m [dynamics at epoch 146]: Val Loss: 0.21648934483528137, Train Loss: 0.22301045060157776
+[32m[0512 02:07:52 @mbmf_policy.py:81][0m [dynamics at epoch 147]: Val Loss: 0.21649286150932312, Train Loss: 0.22300705313682556
+[32m[0512 02:07:52 @mbmf_policy.py:81][0m [dynamics at epoch 148]: Val Loss: 0.21649634838104248, Train Loss: 0.22300371527671814
+[32m[0512 02:07:52 @mbmf_policy.py:81][0m [dynamics at epoch 149]: Val Loss: 0.21649980545043945, Train Loss: 0.22300034761428833
+[32m[0512 02:07:52 @mbmf_policy.py:81][0m [dynamics at epoch 150]: Val Loss: 0.21650326251983643, Train Loss: 0.2229970246553421
+[32m[0512 02:07:52 @mbmf_policy.py:81][0m [dynamics at epoch 151]: Val Loss: 0.2165067344903946, Train Loss: 0.22299368679523468
+[32m[0512 02:07:52 @mbmf_policy.py:81][0m [dynamics at epoch 152]: Val Loss: 0.21651016175746918, Train Loss: 0.22299034893512726
+[32m[0512 02:07:52 @mbmf_policy.py:81][0m [dynamics at epoch 153]: Val Loss: 0.21651361882686615, Train Loss: 0.22298702597618103
+[32m[0512 02:07:52 @mbmf_policy.py:81][0m [dynamics at epoch 154]: Val Loss: 0.21651701629161835, Train Loss: 0.22298374772071838
+[32m[0512 02:07:52 @mbmf_policy.py:81][0m [dynamics at epoch 155]: Val Loss: 0.21652045845985413, Train Loss: 0.22298042476177216
+[32m[0512 02:07:52 @mbmf_policy.py:81][0m [dynamics at epoch 156]: Val Loss: 0.21652385592460632, Train Loss: 0.22297711670398712
+[32m[0512 02:07:52 @mbmf_policy.py:81][0m [dynamics at epoch 157]: Val Loss: 0.21652725338935852, Train Loss: 0.22297382354736328
+[32m[0512 02:07:52 @mbmf_policy.py:81][0m [dynamics at epoch 158]: Val Loss: 0.2165306806564331, Train Loss: 0.22297053039073944
+[32m[0512 02:07:52 @mbmf_policy.py:81][0m [dynamics at epoch 159]: Val Loss: 0.21653403341770172, Train Loss: 0.2229672223329544
+[32m[0512 02:07:52 @mbmf_policy.py:81][0m [dynamics at epoch 160]: Val Loss: 0.21653737127780914, Train Loss: 0.22296397387981415
+[32m[0512 02:07:52 @mbmf_policy.py:81][0m [dynamics at epoch 161]: Val Loss: 0.21654072403907776, Train Loss: 0.2229606807231903
+[32m[0512 02:07:52 @mbmf_policy.py:81][0m [dynamics at epoch 162]: Val Loss: 0.21654409170150757, Train Loss: 0.22295741736888885
+[32m[0512 02:07:52 @mbmf_policy.py:81][0m [dynamics at epoch 163]: Val Loss: 0.21654747426509857, Train Loss: 0.22295412421226501
+[32m[0512 02:07:52 @mbmf_policy.py:81][0m [dynamics at epoch 164]: Val Loss: 0.2165507674217224, Train Loss: 0.22295089066028595
+[32m[0512 02:07:52 @mbmf_policy.py:81][0m [dynamics at epoch 165]: Val Loss: 0.21655413508415222, Train Loss: 0.2229475975036621
+[32m[0512 02:07:52 @mbmf_policy.py:81][0m [dynamics at epoch 166]: Val Loss: 0.21655744314193726, Train Loss: 0.22294439375400543
+[32m[0512 02:07:52 @mbmf_policy.py:81][0m [dynamics at epoch 167]: Val Loss: 0.2165607362985611, Train Loss: 0.22294114530086517
+[32m[0512 02:07:52 @mbmf_policy.py:81][0m [dynamics at epoch 168]: Val Loss: 0.21656404435634613, Train Loss: 0.22293789684772491
+[32m[0512 02:07:52 @mbmf_policy.py:81][0m [dynamics at epoch 169]: Val Loss: 0.21656733751296997, Train Loss: 0.22293467819690704
+[32m[0512 02:07:52 @mbmf_policy.py:81][0m [dynamics at epoch 170]: Val Loss: 0.21657061576843262, Train Loss: 0.22293144464492798
+[32m[0512 02:07:52 @mbmf_policy.py:81][0m [dynamics at epoch 171]: Val Loss: 0.21657389402389526, Train Loss: 0.2229282259941101
+[32m[0512 02:07:52 @mbmf_policy.py:81][0m [dynamics at epoch 172]: Val Loss: 0.2165771722793579, Train Loss: 0.22292499244213104
+[32m[0512 02:07:53 @mbmf_policy.py:81][0m [dynamics at epoch 173]: Val Loss: 0.21658042073249817, Train Loss: 0.22292178869247437
+[32m[0512 02:07:53 @mbmf_policy.py:81][0m [dynamics at epoch 174]: Val Loss: 0.21658366918563843, Train Loss: 0.2229185849428177
+[32m[0512 02:07:53 @mbmf_policy.py:81][0m [dynamics at epoch 175]: Val Loss: 0.21658693253993988, Train Loss: 0.2229153960943222
+[32m[0512 02:07:53 @mbmf_policy.py:81][0m [dynamics at epoch 176]: Val Loss: 0.21659015119075775, Train Loss: 0.22291222214698792
+[32m[0512 02:07:53 @mbmf_policy.py:81][0m [dynamics at epoch 177]: Val Loss: 0.216593399643898, Train Loss: 0.22290898859500885
+[32m[0512 02:07:53 @mbmf_policy.py:81][0m [dynamics at epoch 178]: Val Loss: 0.21659661829471588, Train Loss: 0.22290581464767456
+[32m[0512 02:07:53 @mbmf_policy.py:81][0m [dynamics at epoch 179]: Val Loss: 0.21659982204437256, Train Loss: 0.22290264070034027
+[32m[0512 02:07:53 @mbmf_policy.py:81][0m [dynamics at epoch 180]: Val Loss: 0.21660302579402924, Train Loss: 0.2228994518518448
+[32m[0512 02:07:53 @mbmf_policy.py:81][0m [dynamics at epoch 181]: Val Loss: 0.21660621464252472, Train Loss: 0.2228962928056717
+[32m[0512 02:07:53 @mbmf_policy.py:81][0m [dynamics at epoch 182]: Val Loss: 0.2166094183921814, Train Loss: 0.2228931337594986
+[32m[0512 02:07:53 @mbmf_policy.py:81][0m [dynamics at epoch 183]: Val Loss: 0.2166125774383545, Train Loss: 0.2228899598121643
+[32m[0512 02:07:53 @mbmf_policy.py:81][0m [dynamics at epoch 184]: Val Loss: 0.2166157364845276, Train Loss: 0.2228868156671524
+[32m[0512 02:07:53 @mbmf_policy.py:81][0m [dynamics at epoch 185]: Val Loss: 0.21661892533302307, Train Loss: 0.2228836566209793
+[32m[0512 02:07:53 @mbmf_policy.py:81][0m [dynamics at epoch 186]: Val Loss: 0.21662208437919617, Train Loss: 0.2228805273771286
+[32m[0512 02:07:53 @mbmf_policy.py:81][0m [dynamics at epoch 187]: Val Loss: 0.21662522852420807, Train Loss: 0.2228773981332779
+[32m[0512 02:07:53 @mbmf_policy.py:81][0m [dynamics at epoch 188]: Val Loss: 0.21662838757038116, Train Loss: 0.222874253988266
+[32m[0512 02:07:53 @mbmf_policy.py:81][0m [dynamics at epoch 189]: Val Loss: 0.21663151681423187, Train Loss: 0.22287112474441528
+[32m[0512 02:07:53 @mbmf_policy.py:81][0m [dynamics at epoch 190]: Val Loss: 0.2166346162557602, Train Loss: 0.22286799550056458
+[32m[0512 02:07:53 @mbmf_policy.py:81][0m [dynamics at epoch 191]: Val Loss: 0.2166377753019333, Train Loss: 0.22286489605903625
+[32m[0512 02:07:53 @mbmf_policy.py:81][0m [dynamics at epoch 192]: Val Loss: 0.2166408896446228, Train Loss: 0.22286176681518555
+[32m[0512 02:07:53 @mbmf_policy.py:81][0m [dynamics at epoch 193]: Val Loss: 0.21664398908615112, Train Loss: 0.22285868227481842
+[32m[0512 02:07:53 @mbmf_policy.py:81][0m [dynamics at epoch 194]: Val Loss: 0.21664710342884064, Train Loss: 0.2228555530309677
+[32m[0512 02:07:53 @mbmf_policy.py:81][0m [dynamics at epoch 195]: Val Loss: 0.21665018796920776, Train Loss: 0.2228524535894394
+[32m[0512 02:07:53 @mbmf_policy.py:81][0m [dynamics at epoch 196]: Val Loss: 0.2166532576084137, Train Loss: 0.22284938395023346
+[32m[0512 02:07:53 @mbmf_policy.py:81][0m [dynamics at epoch 197]: Val Loss: 0.21665634214878082, Train Loss: 0.22284626960754395
+[32m[0512 02:07:53 @mbmf_policy.py:81][0m [dynamics at epoch 198]: Val Loss: 0.21665941178798676, Train Loss: 0.222843199968338
+[32m[0512 02:07:53 @mbmf_policy.py:81][0m [dynamics at epoch 199]: Val Loss: 0.21666249632835388, Train Loss: 0.22284013032913208
+[32m[0512 02:07:53 @mbmf_policy.py:81][0m [dynamics at epoch 200]: Val Loss: 0.21666552126407623, Train Loss: 0.22283706068992615
+[32m[0512 02:07:54 @mbmf_policy.py:81][0m [dynamics at epoch 201]: Val Loss: 0.21666860580444336, Train Loss: 0.2228340208530426
+[32m[0512 02:07:54 @mbmf_policy.py:81][0m [dynamics at epoch 202]: Val Loss: 0.2166716307401657, Train Loss: 0.22283093631267548
+[32m[0512 02:07:54 @mbmf_policy.py:81][0m [dynamics at epoch 203]: Val Loss: 0.21667467057704926, Train Loss: 0.22282786667346954
+[32m[0512 02:07:54 @mbmf_policy.py:81][0m [dynamics at epoch 204]: Val Loss: 0.2166776806116104, Train Loss: 0.2228248119354248
+[32m[0512 02:07:54 @mbmf_policy.py:81][0m [dynamics at epoch 205]: Val Loss: 0.21668072044849396, Train Loss: 0.22282178699970245
+[32m[0512 02:07:54 @mbmf_policy.py:81][0m [dynamics at epoch 206]: Val Loss: 0.21668373048305511, Train Loss: 0.22281871736049652
+[32m[0512 02:07:54 @mbmf_policy.py:81][0m [dynamics at epoch 207]: Val Loss: 0.21668675541877747, Train Loss: 0.22281569242477417
+[32m[0512 02:07:54 @mbmf_policy.py:81][0m [dynamics at epoch 208]: Val Loss: 0.21668975055217743, Train Loss: 0.22281266748905182
+[32m[0512 02:07:54 @mbmf_policy.py:81][0m [dynamics at epoch 209]: Val Loss: 0.216692715883255, Train Loss: 0.2228095978498459
+[32m[0512 02:07:54 @mbmf_policy.py:81][0m [dynamics at epoch 210]: Val Loss: 0.21669572591781616, Train Loss: 0.22280660271644592
+[32m[0512 02:07:54 @mbmf_policy.py:81][0m [dynamics at epoch 211]: Val Loss: 0.21669869124889374, Train Loss: 0.22280356287956238
+[32m[0512 02:07:54 @mbmf_policy.py:81][0m [dynamics at epoch 212]: Val Loss: 0.2167016863822937, Train Loss: 0.2228005826473236
+[32m[0512 02:07:54 @mbmf_policy.py:81][0m [dynamics at epoch 213]: Val Loss: 0.21670466661453247, Train Loss: 0.22279758751392365
+[32m[0512 02:07:54 @mbmf_policy.py:81][0m [dynamics at epoch 214]: Val Loss: 0.21670761704444885, Train Loss: 0.2227945327758789
+[32m[0512 02:07:54 @mbmf_policy.py:81][0m [dynamics at epoch 215]: Val Loss: 0.21671058237552643, Train Loss: 0.22279158234596252
+[32m[0512 02:07:54 @mbmf_policy.py:81][0m [dynamics at epoch 216]: Val Loss: 0.2167135328054428, Train Loss: 0.22278854250907898
+[32m[0512 02:07:54 @mbmf_policy.py:81][0m [dynamics at epoch 217]: Val Loss: 0.216716468334198, Train Loss: 0.2227855622768402
+[32m[0512 02:07:54 @mbmf_policy.py:81][0m [dynamics at epoch 218]: Val Loss: 0.21671940386295319, Train Loss: 0.22278258204460144
+[32m[0512 02:07:54 @mbmf_policy.py:81][0m [dynamics at epoch 219]: Val Loss: 0.21672233939170837, Train Loss: 0.22277960181236267
+[32m[0512 02:07:54 @mbmf_policy.py:81][0m [dynamics at epoch 220]: Val Loss: 0.21672524511814117, Train Loss: 0.2227766215801239
+[32m[0512 02:07:54 @mbmf_policy.py:81][0m [dynamics at epoch 221]: Val Loss: 0.21672816574573517, Train Loss: 0.22277362644672394
+[32m[0512 02:07:54 @mbmf_policy.py:81][0m [dynamics at epoch 222]: Val Loss: 0.21673107147216797, Train Loss: 0.22277069091796875
+[32m[0512 02:07:54 @mbmf_policy.py:81][0m [dynamics at epoch 223]: Val Loss: 0.21673400700092316, Train Loss: 0.22276772558689117
+[32m[0512 02:07:54 @mbmf_policy.py:81][0m [dynamics at epoch 224]: Val Loss: 0.21673691272735596, Train Loss: 0.2227647453546524
+[32m[0512 02:07:54 @mbmf_policy.py:81][0m [dynamics at epoch 225]: Val Loss: 0.21673977375030518, Train Loss: 0.22276179492473602
+[32m[0512 02:07:54 @mbmf_policy.py:81][0m [dynamics at epoch 226]: Val Loss: 0.21674267947673798, Train Loss: 0.22275884449481964
+[32m[0512 02:07:54 @mbmf_policy.py:81][0m [dynamics at epoch 227]: Val Loss: 0.2167455404996872, Train Loss: 0.22275587916374207
+[32m[0512 02:07:54 @mbmf_policy.py:81][0m [dynamics at epoch 228]: Val Loss: 0.21674844622612, Train Loss: 0.22275297343730927
+[32m[0512 02:07:55 @mbmf_policy.py:81][0m [dynamics at epoch 229]: Val Loss: 0.2167513072490692, Train Loss: 0.22275003790855408
+[32m[0512 02:07:55 @mbmf_policy.py:81][0m [dynamics at epoch 230]: Val Loss: 0.21675416827201843, Train Loss: 0.2227471023797989
+[32m[0512 02:07:55 @mbmf_policy.py:81][0m [dynamics at epoch 231]: Val Loss: 0.21675701439380646, Train Loss: 0.2227441668510437
+[32m[0512 02:07:55 @mbmf_policy.py:81][0m [dynamics at epoch 232]: Val Loss: 0.21675986051559448, Train Loss: 0.22274121642112732
+[32m[0512 02:07:55 @mbmf_policy.py:81][0m [dynamics at epoch 233]: Val Loss: 0.2167627364397049, Train Loss: 0.2227383255958557
+[32m[0512 02:07:55 @mbmf_policy.py:81][0m [dynamics at epoch 234]: Val Loss: 0.21676555275917053, Train Loss: 0.22273539006710052
+[32m[0512 02:07:55 @mbmf_policy.py:81][0m [dynamics at epoch 235]: Val Loss: 0.21676839888095856, Train Loss: 0.22273248434066772
+[32m[0512 02:07:55 @mbmf_policy.py:81][0m [dynamics at epoch 236]: Val Loss: 0.2167712301015854, Train Loss: 0.2227296084165573
+[32m[0512 02:07:55 @mbmf_policy.py:81][0m [dynamics at epoch 237]: Val Loss: 0.21677401661872864, Train Loss: 0.22272665798664093
+[32m[0512 02:07:55 @mbmf_policy.py:81][0m [dynamics at epoch 238]: Val Loss: 0.21677684783935547, Train Loss: 0.22272375226020813
+[32m[0512 02:07:55 @mbmf_policy.py:81][0m [dynamics at epoch 239]: Val Loss: 0.2167796492576599, Train Loss: 0.2227208912372589
+[32m[0512 02:07:55 @mbmf_policy.py:81][0m [dynamics at epoch 240]: Val Loss: 0.21678245067596436, Train Loss: 0.2227179855108261
+[32m[0512 02:07:55 @mbmf_policy.py:81][0m [dynamics at epoch 241]: Val Loss: 0.2167852520942688, Train Loss: 0.2227150946855545
+[32m[0512 02:07:55 @mbmf_policy.py:81][0m [dynamics at epoch 242]: Val Loss: 0.21678805351257324, Train Loss: 0.22271223366260529
+[32m[0512 02:07:55 @mbmf_policy.py:81][0m [dynamics at epoch 243]: Val Loss: 0.2167908400297165, Train Loss: 0.22270934283733368
+[32m[0512 02:07:55 @mbmf_policy.py:81][0m [dynamics at epoch 244]: Val Loss: 0.21679362654685974, Train Loss: 0.22270651161670685
+[32m[0512 02:07:55 @mbmf_policy.py:81][0m [dynamics at epoch 245]: Val Loss: 0.2167963981628418, Train Loss: 0.22270360589027405
+[32m[0512 02:07:55 @mbmf_policy.py:81][0m [dynamics at epoch 246]: Val Loss: 0.21679915487766266, Train Loss: 0.22270075976848602
+[32m[0512 02:07:55 @mbmf_policy.py:81][0m [dynamics at epoch 247]: Val Loss: 0.21680191159248352, Train Loss: 0.2226978838443756
+[32m[0512 02:07:55 @mbmf_policy.py:81][0m [dynamics at epoch 248]: Val Loss: 0.21680468320846558, Train Loss: 0.22269503772258759
+[32m[0512 02:07:55 @mbmf_policy.py:81][0m [dynamics at epoch 249]: Val Loss: 0.21680743992328644, Train Loss: 0.22269216179847717
+[32m[0512 02:07:55 @mbmf_policy.py:81][0m [dynamics at epoch 250]: Val Loss: 0.2168101817369461, Train Loss: 0.22268933057785034
+[32m[0512 02:07:55 @mbmf_policy.py:81][0m [dynamics at epoch 251]: Val Loss: 0.21681290864944458, Train Loss: 0.2226864993572235
+[32m[0512 02:07:55 @mbmf_policy.py:81][0m [dynamics at epoch 252]: Val Loss: 0.21681565046310425, Train Loss: 0.2226836383342743
+[32m[0512 02:07:55 @mbmf_policy.py:81][0m [dynamics at epoch 253]: Val Loss: 0.21681837737560272, Train Loss: 0.22268079221248627
+[32m[0512 02:07:55 @mbmf_policy.py:81][0m [dynamics at epoch 254]: Val Loss: 0.2168211042881012, Train Loss: 0.22267797589302063
+[32m[0512 02:07:55 @mbmf_policy.py:81][0m [dynamics at epoch 255]: Val Loss: 0.21682386100292206, Train Loss: 0.2226751446723938
+[32m[0512 02:07:55 @mbmf_policy.py:81][0m [dynamics at epoch 256]: Val Loss: 0.21682654321193695, Train Loss: 0.22267232835292816
+[32m[0512 02:07:56 @mbmf_policy.py:81][0m [dynamics at epoch 257]: Val Loss: 0.21682924032211304, Train Loss: 0.22266949713230133
+[32m[0512 02:07:56 @mbmf_policy.py:81][0m [dynamics at epoch 258]: Val Loss: 0.2168319672346115, Train Loss: 0.2226666808128357
+[32m[0512 02:07:56 @mbmf_policy.py:81][0m [dynamics at epoch 259]: Val Loss: 0.2168346494436264, Train Loss: 0.22266386449337006
+[32m[0512 02:07:56 @mbmf_policy.py:81][0m [dynamics at epoch 260]: Val Loss: 0.2168373465538025, Train Loss: 0.22266104817390442
+[32m[0512 02:07:56 @mbmf_policy.py:81][0m [dynamics at epoch 261]: Val Loss: 0.21684002876281738, Train Loss: 0.22265826165676117
+[32m[0512 02:07:56 @mbmf_policy.py:81][0m [dynamics at epoch 262]: Val Loss: 0.21684269607067108, Train Loss: 0.22265547513961792
+[32m[0512 02:07:56 @mbmf_policy.py:81][0m [dynamics at epoch 263]: Val Loss: 0.21684539318084717, Train Loss: 0.2226526439189911
+[32m[0512 02:07:56 @mbmf_policy.py:81][0m [dynamics at epoch 264]: Val Loss: 0.21684807538986206, Train Loss: 0.22264988720417023
+[32m[0512 02:07:56 @mbmf_policy.py:81][0m [dynamics at epoch 265]: Val Loss: 0.21685074269771576, Train Loss: 0.22264708578586578
+[32m[0512 02:07:56 @mbmf_policy.py:81][0m [dynamics at epoch 266]: Val Loss: 0.21685341000556946, Train Loss: 0.22264426946640015
+[32m[0512 02:07:56 @mbmf_policy.py:81][0m [dynamics at epoch 267]: Val Loss: 0.21685604751110077, Train Loss: 0.2226414978504181
+[32m[0512 02:07:56 @mbmf_policy.py:81][0m [dynamics at epoch 268]: Val Loss: 0.21685869991779327, Train Loss: 0.22263874113559723
+[32m[0512 02:07:56 @mbmf_policy.py:81][0m [dynamics at epoch 269]: Val Loss: 0.2168613225221634, Train Loss: 0.22263595461845398
+[32m[0512 02:07:56 @mbmf_policy.py:81][0m [dynamics at epoch 270]: Val Loss: 0.2168639898300171, Train Loss: 0.22263316810131073
+[32m[0512 02:07:56 @mbmf_policy.py:81][0m [dynamics at epoch 271]: Val Loss: 0.2168666124343872, Train Loss: 0.22263042628765106
+[32m[0512 02:07:56 @mbmf_policy.py:81][0m [dynamics at epoch 272]: Val Loss: 0.21686923503875732, Train Loss: 0.222627654671669
+[32m[0512 02:07:56 @mbmf_policy.py:81][0m [dynamics at epoch 273]: Val Loss: 0.21687187254428864, Train Loss: 0.22262488305568695
+[32m[0512 02:07:56 @mbmf_policy.py:81][0m [dynamics at epoch 274]: Val Loss: 0.21687448024749756, Train Loss: 0.22262214124202728
+[32m[0512 02:07:56 @mbmf_policy.py:81][0m [dynamics at epoch 275]: Val Loss: 0.21687710285186768, Train Loss: 0.22261939942836761
+[32m[0512 02:07:56 @mbmf_policy.py:81][0m [dynamics at epoch 276]: Val Loss: 0.2168796956539154, Train Loss: 0.22261665761470795
+[32m[0512 02:07:56 @mbmf_policy.py:81][0m [dynamics at epoch 277]: Val Loss: 0.21688231825828552, Train Loss: 0.22261390089988708
+[32m[0512 02:07:56 @mbmf_policy.py:81][0m [dynamics at epoch 278]: Val Loss: 0.21688491106033325, Train Loss: 0.22261115908622742
+[32m[0512 02:07:56 @mbmf_policy.py:81][0m [dynamics at epoch 279]: Val Loss: 0.2168874889612198, Train Loss: 0.22260840237140656
+[32m[0512 02:07:56 @mbmf_policy.py:81][0m [dynamics at epoch 280]: Val Loss: 0.21689008176326752, Train Loss: 0.22260570526123047
+[32m[0512 02:07:56 @mbmf_policy.py:81][0m [dynamics at epoch 281]: Val Loss: 0.21689267456531525, Train Loss: 0.2226029336452484
+[32m[0512 02:07:56 @mbmf_policy.py:81][0m [dynamics at epoch 282]: Val Loss: 0.21689526736736298, Train Loss: 0.22260023653507233
+[32m[0512 02:07:56 @mbmf_policy.py:81][0m [dynamics at epoch 283]: Val Loss: 0.21689781546592712, Train Loss: 0.22259750962257385
+[32m[0512 02:07:56 @mbmf_policy.py:81][0m [dynamics at epoch 284]: Val Loss: 0.21690037846565247, Train Loss: 0.22259478271007538
+[32m[0512 02:07:57 @mbmf_policy.py:81][0m [dynamics at epoch 285]: Val Loss: 0.2169029265642166, Train Loss: 0.2225920706987381
+[32m[0512 02:07:57 @mbmf_policy.py:81][0m [dynamics at epoch 286]: Val Loss: 0.21690551936626434, Train Loss: 0.22258934378623962
+[32m[0512 02:07:57 @mbmf_policy.py:81][0m [dynamics at epoch 287]: Val Loss: 0.2169080674648285, Train Loss: 0.22258664667606354
+[32m[0512 02:07:57 @mbmf_policy.py:81][0m [dynamics at epoch 288]: Val Loss: 0.21691058576107025, Train Loss: 0.22258396446704865
+[32m[0512 02:07:57 @mbmf_policy.py:81][0m [dynamics at epoch 289]: Val Loss: 0.2169131487607956, Train Loss: 0.22258123755455017
+[32m[0512 02:07:57 @mbmf_policy.py:81][0m [dynamics at epoch 290]: Val Loss: 0.21691566705703735, Train Loss: 0.2225785255432129
+[32m[0512 02:07:57 @mbmf_policy.py:81][0m [dynamics at epoch 291]: Val Loss: 0.2169182449579239, Train Loss: 0.222575843334198
+[32m[0512 02:07:57 @mbmf_policy.py:81][0m [dynamics at epoch 292]: Val Loss: 0.21692071855068207, Train Loss: 0.2225731462240219
+[32m[0512 02:07:57 @mbmf_policy.py:81][0m [dynamics at epoch 293]: Val Loss: 0.21692326664924622, Train Loss: 0.2225704789161682
+[32m[0512 02:07:57 @mbmf_policy.py:81][0m [dynamics at epoch 294]: Val Loss: 0.21692578494548798, Train Loss: 0.22256781160831451
+[32m[0512 02:07:57 @mbmf_policy.py:81][0m [dynamics at epoch 295]: Val Loss: 0.21692827343940735, Train Loss: 0.22256511449813843
+[32m[0512 02:07:57 @mbmf_policy.py:81][0m [dynamics at epoch 296]: Val Loss: 0.2169307917356491, Train Loss: 0.22256241738796234
+[32m[0512 02:07:57 @mbmf_policy.py:81][0m [dynamics at epoch 297]: Val Loss: 0.21693331003189087, Train Loss: 0.22255975008010864
+[32m[0512 02:07:57 @mbmf_policy.py:81][0m [dynamics at epoch 298]: Val Loss: 0.21693576872348785, Train Loss: 0.22255706787109375
+[32m[0512 02:07:57 @mbmf_policy.py:81][0m [dynamics at epoch 299]: Val Loss: 0.21693827211856842, Train Loss: 0.22255443036556244
+[32m[0512 02:07:57 @mbmf_sampler.py:98][0m Finished 9th episode
+[32m[0512 02:07:57 @mbmf_sampler.py:102][0m 1809 timesteps from 9 episodes collected
+[32m[0512 02:29:05 @mbmf_trainer.py:160][0m Mean reward: -362.71602905179674
+[32m[0512 02:29:05 @mbmf_policy.py:81][0m [dynamics at epoch 0]: Val Loss: 0.22483493387699127, Train Loss: 0.22091712057590485
+[32m[0512 02:29:05 @mbmf_policy.py:81][0m [dynamics at epoch 1]: Val Loss: 0.22491905093193054, Train Loss: 0.22079026699066162
+[32m[0512 02:29:05 @mbmf_policy.py:81][0m [dynamics at epoch 2]: Val Loss: 0.22492708265781403, Train Loss: 0.22074578702449799
+[32m[0512 02:29:05 @mbmf_policy.py:81][0m [dynamics at epoch 3]: Val Loss: 0.22495965659618378, Train Loss: 0.2206888645887375
+[32m[0512 02:29:05 @mbmf_policy.py:81][0m [dynamics at epoch 4]: Val Loss: 0.22498266398906708, Train Loss: 0.22065746784210205
+[32m[0512 02:29:05 @mbmf_policy.py:81][0m [dynamics at epoch 5]: Val Loss: 0.2249973565340042, Train Loss: 0.22063075006008148
+[32m[0512 02:29:05 @mbmf_policy.py:81][0m [dynamics at epoch 6]: Val Loss: 0.22501203417778015, Train Loss: 0.2206074297428131
+[32m[0512 02:29:05 @mbmf_policy.py:81][0m [dynamics at epoch 7]: Val Loss: 0.2250225841999054, Train Loss: 0.2205873280763626
+[32m[0512 02:29:05 @mbmf_policy.py:81][0m [dynamics at epoch 8]: Val Loss: 0.22502990067005157, Train Loss: 0.22056898474693298
+[32m[0512 02:29:05 @mbmf_policy.py:81][0m [dynamics at epoch 9]: Val Loss: 0.22503547370433807, Train Loss: 0.22055193781852722
+[32m[0512 02:29:05 @mbmf_policy.py:81][0m [dynamics at epoch 10]: Val Loss: 0.22503942251205444, Train Loss: 0.2205359786748886
+[32m[0512 02:29:05 @mbmf_policy.py:81][0m [dynamics at epoch 11]: Val Loss: 0.2250422090291977, Train Loss: 0.22052089869976044
+[32m[0512 02:29:05 @mbmf_policy.py:81][0m [dynamics at epoch 12]: Val Loss: 0.2250441610813141, Train Loss: 0.22050656378269196
+[32m[0512 02:29:05 @mbmf_policy.py:81][0m [dynamics at epoch 13]: Val Loss: 0.22504547238349915, Train Loss: 0.2204929143190384
+[32m[0512 02:29:05 @mbmf_policy.py:81][0m [dynamics at epoch 14]: Val Loss: 0.225046306848526, Train Loss: 0.220479816198349
+[32m[0512 02:29:05 @mbmf_policy.py:81][0m [dynamics at epoch 15]: Val Loss: 0.22504684329032898, Train Loss: 0.2204672396183014
+[32m[0512 02:29:05 @mbmf_policy.py:81][0m [dynamics at epoch 16]: Val Loss: 0.22504712641239166, Train Loss: 0.220455139875412
+[32m[0512 02:29:05 @mbmf_policy.py:81][0m [dynamics at epoch 17]: Val Loss: 0.22504733502864838, Train Loss: 0.2204435020685196
+[32m[0512 02:29:05 @mbmf_policy.py:81][0m [dynamics at epoch 18]: Val Loss: 0.22504740953445435, Train Loss: 0.22043220698833466
+[32m[0512 02:29:05 @mbmf_policy.py:81][0m [dynamics at epoch 19]: Val Loss: 0.22504745423793793, Train Loss: 0.22042131423950195
+[32m[0512 02:29:06 @mbmf_policy.py:81][0m [dynamics at epoch 20]: Val Loss: 0.2250474989414215, Train Loss: 0.2204107791185379
+[32m[0512 02:29:06 @mbmf_policy.py:81][0m [dynamics at epoch 21]: Val Loss: 0.22504755854606628, Train Loss: 0.22040055692195892
+[32m[0512 02:29:06 @mbmf_policy.py:81][0m [dynamics at epoch 22]: Val Loss: 0.22504767775535583, Train Loss: 0.22039061784744263
+[32m[0512 02:29:06 @mbmf_policy.py:81][0m [dynamics at epoch 23]: Val Loss: 0.22504787147045135, Train Loss: 0.220380961894989
+[32m[0512 02:29:06 @mbmf_policy.py:81][0m [dynamics at epoch 24]: Val Loss: 0.22504810988903046, Train Loss: 0.2203715443611145
+[32m[0512 02:29:06 @mbmf_policy.py:81][0m [dynamics at epoch 25]: Val Loss: 0.22504840791225433, Train Loss: 0.22036238014698029
+[32m[0512 02:29:06 @mbmf_policy.py:81][0m [dynamics at epoch 26]: Val Loss: 0.22504882514476776, Train Loss: 0.22035348415374756
+[32m[0512 02:29:06 @mbmf_policy.py:81][0m [dynamics at epoch 27]: Val Loss: 0.22504931688308716, Train Loss: 0.22034479677677155
+[32m[0512 02:29:06 @mbmf_policy.py:81][0m [dynamics at epoch 28]: Val Loss: 0.22504988312721252, Train Loss: 0.22033628821372986
+[32m[0512 02:29:06 @mbmf_policy.py:81][0m [dynamics at epoch 29]: Val Loss: 0.22505055367946625, Train Loss: 0.2203279733657837
+[32m[0512 02:29:06 @mbmf_policy.py:81][0m [dynamics at epoch 30]: Val Loss: 0.22505134344100952, Train Loss: 0.22031985223293304
+[32m[0512 02:29:06 @mbmf_policy.py:81][0m [dynamics at epoch 31]: Val Loss: 0.22505220770835876, Train Loss: 0.22031189501285553
+[32m[0512 02:29:06 @mbmf_policy.py:81][0m [dynamics at epoch 32]: Val Loss: 0.22505317628383636, Train Loss: 0.22030408680438995
+[32m[0512 02:29:06 @mbmf_policy.py:81][0m [dynamics at epoch 33]: Val Loss: 0.22505423426628113, Train Loss: 0.2202964872121811
+[32m[0512 02:29:06 @mbmf_policy.py:81][0m [dynamics at epoch 34]: Val Loss: 0.22505541145801544, Train Loss: 0.22028900682926178
+[32m[0512 02:29:06 @mbmf_policy.py:81][0m [dynamics at epoch 35]: Val Loss: 0.22505663335323334, Train Loss: 0.2202816754579544
+[32m[0512 02:29:06 @mbmf_policy.py:81][0m [dynamics at epoch 36]: Val Loss: 0.22505797445774078, Train Loss: 0.22027447819709778
+[32m[0512 02:29:06 @mbmf_policy.py:81][0m [dynamics at epoch 37]: Val Loss: 0.225059375166893, Train Loss: 0.2202673703432083
+[32m[0512 02:29:06 @mbmf_policy.py:81][0m [dynamics at epoch 38]: Val Loss: 0.22506089508533478, Train Loss: 0.22026044130325317
+[32m[0512 02:29:06 @mbmf_policy.py:81][0m [dynamics at epoch 39]: Val Loss: 0.22506248950958252, Train Loss: 0.220253586769104
+[32m[0512 02:29:06 @mbmf_policy.py:81][0m [dynamics at epoch 40]: Val Loss: 0.22506414353847504, Train Loss: 0.22024689614772797
+[32m[0512 02:29:06 @mbmf_policy.py:81][0m [dynamics at epoch 41]: Val Loss: 0.2250659167766571, Train Loss: 0.2202402651309967
+[32m[0512 02:29:07 @mbmf_policy.py:81][0m [dynamics at epoch 42]: Val Loss: 0.22506773471832275, Train Loss: 0.2202337682247162
+[32m[0512 02:29:07 @mbmf_policy.py:81][0m [dynamics at epoch 43]: Val Loss: 0.22506965696811676, Train Loss: 0.22022736072540283
+[32m[0512 02:29:07 @mbmf_policy.py:81][0m [dynamics at epoch 44]: Val Loss: 0.22507163882255554, Train Loss: 0.22022104263305664
+[32m[0512 02:29:07 @mbmf_policy.py:81][0m [dynamics at epoch 45]: Val Loss: 0.2250736802816391, Train Loss: 0.2202148139476776
+[32m[0512 02:29:07 @mbmf_policy.py:81][0m [dynamics at epoch 46]: Val Loss: 0.225075826048851, Train Loss: 0.22020868957042694
+[32m[0512 02:29:07 @mbmf_policy.py:81][0m [dynamics at epoch 47]: Val Loss: 0.22507798671722412, Train Loss: 0.22020262479782104
+[32m[0512 02:29:07 @mbmf_policy.py:81][0m [dynamics at epoch 48]: Val Loss: 0.22508025169372559, Train Loss: 0.2201966792345047
+[32m[0512 02:29:07 @mbmf_policy.py:81][0m [dynamics at epoch 49]: Val Loss: 0.22508257627487183, Train Loss: 0.22019077837467194
+[32m[0512 02:29:07 @mbmf_policy.py:81][0m [dynamics at epoch 50]: Val Loss: 0.22508494555950165, Train Loss: 0.22018498182296753
+[32m[0512 02:29:07 @mbmf_policy.py:81][0m [dynamics at epoch 51]: Val Loss: 0.22508738934993744, Train Loss: 0.2201792299747467
+[32m[0512 02:29:07 @mbmf_policy.py:81][0m [dynamics at epoch 52]: Val Loss: 0.2250898778438568, Train Loss: 0.22017355263233185
+[32m[0512 02:29:07 @mbmf_policy.py:81][0m [dynamics at epoch 53]: Val Loss: 0.22509242594242096, Train Loss: 0.22016796469688416
+[32m[0512 02:29:07 @mbmf_policy.py:81][0m [dynamics at epoch 54]: Val Loss: 0.22509507834911346, Train Loss: 0.22016242146492004
+[32m[0512 02:29:07 @mbmf_policy.py:81][0m [dynamics at epoch 55]: Val Loss: 0.22509771585464478, Train Loss: 0.2201569527387619
+[32m[0512 02:29:07 @mbmf_policy.py:81][0m [dynamics at epoch 56]: Val Loss: 0.22510044276714325, Train Loss: 0.22015154361724854
+[32m[0512 02:29:07 @mbmf_policy.py:81][0m [dynamics at epoch 57]: Val Loss: 0.2251031994819641, Train Loss: 0.22014617919921875
+[32m[0512 02:29:07 @mbmf_policy.py:81][0m [dynamics at epoch 58]: Val Loss: 0.22510600090026855, Train Loss: 0.22014090418815613
+[32m[0512 02:29:07 @mbmf_policy.py:81][0m [dynamics at epoch 59]: Val Loss: 0.22510887682437897, Train Loss: 0.2201356440782547
+[32m[0512 02:29:07 @mbmf_policy.py:81][0m [dynamics at epoch 60]: Val Loss: 0.22511175274848938, Train Loss: 0.22013044357299805
+[32m[0512 02:29:07 @mbmf_policy.py:81][0m [dynamics at epoch 61]: Val Loss: 0.22511468827724457, Train Loss: 0.22012534737586975
+[32m[0512 02:29:07 @mbmf_policy.py:81][0m [dynamics at epoch 62]: Val Loss: 0.22511768341064453, Train Loss: 0.22012023627758026
+[32m[0512 02:29:07 @mbmf_policy.py:81][0m [dynamics at epoch 63]: Val Loss: 0.22512070834636688, Train Loss: 0.22011521458625793
+[32m[0512 02:29:07 @mbmf_policy.py:81][0m [dynamics at epoch 64]: Val Loss: 0.22512376308441162, Train Loss: 0.220110222697258
+[32m[0512 02:29:07 @mbmf_policy.py:81][0m [dynamics at epoch 65]: Val Loss: 0.22512687742710114, Train Loss: 0.22010527551174164
+[32m[0512 02:29:08 @mbmf_policy.py:81][0m [dynamics at epoch 66]: Val Loss: 0.22512997686862946, Train Loss: 0.22010037302970886
+[32m[0512 02:29:08 @mbmf_policy.py:81][0m [dynamics at epoch 67]: Val Loss: 0.22513319551944733, Train Loss: 0.22009553015232086
+[32m[0512 02:29:08 @mbmf_policy.py:81][0m [dynamics at epoch 68]: Val Loss: 0.2251363843679428, Train Loss: 0.22009071707725525
+[32m[0512 02:29:08 @mbmf_policy.py:81][0m [dynamics at epoch 69]: Val Loss: 0.22513963282108307, Train Loss: 0.22008591890335083
+[32m[0512 02:29:08 @mbmf_policy.py:81][0m [dynamics at epoch 70]: Val Loss: 0.22514289617538452, Train Loss: 0.22008121013641357
+[32m[0512 02:29:08 @mbmf_policy.py:81][0m [dynamics at epoch 71]: Val Loss: 0.22514621913433075, Train Loss: 0.2200765162706375
+[32m[0512 02:29:08 @mbmf_policy.py:81][0m [dynamics at epoch 72]: Val Loss: 0.22514955699443817, Train Loss: 0.22007186710834503
+[32m[0512 02:29:08 @mbmf_policy.py:81][0m [dynamics at epoch 73]: Val Loss: 0.2251529097557068, Train Loss: 0.22006721794605255
+[32m[0512 02:29:08 @mbmf_policy.py:81][0m [dynamics at epoch 74]: Val Loss: 0.2251562774181366, Train Loss: 0.22006265819072723
+[32m[0512 02:29:08 @mbmf_policy.py:81][0m [dynamics at epoch 75]: Val Loss: 0.22515968978405, Train Loss: 0.2200581133365631
+[32m[0512 02:29:08 @mbmf_policy.py:81][0m [dynamics at epoch 76]: Val Loss: 0.22516313195228577, Train Loss: 0.22005359828472137
+[32m[0512 02:29:08 @mbmf_policy.py:81][0m [dynamics at epoch 77]: Val Loss: 0.22516661882400513, Train Loss: 0.22004909813404083
+[32m[0512 02:29:08 @mbmf_policy.py:81][0m [dynamics at epoch 78]: Val Loss: 0.2251700907945633, Train Loss: 0.22004465758800507
+[32m[0512 02:29:08 @mbmf_policy.py:81][0m [dynamics at epoch 79]: Val Loss: 0.22517360746860504, Train Loss: 0.2200402468442917
+[32m[0512 02:29:08 @mbmf_policy.py:81][0m [dynamics at epoch 80]: Val Loss: 0.22517713904380798, Train Loss: 0.2200358510017395
+[32m[0512 02:29:08 @mbmf_policy.py:81][0m [dynamics at epoch 81]: Val Loss: 0.2251807153224945, Train Loss: 0.2200315147638321
+[32m[0512 02:29:08 @mbmf_policy.py:81][0m [dynamics at epoch 82]: Val Loss: 0.22518430650234222, Train Loss: 0.2200271636247635
+[32m[0512 02:29:08 @mbmf_policy.py:81][0m [dynamics at epoch 83]: Val Loss: 0.22518788278102875, Train Loss: 0.22002287209033966
+[32m[0512 02:29:08 @mbmf_policy.py:81][0m [dynamics at epoch 84]: Val Loss: 0.22519153356552124, Train Loss: 0.22001858055591583
+[32m[0512 02:29:08 @mbmf_policy.py:81][0m [dynamics at epoch 85]: Val Loss: 0.22519518435001373, Train Loss: 0.22001437842845917
+[32m[0512 02:29:08 @mbmf_policy.py:81][0m [dynamics at epoch 86]: Val Loss: 0.22519882023334503, Train Loss: 0.22001013159751892
+[32m[0512 02:29:08 @mbmf_policy.py:81][0m [dynamics at epoch 87]: Val Loss: 0.22520248591899872, Train Loss: 0.22000595927238464
+[32m[0512 02:29:09 @mbmf_policy.py:81][0m [dynamics at epoch 88]: Val Loss: 0.2252061665058136, Train Loss: 0.22000180184841156
+[32m[0512 02:29:09 @mbmf_policy.py:81][0m [dynamics at epoch 89]: Val Loss: 0.22520987689495087, Train Loss: 0.21999762952327728
+[32m[0512 02:29:09 @mbmf_policy.py:81][0m [dynamics at epoch 90]: Val Loss: 0.22521360218524933, Train Loss: 0.21999354660511017
+[32m[0512 02:29:09 @mbmf_policy.py:81][0m [dynamics at epoch 91]: Val Loss: 0.22521738708019257, Train Loss: 0.21998941898345947
+[32m[0512 02:29:09 @mbmf_policy.py:81][0m [dynamics at epoch 92]: Val Loss: 0.22522112727165222, Train Loss: 0.21998536586761475
+[32m[0512 02:29:09 @mbmf_policy.py:81][0m [dynamics at epoch 93]: Val Loss: 0.22522489726543427, Train Loss: 0.21998131275177002
+[32m[0512 02:29:09 @mbmf_policy.py:81][0m [dynamics at epoch 94]: Val Loss: 0.2252286672592163, Train Loss: 0.2199772745370865
+[32m[0512 02:29:09 @mbmf_policy.py:81][0m [dynamics at epoch 95]: Val Loss: 0.22523246705532074, Train Loss: 0.21997328102588654
+[32m[0512 02:29:09 @mbmf_policy.py:81][0m [dynamics at epoch 96]: Val Loss: 0.22523626685142517, Train Loss: 0.21996930241584778
+[32m[0512 02:29:09 @mbmf_policy.py:81][0m [dynamics at epoch 97]: Val Loss: 0.22524011135101318, Train Loss: 0.21996533870697021
+[32m[0512 02:29:09 @mbmf_policy.py:81][0m [dynamics at epoch 98]: Val Loss: 0.2252439558506012, Train Loss: 0.21996138989925385
+[32m[0512 02:29:09 @mbmf_policy.py:81][0m [dynamics at epoch 99]: Val Loss: 0.22524778544902802, Train Loss: 0.21995747089385986
+[32m[0512 02:29:09 @mbmf_policy.py:81][0m [dynamics at epoch 100]: Val Loss: 0.22525164484977722, Train Loss: 0.21995358169078827
+[32m[0512 02:29:09 @mbmf_policy.py:81][0m [dynamics at epoch 101]: Val Loss: 0.22525551915168762, Train Loss: 0.21994972229003906
+[32m[0512 02:29:09 @mbmf_policy.py:81][0m [dynamics at epoch 102]: Val Loss: 0.22525940835475922, Train Loss: 0.21994586288928986
+[32m[0512 02:29:09 @mbmf_policy.py:81][0m [dynamics at epoch 103]: Val Loss: 0.22526326775550842, Train Loss: 0.21994198858737946
+[32m[0512 02:29:09 @mbmf_policy.py:81][0m [dynamics at epoch 104]: Val Loss: 0.2252671718597412, Train Loss: 0.21993817389011383
+[32m[0512 02:29:09 @mbmf_policy.py:81][0m [dynamics at epoch 105]: Val Loss: 0.2252710908651352, Train Loss: 0.2199343889951706
+[32m[0512 02:29:09 @mbmf_policy.py:81][0m [dynamics at epoch 106]: Val Loss: 0.22527499496936798, Train Loss: 0.21993060410022736
+[32m[0512 02:29:09 @mbmf_policy.py:81][0m [dynamics at epoch 107]: Val Loss: 0.22527894377708435, Train Loss: 0.2199268341064453
+[32m[0512 02:29:09 @mbmf_policy.py:81][0m [dynamics at epoch 108]: Val Loss: 0.22528286278247833, Train Loss: 0.21992306411266327
+[32m[0512 02:29:09 @mbmf_policy.py:81][0m [dynamics at epoch 109]: Val Loss: 0.2252867966890335, Train Loss: 0.2199193239212036
+[32m[0512 02:29:10 @mbmf_policy.py:81][0m [dynamics at epoch 110]: Val Loss: 0.22529074549674988, Train Loss: 0.21991561353206635
+[32m[0512 02:29:10 @mbmf_policy.py:81][0m [dynamics at epoch 111]: Val Loss: 0.22529469430446625, Train Loss: 0.21991193294525146
+[32m[0512 02:29:10 @mbmf_policy.py:81][0m [dynamics at epoch 112]: Val Loss: 0.2252986580133438, Train Loss: 0.2199082374572754
+[32m[0512 02:29:10 @mbmf_policy.py:81][0m [dynamics at epoch 113]: Val Loss: 0.22530262172222137, Train Loss: 0.21990454196929932
+[32m[0512 02:29:10 @mbmf_policy.py:81][0m [dynamics at epoch 114]: Val Loss: 0.22530660033226013, Train Loss: 0.21990090608596802
+[32m[0512 02:29:10 @mbmf_policy.py:81][0m [dynamics at epoch 115]: Val Loss: 0.2253105789422989, Train Loss: 0.21989727020263672
+[32m[0512 02:29:10 @mbmf_policy.py:81][0m [dynamics at epoch 116]: Val Loss: 0.22531458735466003, Train Loss: 0.21989363431930542
+[32m[0512 02:29:10 @mbmf_policy.py:81][0m [dynamics at epoch 117]: Val Loss: 0.2253185510635376, Train Loss: 0.21989001333713531
+[32m[0512 02:29:10 @mbmf_policy.py:81][0m [dynamics at epoch 118]: Val Loss: 0.22532254457473755, Train Loss: 0.2198864221572876
+[32m[0512 02:29:10 @mbmf_policy.py:81][0m [dynamics at epoch 119]: Val Loss: 0.2253265380859375, Train Loss: 0.21988284587860107
+[32m[0512 02:29:10 @mbmf_policy.py:81][0m [dynamics at epoch 120]: Val Loss: 0.22533054649829865, Train Loss: 0.21987926959991455
+[32m[0512 02:29:10 @mbmf_policy.py:81][0m [dynamics at epoch 121]: Val Loss: 0.2253345549106598, Train Loss: 0.2198757380247116
+[32m[0512 02:29:10 @mbmf_policy.py:81][0m [dynamics at epoch 122]: Val Loss: 0.22533857822418213, Train Loss: 0.21987219154834747
+[32m[0512 02:29:10 @mbmf_policy.py:81][0m [dynamics at epoch 123]: Val Loss: 0.22534261643886566, Train Loss: 0.21986865997314453
+[32m[0512 02:29:10 @mbmf_policy.py:81][0m [dynamics at epoch 124]: Val Loss: 0.225346639752388, Train Loss: 0.21986514329910278
+[32m[0512 02:29:10 @mbmf_policy.py:81][0m [dynamics at epoch 125]: Val Loss: 0.22535064816474915, Train Loss: 0.21986162662506104
+[32m[0512 02:29:10 @mbmf_policy.py:81][0m [dynamics at epoch 126]: Val Loss: 0.2253546565771103, Train Loss: 0.21985813975334167
+[32m[0512 02:29:10 @mbmf_policy.py:81][0m [dynamics at epoch 127]: Val Loss: 0.2253587245941162, Train Loss: 0.2198546826839447
+[32m[0512 02:29:10 @mbmf_policy.py:81][0m [dynamics at epoch 128]: Val Loss: 0.22536274790763855, Train Loss: 0.21985121071338654
+[32m[0512 02:29:10 @mbmf_policy.py:81][0m [dynamics at epoch 129]: Val Loss: 0.2253667712211609, Train Loss: 0.21984775364398956
+[32m[0512 02:29:10 @mbmf_policy.py:81][0m [dynamics at epoch 130]: Val Loss: 0.22537082433700562, Train Loss: 0.21984431147575378
+[32m[0512 02:29:10 @mbmf_policy.py:81][0m [dynamics at epoch 131]: Val Loss: 0.22537486255168915, Train Loss: 0.2198408991098404
+[32m[0512 02:29:11 @mbmf_policy.py:81][0m [dynamics at epoch 132]: Val Loss: 0.22537890076637268, Train Loss: 0.219837486743927
+[32m[0512 02:29:11 @mbmf_policy.py:81][0m [dynamics at epoch 133]: Val Loss: 0.22538292407989502, Train Loss: 0.21983404457569122
+[32m[0512 02:29:11 @mbmf_policy.py:81][0m [dynamics at epoch 134]: Val Loss: 0.22538699209690094, Train Loss: 0.21983066201210022
+[32m[0512 02:29:11 @mbmf_policy.py:81][0m [dynamics at epoch 135]: Val Loss: 0.22539108991622925, Train Loss: 0.2198272943496704
+[32m[0512 02:29:11 @mbmf_policy.py:81][0m [dynamics at epoch 136]: Val Loss: 0.22539512813091278, Train Loss: 0.2198239415884018
+[32m[0512 02:29:11 @mbmf_policy.py:81][0m [dynamics at epoch 137]: Val Loss: 0.22539913654327393, Train Loss: 0.21982057392597198
+[32m[0512 02:29:11 @mbmf_policy.py:81][0m [dynamics at epoch 138]: Val Loss: 0.22540320456027985, Train Loss: 0.21981720626354218
+[32m[0512 02:29:11 @mbmf_policy.py:81][0m [dynamics at epoch 139]: Val Loss: 0.22540727257728577, Train Loss: 0.21981389820575714
+[32m[0512 02:29:11 @mbmf_policy.py:81][0m [dynamics at epoch 140]: Val Loss: 0.2254113107919693, Train Loss: 0.21981056034564972
+[32m[0512 02:29:11 @mbmf_policy.py:81][0m [dynamics at epoch 141]: Val Loss: 0.22541537880897522, Train Loss: 0.21980725228786469
+[32m[0512 02:29:11 @mbmf_policy.py:81][0m [dynamics at epoch 142]: Val Loss: 0.22541943192481995, Train Loss: 0.21980395913124084
+[32m[0512 02:29:11 @mbmf_policy.py:81][0m [dynamics at epoch 143]: Val Loss: 0.22542348504066467, Train Loss: 0.2198006510734558
+[32m[0512 02:29:11 @mbmf_policy.py:81][0m [dynamics at epoch 144]: Val Loss: 0.2254275679588318, Train Loss: 0.21979735791683197
+[32m[0512 02:29:11 @mbmf_policy.py:81][0m [dynamics at epoch 145]: Val Loss: 0.2254316359758377, Train Loss: 0.21979409456253052
+[32m[0512 02:29:11 @mbmf_policy.py:81][0m [dynamics at epoch 146]: Val Loss: 0.22543570399284363, Train Loss: 0.21979083120822906
+[32m[0512 02:29:11 @mbmf_policy.py:81][0m [dynamics at epoch 147]: Val Loss: 0.22543975710868835, Train Loss: 0.2197875678539276
+[32m[0512 02:29:11 @mbmf_policy.py:81][0m [dynamics at epoch 148]: Val Loss: 0.22544382512569427, Train Loss: 0.21978430449962616
+[32m[0512 02:29:11 @mbmf_policy.py:81][0m [dynamics at epoch 149]: Val Loss: 0.225447878241539, Train Loss: 0.2197810709476471
+[32m[0512 02:29:11 @mbmf_policy.py:81][0m [dynamics at epoch 150]: Val Loss: 0.22545190155506134, Train Loss: 0.21977786719799042
+[32m[0512 02:29:11 @mbmf_policy.py:81][0m [dynamics at epoch 151]: Val Loss: 0.22545598447322845, Train Loss: 0.21977461874485016
+[32m[0512 02:29:11 @mbmf_policy.py:81][0m [dynamics at epoch 152]: Val Loss: 0.22546003758907318, Train Loss: 0.21977142989635468
+[32m[0512 02:29:11 @mbmf_policy.py:81][0m [dynamics at epoch 153]: Val Loss: 0.2254641056060791, Train Loss: 0.2197682410478592
+[32m[0512 02:29:11 @mbmf_policy.py:81][0m [dynamics at epoch 154]: Val Loss: 0.22546815872192383, Train Loss: 0.2197650671005249
+[32m[0512 02:29:11 @mbmf_policy.py:81][0m [dynamics at epoch 155]: Val Loss: 0.22547224164009094, Train Loss: 0.21976187825202942
+[32m[0512 02:29:12 @mbmf_policy.py:81][0m [dynamics at epoch 156]: Val Loss: 0.22547630965709686, Train Loss: 0.21975868940353394
+[32m[0512 02:29:12 @mbmf_policy.py:81][0m [dynamics at epoch 157]: Val Loss: 0.2254803478717804, Train Loss: 0.21975553035736084
+[32m[0512 02:29:12 @mbmf_policy.py:81][0m [dynamics at epoch 158]: Val Loss: 0.22548441588878632, Train Loss: 0.21975238621234894
+[32m[0512 02:29:12 @mbmf_policy.py:81][0m [dynamics at epoch 159]: Val Loss: 0.22548846900463104, Train Loss: 0.21974922716617584
+[32m[0512 02:29:12 @mbmf_policy.py:81][0m [dynamics at epoch 160]: Val Loss: 0.22549252212047577, Train Loss: 0.21974608302116394
+[32m[0512 02:29:12 @mbmf_policy.py:81][0m [dynamics at epoch 161]: Val Loss: 0.2254965752363205, Train Loss: 0.21974296867847443
+[32m[0512 02:29:12 @mbmf_policy.py:81][0m [dynamics at epoch 162]: Val Loss: 0.22550058364868164, Train Loss: 0.21973980963230133
+[32m[0512 02:29:12 @mbmf_policy.py:81][0m [dynamics at epoch 163]: Val Loss: 0.22550463676452637, Train Loss: 0.21973669528961182
+[32m[0512 02:29:12 @mbmf_policy.py:81][0m [dynamics at epoch 164]: Val Loss: 0.22550871968269348, Train Loss: 0.2197336107492447
+[32m[0512 02:29:12 @mbmf_policy.py:81][0m [dynamics at epoch 165]: Val Loss: 0.22551275789737701, Train Loss: 0.21973049640655518
+[32m[0512 02:29:12 @mbmf_policy.py:81][0m [dynamics at epoch 166]: Val Loss: 0.22551681101322174, Train Loss: 0.21972741186618805
+[32m[0512 02:29:12 @mbmf_policy.py:81][0m [dynamics at epoch 167]: Val Loss: 0.22552086412906647, Train Loss: 0.21972432732582092
+[32m[0512 02:29:12 @mbmf_policy.py:81][0m [dynamics at epoch 168]: Val Loss: 0.2255248725414276, Train Loss: 0.2197212427854538
+[32m[0512 02:29:12 @mbmf_policy.py:81][0m [dynamics at epoch 169]: Val Loss: 0.22552891075611115, Train Loss: 0.21971820294857025
+[32m[0512 02:29:12 @mbmf_policy.py:81][0m [dynamics at epoch 170]: Val Loss: 0.22553297877311707, Train Loss: 0.21971511840820312
+[32m[0512 02:29:12 @mbmf_policy.py:81][0m [dynamics at epoch 171]: Val Loss: 0.2255370020866394, Train Loss: 0.21971207857131958
+[32m[0512 02:29:12 @mbmf_policy.py:81][0m [dynamics at epoch 172]: Val Loss: 0.22554105520248413, Train Loss: 0.21970902383327484
+[32m[0512 02:29:12 @mbmf_policy.py:81][0m [dynamics at epoch 173]: Val Loss: 0.22554506361484528, Train Loss: 0.2197059839963913
+[32m[0512 02:29:12 @mbmf_policy.py:81][0m [dynamics at epoch 174]: Val Loss: 0.2255491018295288, Train Loss: 0.21970294415950775
+[32m[0512 02:29:12 @mbmf_policy.py:81][0m [dynamics at epoch 175]: Val Loss: 0.22555312514305115, Train Loss: 0.2196999043226242
+[32m[0512 02:29:12 @mbmf_policy.py:81][0m [dynamics at epoch 176]: Val Loss: 0.2255571484565735, Train Loss: 0.21969689428806305
+[32m[0512 02:29:12 @mbmf_policy.py:81][0m [dynamics at epoch 177]: Val Loss: 0.22556117177009583, Train Loss: 0.2196938842535019
+[32m[0512 02:29:12 @mbmf_policy.py:81][0m [dynamics at epoch 178]: Val Loss: 0.22556519508361816, Train Loss: 0.21969090402126312
+[32m[0512 02:29:13 @mbmf_policy.py:81][0m [dynamics at epoch 179]: Val Loss: 0.2255692034959793, Train Loss: 0.21968789398670197
+[32m[0512 02:29:13 @mbmf_policy.py:81][0m [dynamics at epoch 180]: Val Loss: 0.22557324171066284, Train Loss: 0.219684898853302
+[32m[0512 02:29:13 @mbmf_policy.py:81][0m [dynamics at epoch 181]: Val Loss: 0.2255772352218628, Train Loss: 0.21968191862106323
+[32m[0512 02:29:13 @mbmf_policy.py:81][0m [dynamics at epoch 182]: Val Loss: 0.22558125853538513, Train Loss: 0.21967895328998566
+[32m[0512 02:29:13 @mbmf_policy.py:81][0m [dynamics at epoch 183]: Val Loss: 0.22558525204658508, Train Loss: 0.2196759730577469
+[32m[0512 02:29:13 @mbmf_policy.py:81][0m [dynamics at epoch 184]: Val Loss: 0.22558926045894623, Train Loss: 0.2196730077266693
+[32m[0512 02:29:13 @mbmf_policy.py:81][0m [dynamics at epoch 185]: Val Loss: 0.22559326887130737, Train Loss: 0.21967004239559174
+[32m[0512 02:29:13 @mbmf_policy.py:81][0m [dynamics at epoch 186]: Val Loss: 0.22559727728366852, Train Loss: 0.21966707706451416
+[32m[0512 02:29:13 @mbmf_policy.py:81][0m [dynamics at epoch 187]: Val Loss: 0.22560127079486847, Train Loss: 0.21966414153575897
+[32m[0512 02:29:13 @mbmf_policy.py:81][0m [dynamics at epoch 188]: Val Loss: 0.22560524940490723, Train Loss: 0.21966120600700378
+[32m[0512 02:29:13 @mbmf_policy.py:81][0m [dynamics at epoch 189]: Val Loss: 0.22560925781726837, Train Loss: 0.2196582704782486
+[32m[0512 02:29:13 @mbmf_policy.py:81][0m [dynamics at epoch 190]: Val Loss: 0.22561322152614594, Train Loss: 0.2196553349494934
+[32m[0512 02:29:13 @mbmf_policy.py:81][0m [dynamics at epoch 191]: Val Loss: 0.2256172001361847, Train Loss: 0.2196524292230606
+[32m[0512 02:29:13 @mbmf_policy.py:81][0m [dynamics at epoch 192]: Val Loss: 0.22562117874622345, Train Loss: 0.2196495085954666
+[32m[0512 02:29:13 @mbmf_policy.py:81][0m [dynamics at epoch 193]: Val Loss: 0.2256251722574234, Train Loss: 0.2196466028690338
+[32m[0512 02:29:13 @mbmf_policy.py:81][0m [dynamics at epoch 194]: Val Loss: 0.22562913596630096, Train Loss: 0.2196437120437622
+[32m[0512 02:29:13 @mbmf_policy.py:81][0m [dynamics at epoch 195]: Val Loss: 0.22563312947750092, Train Loss: 0.21964077651500702
+[32m[0512 02:29:13 @mbmf_policy.py:81][0m [dynamics at epoch 196]: Val Loss: 0.22563707828521729, Train Loss: 0.2196379005908966
+[32m[0512 02:29:13 @mbmf_policy.py:81][0m [dynamics at epoch 197]: Val Loss: 0.22564107179641724, Train Loss: 0.219635009765625
+[32m[0512 02:29:13 @mbmf_policy.py:81][0m [dynamics at epoch 198]: Val Loss: 0.2256450206041336, Train Loss: 0.2196321189403534
+[32m[0512 02:29:13 @mbmf_policy.py:81][0m [dynamics at epoch 199]: Val Loss: 0.22564896941184998, Train Loss: 0.21962925791740417
+[32m[0512 02:29:13 @mbmf_policy.py:81][0m [dynamics at epoch 200]: Val Loss: 0.22565294802188873, Train Loss: 0.21962639689445496
+[32m[0512 02:29:14 @mbmf_policy.py:81][0m [dynamics at epoch 201]: Val Loss: 0.22565685212612152, Train Loss: 0.21962352097034454
+[32m[0512 02:29:14 @mbmf_policy.py:81][0m [dynamics at epoch 202]: Val Loss: 0.22566084563732147, Train Loss: 0.21962065994739532
+[32m[0512 02:29:14 @mbmf_policy.py:81][0m [dynamics at epoch 203]: Val Loss: 0.22566476464271545, Train Loss: 0.2196177989244461
+[32m[0512 02:29:14 @mbmf_policy.py:81][0m [dynamics at epoch 204]: Val Loss: 0.22566871345043182, Train Loss: 0.21961495280265808
+[32m[0512 02:29:14 @mbmf_policy.py:81][0m [dynamics at epoch 205]: Val Loss: 0.225672647356987, Train Loss: 0.21961209177970886
+[32m[0512 02:29:14 @mbmf_policy.py:81][0m [dynamics at epoch 206]: Val Loss: 0.22567656636238098, Train Loss: 0.21960926055908203
+[32m[0512 02:29:14 @mbmf_policy.py:81][0m [dynamics at epoch 207]: Val Loss: 0.22568050026893616, Train Loss: 0.2196064442396164
+[32m[0512 02:29:14 @mbmf_policy.py:81][0m [dynamics at epoch 208]: Val Loss: 0.22568444907665253, Train Loss: 0.21960358321666718
+[32m[0512 02:29:14 @mbmf_policy.py:81][0m [dynamics at epoch 209]: Val Loss: 0.22568835318088531, Train Loss: 0.21960078179836273
+[32m[0512 02:29:14 @mbmf_policy.py:81][0m [dynamics at epoch 210]: Val Loss: 0.2256922423839569, Train Loss: 0.2195979654788971
+[32m[0512 02:29:14 @mbmf_policy.py:81][0m [dynamics at epoch 211]: Val Loss: 0.22569619119167328, Train Loss: 0.21959514915943146
+[32m[0512 02:29:14 @mbmf_policy.py:81][0m [dynamics at epoch 212]: Val Loss: 0.22570008039474487, Train Loss: 0.21959234774112701
+[32m[0512 02:29:14 @mbmf_policy.py:81][0m [dynamics at epoch 213]: Val Loss: 0.22570399940013885, Train Loss: 0.21958951652050018
+[32m[0512 02:29:14 @mbmf_policy.py:81][0m [dynamics at epoch 214]: Val Loss: 0.22570788860321045, Train Loss: 0.21958673000335693
+[32m[0512 02:29:14 @mbmf_policy.py:81][0m [dynamics at epoch 215]: Val Loss: 0.22571179270744324, Train Loss: 0.2195839136838913
+[32m[0512 02:29:14 @mbmf_policy.py:81][0m [dynamics at epoch 216]: Val Loss: 0.22571569681167603, Train Loss: 0.21958112716674805
+[32m[0512 02:29:14 @mbmf_policy.py:81][0m [dynamics at epoch 217]: Val Loss: 0.22571961581707, Train Loss: 0.21957837045192719
+[32m[0512 02:29:14 @mbmf_policy.py:81][0m [dynamics at epoch 218]: Val Loss: 0.2257234752178192, Train Loss: 0.21957558393478394
+[32m[0512 02:29:14 @mbmf_policy.py:81][0m [dynamics at epoch 219]: Val Loss: 0.2257273942232132, Train Loss: 0.21957279741764069
+[32m[0512 02:29:14 @mbmf_policy.py:81][0m [dynamics at epoch 220]: Val Loss: 0.2257312536239624, Train Loss: 0.21957004070281982
+[32m[0512 02:29:14 @mbmf_policy.py:81][0m [dynamics at epoch 221]: Val Loss: 0.2257351279258728, Train Loss: 0.21956725418567657
+[32m[0512 02:29:14 @mbmf_policy.py:81][0m [dynamics at epoch 222]: Val Loss: 0.2257390022277832, Train Loss: 0.21956448256969452
+[32m[0512 02:29:14 @mbmf_policy.py:81][0m [dynamics at epoch 223]: Val Loss: 0.22574284672737122, Train Loss: 0.21956172585487366
+[32m[0512 02:29:15 @mbmf_policy.py:81][0m [dynamics at epoch 224]: Val Loss: 0.22574672102928162, Train Loss: 0.21955899894237518
+[32m[0512 02:29:15 @mbmf_policy.py:81][0m [dynamics at epoch 225]: Val Loss: 0.22575059533119202, Train Loss: 0.21955621242523193
+[32m[0512 02:29:15 @mbmf_policy.py:81][0m [dynamics at epoch 226]: Val Loss: 0.22575443983078003, Train Loss: 0.21955347061157227
+[32m[0512 02:29:15 @mbmf_policy.py:81][0m [dynamics at epoch 227]: Val Loss: 0.22575825452804565, Train Loss: 0.2195507138967514
+[32m[0512 02:29:15 @mbmf_policy.py:81][0m [dynamics at epoch 228]: Val Loss: 0.22576214373111725, Train Loss: 0.21954797208309174
+[32m[0512 02:29:15 @mbmf_policy.py:81][0m [dynamics at epoch 229]: Val Loss: 0.22576597332954407, Train Loss: 0.21954524517059326
+[32m[0512 02:29:15 @mbmf_policy.py:81][0m [dynamics at epoch 230]: Val Loss: 0.2257698029279709, Train Loss: 0.2195425033569336
+[32m[0512 02:29:15 @mbmf_policy.py:81][0m [dynamics at epoch 231]: Val Loss: 0.2257736474275589, Train Loss: 0.2195397913455963
+[32m[0512 02:29:15 @mbmf_policy.py:81][0m [dynamics at epoch 232]: Val Loss: 0.22577747702598572, Train Loss: 0.21953707933425903
+[32m[0512 02:29:15 @mbmf_policy.py:81][0m [dynamics at epoch 233]: Val Loss: 0.22578129172325134, Train Loss: 0.21953435242176056
+[32m[0512 02:29:15 @mbmf_policy.py:81][0m [dynamics at epoch 234]: Val Loss: 0.22578513622283936, Train Loss: 0.21953164041042328
+[32m[0512 02:29:15 @mbmf_policy.py:81][0m [dynamics at epoch 235]: Val Loss: 0.22578895092010498, Train Loss: 0.2195288985967636
+[32m[0512 02:29:15 @mbmf_policy.py:81][0m [dynamics at epoch 236]: Val Loss: 0.22579273581504822, Train Loss: 0.21952621638774872
+[32m[0512 02:29:15 @mbmf_policy.py:81][0m [dynamics at epoch 237]: Val Loss: 0.22579656541347504, Train Loss: 0.21952353417873383
+[32m[0512 02:29:15 @mbmf_policy.py:81][0m [dynamics at epoch 238]: Val Loss: 0.22580036520957947, Train Loss: 0.21952082216739655
+[32m[0512 02:29:15 @mbmf_policy.py:81][0m [dynamics at epoch 239]: Val Loss: 0.2258041650056839, Train Loss: 0.21951811015605927
+[32m[0512 02:29:15 @mbmf_policy.py:81][0m [dynamics at epoch 240]: Val Loss: 0.22580793499946594, Train Loss: 0.21951542794704437
+[32m[0512 02:29:15 @mbmf_policy.py:81][0m [dynamics at epoch 241]: Val Loss: 0.22581171989440918, Train Loss: 0.21951274573802948
+[32m[0512 02:29:15 @mbmf_policy.py:81][0m [dynamics at epoch 242]: Val Loss: 0.2258155196905136, Train Loss: 0.2195100486278534
+[32m[0512 02:29:15 @mbmf_policy.py:81][0m [dynamics at epoch 243]: Val Loss: 0.22581928968429565, Train Loss: 0.2195073664188385
+[32m[0512 02:29:15 @mbmf_policy.py:81][0m [dynamics at epoch 244]: Val Loss: 0.22582308948040009, Train Loss: 0.21950465440750122
+[32m[0512 02:29:15 @mbmf_policy.py:81][0m [dynamics at epoch 245]: Val Loss: 0.22582687437534332, Train Loss: 0.21950200200080872
+[32m[0512 02:29:15 @mbmf_policy.py:81][0m [dynamics at epoch 246]: Val Loss: 0.22583062946796417, Train Loss: 0.21949933469295502
+[32m[0512 02:29:16 @mbmf_policy.py:81][0m [dynamics at epoch 247]: Val Loss: 0.22583436965942383, Train Loss: 0.21949665248394012
+[32m[0512 02:29:16 @mbmf_policy.py:81][0m [dynamics at epoch 248]: Val Loss: 0.22583815455436707, Train Loss: 0.2194940149784088
+[32m[0512 02:29:16 @mbmf_policy.py:81][0m [dynamics at epoch 249]: Val Loss: 0.22584189474582672, Train Loss: 0.21949133276939392
+[32m[0512 02:29:16 @mbmf_policy.py:81][0m [dynamics at epoch 250]: Val Loss: 0.22584564983844757, Train Loss: 0.21948866546154022
+[32m[0512 02:29:16 @mbmf_policy.py:81][0m [dynamics at epoch 251]: Val Loss: 0.2258494347333908, Train Loss: 0.21948601305484772
+[32m[0512 02:29:16 @mbmf_policy.py:81][0m [dynamics at epoch 252]: Val Loss: 0.22585314512252808, Train Loss: 0.21948334574699402
+[32m[0512 02:29:16 @mbmf_policy.py:81][0m [dynamics at epoch 253]: Val Loss: 0.22585687041282654, Train Loss: 0.2194807082414627
+[32m[0512 02:29:16 @mbmf_policy.py:81][0m [dynamics at epoch 254]: Val Loss: 0.225860595703125, Train Loss: 0.2194780856370926
+[32m[0512 02:29:16 @mbmf_policy.py:81][0m [dynamics at epoch 255]: Val Loss: 0.22586432099342346, Train Loss: 0.21947544813156128
+[32m[0512 02:29:16 @mbmf_policy.py:81][0m [dynamics at epoch 256]: Val Loss: 0.22586803138256073, Train Loss: 0.21947281062602997
+[32m[0512 02:29:16 @mbmf_policy.py:81][0m [dynamics at epoch 257]: Val Loss: 0.22587178647518158, Train Loss: 0.21947014331817627
+[32m[0512 02:29:16 @mbmf_policy.py:81][0m [dynamics at epoch 258]: Val Loss: 0.22587546706199646, Train Loss: 0.21946752071380615
+[32m[0512 02:29:16 @mbmf_policy.py:81][0m [dynamics at epoch 259]: Val Loss: 0.22587919235229492, Train Loss: 0.21946488320827484
+[32m[0512 02:29:16 @mbmf_policy.py:81][0m [dynamics at epoch 260]: Val Loss: 0.2258828729391098, Train Loss: 0.21946227550506592
+[32m[0512 02:29:16 @mbmf_policy.py:81][0m [dynamics at epoch 261]: Val Loss: 0.22588659822940826, Train Loss: 0.2194596379995346
+[32m[0512 02:29:16 @mbmf_policy.py:81][0m [dynamics at epoch 262]: Val Loss: 0.22589027881622314, Train Loss: 0.21945703029632568
+[32m[0512 02:29:16 @mbmf_policy.py:81][0m [dynamics at epoch 263]: Val Loss: 0.2258939892053604, Train Loss: 0.21945439279079437
+[32m[0512 02:29:16 @mbmf_policy.py:81][0m [dynamics at epoch 264]: Val Loss: 0.2258976697921753, Train Loss: 0.21945175528526306
+[32m[0512 02:29:16 @mbmf_policy.py:81][0m [dynamics at epoch 265]: Val Loss: 0.22590135037899017, Train Loss: 0.21944914758205414
+[32m[0512 02:29:16 @mbmf_policy.py:81][0m [dynamics at epoch 266]: Val Loss: 0.22590501606464386, Train Loss: 0.2194465547800064
+[32m[0512 02:29:16 @mbmf_policy.py:81][0m [dynamics at epoch 267]: Val Loss: 0.22590866684913635, Train Loss: 0.21944394707679749
+[32m[0512 02:29:16 @mbmf_policy.py:81][0m [dynamics at epoch 268]: Val Loss: 0.22591237723827362, Train Loss: 0.21944133937358856
+[32m[0512 02:29:17 @mbmf_policy.py:81][0m [dynamics at epoch 269]: Val Loss: 0.2259160280227661, Train Loss: 0.21943873167037964
+[32m[0512 02:29:17 @mbmf_policy.py:81][0m [dynamics at epoch 270]: Val Loss: 0.2259196788072586, Train Loss: 0.21943612396717072
+[32m[0512 02:29:17 @mbmf_policy.py:81][0m [dynamics at epoch 271]: Val Loss: 0.2259233295917511, Train Loss: 0.21943353116512299
+[32m[0512 02:29:17 @mbmf_policy.py:81][0m [dynamics at epoch 272]: Val Loss: 0.2259269803762436, Train Loss: 0.21943095326423645
+[32m[0512 02:29:17 @mbmf_policy.py:81][0m [dynamics at epoch 273]: Val Loss: 0.2259306013584137, Train Loss: 0.21942836046218872
+[32m[0512 02:29:17 @mbmf_policy.py:81][0m [dynamics at epoch 274]: Val Loss: 0.22593426704406738, Train Loss: 0.21942578256130219
+[32m[0512 02:29:17 @mbmf_policy.py:81][0m [dynamics at epoch 275]: Val Loss: 0.2259378731250763, Train Loss: 0.21942317485809326
+[32m[0512 02:29:17 @mbmf_policy.py:81][0m [dynamics at epoch 276]: Val Loss: 0.22594153881072998, Train Loss: 0.21942058205604553
+[32m[0512 02:29:17 @mbmf_policy.py:81][0m [dynamics at epoch 277]: Val Loss: 0.22594517469406128, Train Loss: 0.2194180190563202
+[32m[0512 02:29:17 @mbmf_policy.py:81][0m [dynamics at epoch 278]: Val Loss: 0.2259487509727478, Train Loss: 0.21941544115543365
+[32m[0512 02:29:17 @mbmf_policy.py:81][0m [dynamics at epoch 279]: Val Loss: 0.2259523868560791, Train Loss: 0.21941284835338593
+[32m[0512 02:29:17 @mbmf_policy.py:81][0m [dynamics at epoch 280]: Val Loss: 0.22595597803592682, Train Loss: 0.21941030025482178
+[32m[0512 02:29:17 @mbmf_policy.py:81][0m [dynamics at epoch 281]: Val Loss: 0.22595958411693573, Train Loss: 0.21940770745277405
+[32m[0512 02:29:17 @mbmf_policy.py:81][0m [dynamics at epoch 282]: Val Loss: 0.22596319019794464, Train Loss: 0.2194051742553711
+[32m[0512 02:29:17 @mbmf_policy.py:81][0m [dynamics at epoch 283]: Val Loss: 0.22596684098243713, Train Loss: 0.21940259635448456
+[32m[0512 02:29:17 @mbmf_policy.py:81][0m [dynamics at epoch 284]: Val Loss: 0.22597038745880127, Train Loss: 0.21940000355243683
+[32m[0512 02:29:17 @mbmf_policy.py:81][0m [dynamics at epoch 285]: Val Loss: 0.225973978638649, Train Loss: 0.2193974405527115
+[32m[0512 02:29:17 @mbmf_policy.py:81][0m [dynamics at epoch 286]: Val Loss: 0.2259775549173355, Train Loss: 0.21939487755298615
+[32m[0512 02:29:17 @mbmf_policy.py:81][0m [dynamics at epoch 287]: Val Loss: 0.22598113119602203, Train Loss: 0.219392329454422
+[32m[0512 02:29:17 @mbmf_policy.py:81][0m [dynamics at epoch 288]: Val Loss: 0.22598470747470856, Train Loss: 0.21938979625701904
+[32m[0512 02:29:17 @mbmf_policy.py:81][0m [dynamics at epoch 289]: Val Loss: 0.2259882688522339, Train Loss: 0.2193872332572937
+[32m[0512 02:29:18 @mbmf_policy.py:81][0m [dynamics at epoch 290]: Val Loss: 0.22599183022975922, Train Loss: 0.21938470005989075
+[32m[0512 02:29:18 @mbmf_policy.py:81][0m [dynamics at epoch 291]: Val Loss: 0.22599537670612335, Train Loss: 0.2193821370601654
+[32m[0512 02:29:18 @mbmf_policy.py:81][0m [dynamics at epoch 292]: Val Loss: 0.22599896788597107, Train Loss: 0.21937957406044006
+[32m[0512 02:29:18 @mbmf_policy.py:81][0m [dynamics at epoch 293]: Val Loss: 0.226002499461174, Train Loss: 0.2193770408630371
+[32m[0512 02:29:18 @mbmf_policy.py:81][0m [dynamics at epoch 294]: Val Loss: 0.22600604593753815, Train Loss: 0.21937450766563416
+[32m[0512 02:29:18 @mbmf_policy.py:81][0m [dynamics at epoch 295]: Val Loss: 0.2260095626115799, Train Loss: 0.2193719744682312
+[32m[0512 02:29:18 @mbmf_policy.py:81][0m [dynamics at epoch 296]: Val Loss: 0.22601312398910522, Train Loss: 0.21936944127082825
+[32m[0512 02:29:18 @mbmf_policy.py:81][0m [dynamics at epoch 297]: Val Loss: 0.22601664066314697, Train Loss: 0.2193669080734253
+[32m[0512 02:29:18 @mbmf_policy.py:81][0m [dynamics at epoch 298]: Val Loss: 0.22602017223834991, Train Loss: 0.21936435997486115
+[32m[0512 02:29:18 @mbmf_policy.py:81][0m [dynamics at epoch 299]: Val Loss: 0.22602370381355286, Train Loss: 0.2193618267774582
+[32m[0512 02:29:18 @mbmf_sampler.py:98][0m Finished 9th episode
+[32m[0512 02:29:18 @mbmf_sampler.py:102][0m 1809 timesteps from 9 episodes collected
