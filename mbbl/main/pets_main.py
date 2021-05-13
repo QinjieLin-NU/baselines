@@ -16,7 +16,7 @@ def main():
 
     if args.write_log:
         logger.set_file_handler(path=args.output_dir,
-                                prefix='mbrl-cem' + args.task,
+                                prefix='mbrl-cem' + args.task + '_hr_'+ str(args.planning_depth) + '_',
                                 time_str=args.exp_id)
 
     print('Training starts at {}'.format(init_path.get_abs_base_dir()))

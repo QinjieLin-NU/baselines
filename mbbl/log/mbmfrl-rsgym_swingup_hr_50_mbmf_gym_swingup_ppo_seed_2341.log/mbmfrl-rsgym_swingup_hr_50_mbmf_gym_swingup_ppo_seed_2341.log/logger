@@ -1,0 +1,162 @@
+[32m[0513 06:25:32 @logger.py:103][0m Log file set to /root/mbbl/log/mbmfrl-rsgym_swingup_hr_50_mbmf_gym_swingup_ppo_seed_2341.log/mbmfrl-rsgym_swingup_hr_50_mbmf_gym_swingup_ppo_seed_2341.log
+[32m[0513 06:25:32 @mbmf_main.py:23][0m Training starts at /root/mbbl
+[32m[0513 06:25:32 @base_worker.py:45][0m Worker 0 online
+[32m[0513 06:25:33 @base_worker.py:45][0m Worker 1 online
+[32m[0513 06:25:33 @base_worker.py:45][0m Worker 2 online
+[32m[0513 06:25:33 @base_worker.py:45][0m Worker 3 online
+[32m[0513 06:25:33 @base_worker.py:45][0m Worker 4 online
+[32m[0513 06:25:33 @base_worker.py:45][0m Worker 5 online
+[32m[0513 06:25:33 @base_worker.py:45][0m Worker 6 online
+[32m[0513 06:25:33 @base_worker.py:45][0m Worker 7 online
+[32m[0513 06:25:33 @base_worker.py:45][0m Worker 8 online
+[32m[0513 06:25:33 @base_worker.py:45][0m Worker 9 online
+[32m[0513 06:25:33 @base_worker.py:45][0m Worker 10 online
+[32m[0513 06:25:33 @base_worker.py:45][0m Worker 11 online
+[32m[0513 06:25:33 @base_worker.py:45][0m Worker 12 online
+[32m[0513 06:25:33 @base_worker.py:45][0m Worker 13 online
+[32m[0513 06:25:33 @base_worker.py:45][0m Worker 14 online
+[32m[0513 06:25:33 @base_worker.py:45][0m Worker 15 online
+[32m[0513 06:25:33 @base_worker.py:45][0m Worker 16 online
+[32m[0513 06:25:33 @base_worker.py:45][0m Worker 17 online
+[32m[0513 06:25:33 @base_worker.py:45][0m Worker 18 online
+[32m[0513 06:25:33 @base_worker.py:45][0m Worker 19 online
+[32m[0513 06:25:34 @base_trainer.py:152][0m Trainer maintains [1] policy network
+[32m[0513 06:25:34 @base_trainer.py:152][0m Trainer maintains [1] dynamics network
+[32m[0513 06:25:34 @base_trainer.py:152][0m Trainer maintains [1] reward network
+[32m[0513 06:25:34 @mbmf_main.py:46][0m Generating 1000 random timesteps
+[32m[0513 06:25:34 @mbmf_sampler.py:39][0m done with episode
+[32m[0513 06:25:35 @mbmf_sampler.py:39][0m done with episode
+[32m[0513 06:25:35 @mbmf_sampler.py:50][0m 1002 timesteps from 2 episodes collected
+[32m[0513 06:25:35 @base_trainer.py:216][0m Mean reward: -285.4657041091838
+[32m[0513 06:25:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5012289881706238, Train Loss: 0.5102262496948242
+[32m[0513 06:25:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5012512803077698, Train Loss: 0.5102197527885437
+[32m[0513 06:25:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5012731552124023, Train Loss: 0.5102134943008423
+[32m[0513 06:25:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5012950301170349, Train Loss: 0.5102072358131409
+[32m[0513 06:25:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5013171434402466, Train Loss: 0.5102011561393738
+[32m[0513 06:25:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5013399720191956, Train Loss: 0.510195255279541
+[32m[0513 06:25:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5013629198074341, Train Loss: 0.5101895332336426
+[32m[0513 06:25:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5013859272003174, Train Loss: 0.5101836919784546
+[32m[0513 06:25:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5014088153839111, Train Loss: 0.5101781487464905
+[32m[0513 06:25:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5014313459396362, Train Loss: 0.5101726651191711
+[32m[0513 06:25:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5014538168907166, Train Loss: 0.5101671814918518
+[32m[0513 06:25:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5014761090278625, Train Loss: 0.5101618766784668
+[32m[0513 06:25:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5014983415603638, Train Loss: 0.5101566910743713
+[32m[0513 06:25:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5015207529067993, Train Loss: 0.5101515054702759
+[32m[0513 06:25:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5015434622764587, Train Loss: 0.5101465582847595
+[32m[0513 06:25:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5015661120414734, Train Loss: 0.5101415514945984
+[32m[0513 06:25:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5015888214111328, Train Loss: 0.5101368427276611
+[32m[0513 06:25:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5016114711761475, Train Loss: 0.5101322531700134
+[32m[0513 06:25:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5016340017318726, Train Loss: 0.510127604007721
+[32m[0513 06:25:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5016562938690186, Train Loss: 0.510123074054718
+[32m[0513 06:25:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5016785860061646, Train Loss: 0.5101187825202942
+[32m[0513 06:25:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5017006397247314, Train Loss: 0.5101144909858704
+[32m[0513 06:25:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5017228126525879, Train Loss: 0.5101104378700256
+[32m[0513 06:25:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5017449259757996, Train Loss: 0.5101063251495361
+[32m[0513 06:25:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5017672181129456, Train Loss: 0.5101023316383362
+[32m[0513 06:25:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5017892718315125, Train Loss: 0.5100985169410706
+[32m[0513 06:25:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5018113255500793, Train Loss: 0.5100947618484497
+[32m[0513 06:25:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5018332004547119, Train Loss: 0.5100911259651184
+[32m[0513 06:25:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5018548965454102, Train Loss: 0.5100876688957214
+[32m[0513 06:25:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5018762350082397, Train Loss: 0.5100841522216797
+[32m[0513 06:25:35 @base_main.py:38][0m --------------- Iteration 1 ---------------
+[32m[0513 06:25:35 @base_main.py:44][0m Time elapsed for [** Program Total Time **] is 0.0000 mins
+[32m[0513 06:25:35 @base_main.py:44][0m Time elapsed for [Generate Rollout] is 0.0016 mins
+[32m[0513 06:25:35 @base_main.py:44][0m Time elapsed for [Train Weights] is 0.0119 mins
+[32m[0513 06:25:35 @base_main.py:44][0m Time elapsed for [Assign Weights] is 0.0037 mins
+[32m[0513 06:25:35 @base_main.py:47][0m 1002 total steps have happened
+[32m[0513 06:25:35 @base_main.py:52][0m [avg_reward]: -285.4657041091838
+[32m[0513 06:25:35 @base_main.py:52][0m [update_op]: None
+[32m[0513 06:25:35 @base_main.py:52][0m [train_loss]: 0.5100841522216797
+[32m[0513 06:25:35 @base_main.py:52][0m [val_loss]: 0.5018762350082397
+[32m[0513 06:25:35 @base_main.py:52][0m [avg_train_loss]: 0.5100841522216797
+[32m[0513 06:26:30 @mbmf_sampler.py:39][0m done with episode
+[32m[0513 06:27:24 @mbmf_sampler.py:39][0m done with episode
+[32m[0513 06:27:24 @mbmf_sampler.py:50][0m 1002 timesteps from 2 episodes collected
+[32m[0513 06:27:24 @base_trainer.py:216][0m Mean reward: -444.8702640092014
+[32m[0513 06:27:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.574651300907135, Train Loss: 0.5104866623878479
+[32m[0513 06:27:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5746449828147888, Train Loss: 0.5104848742485046
+[32m[0513 06:27:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5746579170227051, Train Loss: 0.5104804635047913
+[32m[0513 06:27:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5746814608573914, Train Loss: 0.5104737877845764
+[32m[0513 06:27:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.574711263179779, Train Loss: 0.5104655623435974
+[32m[0513 06:27:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5747446417808533, Train Loss: 0.5104567408561707
+[32m[0513 06:27:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5747801065444946, Train Loss: 0.5104475617408752
+[32m[0513 06:27:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5748166441917419, Train Loss: 0.5104382634162903
+[32m[0513 06:27:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5748535394668579, Train Loss: 0.5104290843009949
+[32m[0513 06:27:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5748903155326843, Train Loss: 0.5104200839996338
+[32m[0513 06:27:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5749269723892212, Train Loss: 0.5104114413261414
+[32m[0513 06:27:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5749630331993103, Train Loss: 0.5104031562805176
+[32m[0513 06:27:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5749986171722412, Train Loss: 0.5103952288627625
+[32m[0513 06:27:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5750335454940796, Train Loss: 0.5103875398635864
+[32m[0513 06:27:25 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5750677585601807, Train Loss: 0.510380208492279
+[32m[0513 06:27:25 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5751013159751892, Train Loss: 0.5103732347488403
+[32m[0513 06:27:25 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5751341581344604, Train Loss: 0.5103666186332703
+[32m[0513 06:27:25 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5751663446426392, Train Loss: 0.5103603005409241
+[32m[0513 06:27:25 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5751978158950806, Train Loss: 0.5103542804718018
+[32m[0513 06:27:25 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5752286314964294, Train Loss: 0.5103484988212585
+[32m[0513 06:27:25 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5752586722373962, Train Loss: 0.5103430151939392
+[32m[0513 06:27:25 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5752881169319153, Train Loss: 0.5103376507759094
+[32m[0513 06:27:25 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.575316846370697, Train Loss: 0.5103326439857483
+[32m[0513 06:27:25 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5753450989723206, Train Loss: 0.5103278756141663
+[32m[0513 06:27:25 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5753727555274963, Train Loss: 0.5103232264518738
+[32m[0513 06:27:25 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5753996968269348, Train Loss: 0.5103188157081604
+[32m[0513 06:27:25 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5754261016845703, Train Loss: 0.5103145241737366
+[32m[0513 06:27:25 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5754520297050476, Train Loss: 0.5103105902671814
+[32m[0513 06:27:25 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5754774212837219, Train Loss: 0.5103065967559814
+[32m[0513 06:27:25 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5755022168159485, Train Loss: 0.5103029012680054
+[32m[0513 06:27:25 @base_main.py:38][0m --------------- Iteration 2 ---------------
+[32m[0513 06:27:25 @base_main.py:44][0m Time elapsed for [** Program Total Time **] is 0.0173 mins
+[32m[0513 06:27:25 @base_main.py:44][0m Time elapsed for [Generate Rollout] is 1.8086 mins
+[32m[0513 06:27:25 @base_main.py:44][0m Time elapsed for [Train Weights] is 0.0189 mins
+[32m[0513 06:27:25 @base_main.py:44][0m Time elapsed for [Assign Weights] is 0.0061 mins
+[32m[0513 06:27:25 @base_main.py:47][0m 2004 total steps have happened
+[32m[0513 06:27:25 @base_main.py:52][0m [avg_reward]: -444.8702640092014
+[32m[0513 06:27:25 @base_main.py:52][0m [update_op]: None
+[32m[0513 06:27:25 @base_main.py:52][0m [train_loss]: 0.4872535169124603
+[32m[0513 06:27:25 @base_main.py:52][0m [val_loss]: 0.5755022168159485
+[32m[0513 06:27:25 @base_main.py:52][0m [avg_train_loss]: 0.5103029012680054
+[32m[0513 06:28:20 @mbmf_sampler.py:39][0m done with episode
+[32m[0513 06:29:15 @mbmf_sampler.py:39][0m done with episode
+[32m[0513 06:29:15 @mbmf_sampler.py:50][0m 1002 timesteps from 2 episodes collected
+[32m[0513 06:29:15 @base_trainer.py:216][0m Mean reward: -261.19773686505647
+[32m[0513 06:29:15 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5462607145309448, Train Loss: 0.5233491659164429
+[32m[0513 06:29:15 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5462546348571777, Train Loss: 0.5233441591262817
+[32m[0513 06:29:15 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.546249508857727, Train Loss: 0.5233401656150818
+[32m[0513 06:29:16 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5462458729743958, Train Loss: 0.5233372449874878
+[32m[0513 06:29:16 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5462436079978943, Train Loss: 0.5233349800109863
+[32m[0513 06:29:16 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5462424159049988, Train Loss: 0.5233334302902222
+[32m[0513 06:29:16 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5462422966957092, Train Loss: 0.5233320593833923
+[32m[0513 06:29:16 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5462426543235779, Train Loss: 0.5233309864997864
+[32m[0513 06:29:16 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5462436676025391, Train Loss: 0.52333003282547
+[32m[0513 06:29:16 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.546244740486145, Train Loss: 0.5233291387557983
+[32m[0513 06:29:16 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5462461709976196, Train Loss: 0.5233283638954163
+[32m[0513 06:29:16 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.546247661113739, Train Loss: 0.5233275294303894
+[32m[0513 06:29:16 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.546249270439148, Train Loss: 0.5233268141746521
+[32m[0513 06:29:16 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5462508201599121, Train Loss: 0.5233261585235596
+[32m[0513 06:29:16 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5462526082992554, Train Loss: 0.5233255624771118
+[32m[0513 06:29:16 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.54625403881073, Train Loss: 0.5233249664306641
+[32m[0513 06:29:16 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5462557077407837, Train Loss: 0.5233244895935059
+[32m[0513 06:29:16 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5462572574615479, Train Loss: 0.5233238935470581
+[32m[0513 06:29:16 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5462586879730225, Train Loss: 0.5233234763145447
+[32m[0513 06:29:16 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5462602376937866, Train Loss: 0.5233229994773865
+[32m[0513 06:29:17 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5462616682052612, Train Loss: 0.5233227014541626
+[32m[0513 06:29:17 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5462630391120911, Train Loss: 0.5233222246170044
+[32m[0513 06:29:17 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5462644100189209, Train Loss: 0.5233218669891357
+[32m[0513 06:29:17 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.546265721321106, Train Loss: 0.5233215093612671
+[32m[0513 06:29:17 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5462668538093567, Train Loss: 0.5233212113380432
+[32m[0513 06:29:17 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5462682843208313, Train Loss: 0.5233209133148193
+[32m[0513 06:29:17 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5462694764137268, Train Loss: 0.5233206152915955
+[32m[0513 06:29:17 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5462705492973328, Train Loss: 0.5233203172683716
+[32m[0513 06:29:17 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5462716817855835, Train Loss: 0.5233200788497925
+[32m[0513 06:29:17 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.5462728142738342, Train Loss: 0.5233198404312134
+[32m[0513 06:29:17 @base_main.py:38][0m --------------- Iteration 3 ---------------
+[32m[0513 06:29:17 @base_main.py:44][0m Time elapsed for [** Program Total Time **] is 1.8510 mins
+[32m[0513 06:29:17 @base_main.py:44][0m Time elapsed for [Generate Rollout] is 1.8300 mins
+[32m[0513 06:29:17 @base_main.py:44][0m Time elapsed for [Train Weights] is 0.0296 mins
+[32m[0513 06:29:17 @base_main.py:44][0m Time elapsed for [Assign Weights] is 0.0060 mins
+[32m[0513 06:29:17 @base_main.py:47][0m 3006 total steps have happened
+[32m[0513 06:29:17 @base_main.py:52][0m [avg_reward]: -261.19773686505647
+[32m[0513 06:29:17 @base_main.py:52][0m [update_op]: None
+[32m[0513 06:29:17 @base_main.py:52][0m [train_loss]: 0.5488813519477844
+[32m[0513 06:29:17 @base_main.py:52][0m [val_loss]: 0.5462728142738342
+[32m[0513 06:29:17 @base_main.py:52][0m [avg_train_loss]: 0.5233198404312134
+[32m[0513 06:30:13 @mbmf_sampler.py:39][0m done with episode
