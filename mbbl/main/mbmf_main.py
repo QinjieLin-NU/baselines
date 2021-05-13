@@ -192,6 +192,9 @@ if __name__ == '__main__':
         logger.set_file_handler(path=args.output_dir,
                                 prefix='mbmfrl-rs' + args.task + '_hr_'+ str(args.planning_depth) + '_',
                                 time_str=args.exp_id)
+        print("==========================")
+        print("generate log:",args.planning_depth)
+        print("==========================")
 
     print('Training starts at {}'.format(init_path.get_abs_base_dir()))
     from mbbl.trainer import mbmf_trainer
