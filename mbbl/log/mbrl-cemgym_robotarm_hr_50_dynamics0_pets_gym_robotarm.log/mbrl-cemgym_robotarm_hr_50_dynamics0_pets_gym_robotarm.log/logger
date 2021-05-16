@@ -1,0 +1,1444 @@
+[32m[0516 17:20:56 @logger.py:103][0m Log file set to /root/mbbl/log/mbrl-cemgym_robotarm_hr_50_dynamics0_pets_gym_robotarm.log/mbrl-cemgym_robotarm_hr_50_dynamics0_pets_gym_robotarm.log
+[32m[0516 17:20:57 @base_main.py:59][0m Training starts at /root/mbbl
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 0 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 1 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 2 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 3 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 4 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 5 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 6 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 7 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 8 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 9 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 10 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 11 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 12 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 13 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 14 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 15 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 16 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 17 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 18 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 19 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 20 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 21 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 22 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 23 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 24 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 25 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 26 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 27 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 28 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 29 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 30 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 31 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 32 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 33 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 34 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 35 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 36 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 37 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 38 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 39 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 40 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 41 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 42 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 43 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 44 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 45 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 46 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 47 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 48 online
+[32m[0516 17:20:57 @base_worker.py:45][0m Worker 49 online
+[32m[0516 17:21:06 @base_trainer.py:152][0m Trainer maintains [1] policy network
+[32m[0516 17:21:06 @base_trainer.py:152][0m Trainer maintains [1] dynamics network
+[32m[0516 17:21:06 @base_trainer.py:152][0m Trainer maintains [1] reward network
+[32m[0516 17:21:12 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:21:15 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:21:18 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:21:21 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:21:23 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:21:26 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:21:29 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:21:32 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:21:35 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:21:38 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:21:40 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:21:43 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:21:46 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:21:49 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:21:52 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:21:54 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:21:57 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:22:00 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:22:03 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:22:06 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:22:09 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:22:12 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:22:15 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:22:18 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:22:21 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:22:24 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:22:26 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:22:29 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:22:32 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:22:35 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:22:38 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:22:41 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:22:44 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:22:46 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:22:49 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:22:52 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:22:55 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:22:58 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:23:01 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:23:04 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:23:07 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:23:10 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:23:12 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:23:15 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:23:18 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:23:21 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:23:23 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:23:26 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:23:29 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:23:32 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:23:35 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:23:38 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:23:41 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:23:43 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:23:46 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:23:49 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:23:51 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:23:54 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:23:57 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:24:00 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:24:02 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:24:05 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:24:08 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:24:11 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:24:13 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:24:16 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:24:19 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:24:22 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:24:24 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:24:27 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:24:29 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:24:32 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:24:35 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:24:38 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:24:41 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:24:43 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:24:46 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:24:49 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:24:52 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:24:55 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:24:57 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:25:00 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:25:03 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:25:06 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:25:09 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:25:12 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:25:15 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:25:18 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:25:21 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:25:23 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:25:26 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:25:29 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:25:32 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:25:35 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:25:37 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:25:40 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:25:43 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:25:47 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:25:49 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:25:52 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:25:55 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:25:57 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:26:00 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:26:03 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:26:05 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:26:08 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:26:11 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:26:14 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:26:16 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:26:19 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:26:22 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:26:25 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:26:27 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:26:30 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:26:33 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:26:36 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:26:39 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:26:41 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:26:44 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:26:47 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:26:49 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:26:52 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:26:55 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:26:58 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:27:00 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:27:03 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:27:06 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:27:09 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:27:11 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:27:14 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:27:17 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:27:20 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:27:22 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:27:25 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:27:28 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:27:31 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:27:34 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:27:36 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:27:39 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:27:41 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:27:44 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:27:47 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:27:49 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:27:52 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:27:54 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:27:57 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:28:00 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:28:03 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:28:05 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:28:08 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:28:11 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:28:14 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:28:17 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:28:20 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:28:23 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:28:26 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:28:29 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:28:32 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:28:35 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:28:38 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:28:41 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:28:43 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:28:46 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:28:49 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:28:52 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:28:54 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:28:57 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:29:00 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:29:03 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:29:05 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:29:08 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:29:11 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:29:14 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:29:17 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:29:20 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:29:22 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:29:25 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:29:28 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:29:31 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:29:34 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:29:37 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:29:40 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:29:43 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:29:46 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:29:48 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:29:51 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:29:54 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:29:57 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:30:00 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:30:03 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:30:05 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:30:08 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:30:11 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:30:14 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:30:16 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:30:19 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:30:22 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:30:25 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:30:28 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:30:31 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:30:34 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:30:34 @singletask_pets_sampler.py:45][0m done with episode
+[32m[0516 17:30:34 @singletask_pets_sampler.py:56][0m 201 timesteps from 1 episodes collected
+[32m[0516 17:30:34 @base_trainer.py:216][0m Mean reward: -261.2429824630679
+[32m[0516 17:30:34 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5479955673217773, Train Loss: 0.6585148572921753
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5480973720550537, Train Loss: 0.6584715247154236
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5481992959976196, Train Loss: 0.6584283709526062
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5483012199401855, Train Loss: 0.6583853960037231
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5484033823013306, Train Loss: 0.6583425402641296
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5485057830810547, Train Loss: 0.6583000421524048
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5486083030700684, Train Loss: 0.6582574248313904
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5487107038497925, Train Loss: 0.6582152843475342
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5488134622573853, Train Loss: 0.6581733226776123
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5489161014556885, Train Loss: 0.65813148021698
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5490189790725708, Train Loss: 0.6580898761749268
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5491219758987427, Train Loss: 0.6580484509468079
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.549224853515625, Train Loss: 0.6580072045326233
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5493279695510864, Train Loss: 0.6579663157463074
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5494310855865479, Train Loss: 0.657925546169281
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5495342016220093, Train Loss: 0.657884955406189
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5496373176574707, Train Loss: 0.6578447222709656
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5497404336929321, Train Loss: 0.657804548740387
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5498435497283936, Train Loss: 0.657764732837677
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5499465465545654, Train Loss: 0.6577251553535461
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.550049901008606, Train Loss: 0.6576856970787048
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.550153136253357, Train Loss: 0.6576464772224426
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5502560138702393, Train Loss: 0.6576075553894043
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5503593683242798, Train Loss: 0.6575687527656555
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5504624843597412, Train Loss: 0.6575303077697754
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.550565481185913, Train Loss: 0.6574920415878296
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.550668478012085, Train Loss: 0.6574540734291077
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5507713556289673, Train Loss: 0.6574162244796753
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5508742332458496, Train Loss: 0.657378613948822
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5509769916534424, Train Loss: 0.6573413014411926
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5510797500610352, Train Loss: 0.6573042273521423
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.551182508468628, Train Loss: 0.6572673320770264
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.551284909248352, Train Loss: 0.6572306752204895
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5513873100280762, Train Loss: 0.6571943163871765
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5514898300170898, Train Loss: 0.6571581959724426
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5515919923782349, Train Loss: 0.6571222543716431
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5516942739486694, Train Loss: 0.6570865511894226
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5517961978912354, Train Loss: 0.6570510864257812
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5518981218338013, Train Loss: 0.657015860080719
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5519999265670776, Train Loss: 0.6569808125495911
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5521016120910645, Train Loss: 0.6569461226463318
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5522030591964722, Train Loss: 0.6569114923477173
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5523043870925903, Train Loss: 0.6568772196769714
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.552405595779419, Train Loss: 0.6568431258201599
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.552506923675537, Train Loss: 0.6568093299865723
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.552607774734497, Train Loss: 0.6567756533622742
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5527088642120361, Train Loss: 0.6567423343658447
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.552809238433838, Train Loss: 0.6567091345787048
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.5529098510742188, Train Loss: 0.656676173210144
+[32m[0516 17:30:35 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.553010106086731, Train Loss: 0.6566435098648071
+[32m[0516 17:30:38 @base_main.py:38][0m --------------- Iteration 1 ---------------
+[32m[0516 17:30:38 @base_main.py:44][0m Time elapsed for [** Program Total Time **] is 0.0000 mins
+[32m[0516 17:30:38 @base_main.py:44][0m Time elapsed for [Generate Rollout] is 9.4063 mins
+[32m[0516 17:30:38 @base_main.py:44][0m Time elapsed for [Train Weights] is 0.0298 mins
+[32m[0516 17:30:38 @base_main.py:44][0m Time elapsed for [Assign Weights] is 0.0359 mins
+[32m[0516 17:30:38 @base_main.py:47][0m 201 total steps have happened
+[32m[0516 17:30:38 @base_main.py:52][0m [avg_reward]: -261.2429824630679
+[32m[0516 17:30:38 @base_main.py:52][0m [avg_reward_std]: 0.0
+[32m[0516 17:30:38 @base_main.py:52][0m [update_op]: None
+[32m[0516 17:30:38 @base_main.py:52][0m [train_loss]: 0.6566435098648071
+[32m[0516 17:30:38 @base_main.py:52][0m [val_loss]: 1.553010106086731
+[32m[0516 17:30:38 @base_main.py:52][0m [avg_train_loss]: 0.6566435098648071
+[32m[0516 17:30:40 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:30:43 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:30:46 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:30:48 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:30:51 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:30:54 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:30:57 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:31:00 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:31:02 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:31:05 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:31:08 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:31:11 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:31:14 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:31:16 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:31:19 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:31:22 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:31:25 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:31:28 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:31:31 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:31:33 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:31:36 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:31:39 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:31:41 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:31:44 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:31:47 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:31:50 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:31:53 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:31:56 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:31:59 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:32:02 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:32:04 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:32:07 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:32:10 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:32:13 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:32:16 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:32:19 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:32:21 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:32:25 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:32:27 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:32:30 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:32:33 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:32:36 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:32:39 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:32:42 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:32:44 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:32:47 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:32:50 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:32:53 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:32:56 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:32:58 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:33:01 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:33:04 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:33:07 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:33:10 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:33:12 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:33:15 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:33:18 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:33:20 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:33:23 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:33:26 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:33:29 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:33:31 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:33:34 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:33:37 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:33:40 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:33:43 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:33:46 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:33:49 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:33:51 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:33:54 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:33:57 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:34:00 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:34:03 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:34:06 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:34:09 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:34:12 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:34:14 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:34:17 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:34:20 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:34:23 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:34:26 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:34:28 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:34:31 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:34:34 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:34:37 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:34:39 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:34:42 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:34:45 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:34:47 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:34:49 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:34:52 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:34:55 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:34:57 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:35:00 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:35:03 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:35:06 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:35:09 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:35:12 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:35:14 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:35:17 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:35:20 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:35:23 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:35:25 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:35:28 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:35:31 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:35:34 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:35:37 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:35:39 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:35:42 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:35:45 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:35:47 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:35:50 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:35:53 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:35:55 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:35:58 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:36:01 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:36:03 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:36:06 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:36:09 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:36:12 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:36:14 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:36:17 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:36:20 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:36:22 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:36:25 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:36:28 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:36:31 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:36:34 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:36:36 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:36:39 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:36:42 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:36:44 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:36:47 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:36:50 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:36:53 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:36:55 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:36:58 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:37:01 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:37:04 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:37:07 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:37:09 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:37:12 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:37:15 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:37:18 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:37:21 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:37:24 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:37:27 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:37:29 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:37:32 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:37:35 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:37:38 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:37:41 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:37:44 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:37:47 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:37:49 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:37:52 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:37:54 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:37:57 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:38:00 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:38:03 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:38:06 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:38:08 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:38:11 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:38:14 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:38:17 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:38:19 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:38:22 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:38:25 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:38:28 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:38:30 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:38:33 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:38:36 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:38:39 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:38:41 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:38:44 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:38:47 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:38:49 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:38:52 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:38:55 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:38:58 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:39:00 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:39:03 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:39:06 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:39:09 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:39:12 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:39:15 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:39:18 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:39:21 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:39:23 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:39:26 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:39:29 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:39:32 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:39:34 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:39:37 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:39:40 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:39:43 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:39:45 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:39:48 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:39:52 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:39:54 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:39:56 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:39:56 @singletask_pets_sampler.py:45][0m done with episode
+[32m[0516 17:39:56 @singletask_pets_sampler.py:56][0m 201 timesteps from 1 episodes collected
+[32m[0516 17:39:56 @base_trainer.py:216][0m Mean reward: -121.75082374470298
+[32m[0516 17:39:57 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0922248363494873, Train Loss: 0.6424989104270935
+[32m[0516 17:39:57 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0921928882598877, Train Loss: 0.6425125002861023
+[32m[0516 17:39:57 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0921754837036133, Train Loss: 0.6425212025642395
+[32m[0516 17:39:57 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0921692848205566, Train Loss: 0.6425257325172424
+[32m[0516 17:39:57 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0921716690063477, Train Loss: 0.642527163028717
+[32m[0516 17:39:57 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0921801328659058, Train Loss: 0.6425263285636902
+[32m[0516 17:39:57 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.092193603515625, Train Loss: 0.6425235867500305
+[32m[0516 17:39:57 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0922107696533203, Train Loss: 0.6425196528434753
+[32m[0516 17:39:57 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0922305583953857, Train Loss: 0.6425147652626038
+[32m[0516 17:39:57 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0922523736953735, Train Loss: 0.6425092220306396
+[32m[0516 17:39:57 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0922760963439941, Train Loss: 0.6425032019615173
+[32m[0516 17:39:57 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0923007726669312, Train Loss: 0.6424970030784607
+[32m[0516 17:39:57 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.092326045036316, Train Loss: 0.6424904465675354
+[32m[0516 17:39:57 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.092352271080017, Train Loss: 0.6424838900566101
+[32m[0516 17:39:57 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0923789739608765, Train Loss: 0.64247727394104
+[32m[0516 17:39:57 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0924057960510254, Train Loss: 0.64247065782547
+[32m[0516 17:39:57 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.092432975769043, Train Loss: 0.6424639821052551
+[32m[0516 17:39:57 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.09246027469635, Train Loss: 0.6424575448036194
+[32m[0516 17:39:57 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0924875736236572, Train Loss: 0.6424511075019836
+[32m[0516 17:39:57 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0925147533416748, Train Loss: 0.6424447298049927
+[32m[0516 17:39:57 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.092542052268982, Train Loss: 0.6424384713172913
+[32m[0516 17:39:57 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.092569351196289, Train Loss: 0.6424323320388794
+[32m[0516 17:39:57 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.092596411705017, Train Loss: 0.6424262523651123
+[32m[0516 17:39:57 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0926233530044556, Train Loss: 0.6424202919006348
+[32m[0516 17:39:57 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0926499366760254, Train Loss: 0.6424145102500916
+[32m[0516 17:39:58 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0926769971847534, Train Loss: 0.6424088478088379
+[32m[0516 17:39:58 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0927032232284546, Train Loss: 0.642403244972229
+[32m[0516 17:39:58 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0927295684814453, Train Loss: 0.6423977017402649
+[32m[0516 17:39:58 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.092755913734436, Train Loss: 0.6423923969268799
+[32m[0516 17:39:58 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0927815437316895, Train Loss: 0.6423870921134949
+[32m[0516 17:39:58 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.092807412147522, Train Loss: 0.6423819065093994
+[32m[0516 17:39:58 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0928330421447754, Train Loss: 0.6423768401145935
+[32m[0516 17:39:58 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0928585529327393, Train Loss: 0.6423719525337219
+[32m[0516 17:39:58 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.092883586883545, Train Loss: 0.6423670649528503
+[32m[0516 17:39:58 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.092908501625061, Train Loss: 0.6423622965812683
+[32m[0516 17:39:58 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0929330587387085, Train Loss: 0.6423576474189758
+[32m[0516 17:39:58 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0929577350616455, Train Loss: 0.6423531174659729
+[32m[0516 17:39:58 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0929816961288452, Train Loss: 0.6423486471176147
+[32m[0516 17:39:58 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0930057764053345, Train Loss: 0.6423442959785461
+[32m[0516 17:39:58 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0930297374725342, Train Loss: 0.6423400044441223
+[32m[0516 17:39:58 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0930533409118652, Train Loss: 0.642335832118988
+[32m[0516 17:39:58 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0930765867233276, Train Loss: 0.6423317790031433
+[32m[0516 17:39:58 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.093099594116211, Train Loss: 0.6423277854919434
+[32m[0516 17:39:58 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0931224822998047, Train Loss: 0.6423238515853882
+[32m[0516 17:39:58 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0931452512741089, Train Loss: 0.6423200368881226
+[32m[0516 17:39:58 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0931675434112549, Train Loss: 0.6423162817955017
+[32m[0516 17:39:58 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0931897163391113, Train Loss: 0.6423125863075256
+[32m[0516 17:39:58 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0932115316390991, Train Loss: 0.6423090100288391
+[32m[0516 17:39:58 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.0932332277297974, Train Loss: 0.6423055529594421
+[32m[0516 17:39:58 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.093254566192627, Train Loss: 0.6423020958900452
+[32m[0516 17:40:01 @base_main.py:38][0m --------------- Iteration 2 ---------------
+[32m[0516 17:40:01 @base_main.py:44][0m Time elapsed for [** Program Total Time **] is 9.4721 mins
+[32m[0516 17:40:01 @base_main.py:44][0m Time elapsed for [Generate Rollout] is 9.3140 mins
+[32m[0516 17:40:01 @base_main.py:44][0m Time elapsed for [Train Weights] is 0.0316 mins
+[32m[0516 17:40:01 @base_main.py:44][0m Time elapsed for [Assign Weights] is 0.0406 mins
+[32m[0516 17:40:01 @base_main.py:47][0m 402 total steps have happened
+[32m[0516 17:40:01 @base_main.py:52][0m [avg_reward]: -121.75082374470298
+[32m[0516 17:40:01 @base_main.py:52][0m [avg_reward_std]: 0.0
+[32m[0516 17:40:01 @base_main.py:52][0m [update_op]: None
+[32m[0516 17:40:01 @base_main.py:52][0m [train_loss]: 1.0011159181594849
+[32m[0516 17:40:01 @base_main.py:52][0m [val_loss]: 1.093254566192627
+[32m[0516 17:40:01 @base_main.py:52][0m [avg_train_loss]: 0.6423020958900452
+[32m[0516 17:40:04 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:40:06 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:40:09 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:40:12 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:40:15 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:40:17 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:40:20 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:40:23 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:40:26 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:40:29 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:40:31 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:40:34 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:40:37 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:40:40 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:40:42 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:40:45 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:40:48 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:40:51 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:40:53 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:40:56 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:40:58 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:41:01 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:41:04 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:41:07 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:41:10 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:41:13 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:41:16 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:41:19 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:41:21 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:41:24 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:41:27 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:41:29 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:41:32 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:41:35 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:41:38 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:41:41 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:41:43 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:41:46 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:41:49 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:41:52 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:41:55 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:41:57 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:42:00 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:42:03 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:42:06 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:42:09 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:42:12 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:42:14 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:42:17 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:42:20 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:42:23 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:42:26 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:42:29 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:42:31 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:42:34 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:42:37 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:42:40 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:42:43 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:42:46 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:42:49 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:42:51 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:42:54 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:42:57 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:43:00 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:43:03 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:43:05 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:43:08 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:43:11 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:43:14 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:43:17 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:43:20 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:43:23 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:43:25 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:43:28 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:43:31 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:43:33 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:43:36 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:43:39 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:43:41 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:43:44 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:43:46 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:43:49 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:43:52 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:43:55 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:43:57 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:44:00 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:44:03 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:44:06 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:44:09 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:44:12 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:44:15 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:44:17 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:44:20 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:44:23 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:44:26 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:44:29 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:44:32 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:44:34 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:44:37 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:44:39 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:44:42 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:44:45 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:44:48 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:44:51 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:44:54 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:44:57 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:45:00 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:45:02 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:45:05 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:45:08 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:45:11 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:45:13 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:45:16 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:45:19 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:45:22 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:45:24 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:45:27 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:45:30 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:45:33 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:45:36 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:45:39 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:45:42 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:45:45 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:45:48 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:45:51 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:45:53 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:45:56 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:45:59 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:46:02 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:46:05 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:46:07 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:46:10 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:46:13 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:46:16 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:46:18 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:46:21 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:46:24 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:46:26 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:46:29 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:46:32 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:46:35 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:46:38 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:46:41 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:46:44 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:46:47 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:46:50 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:46:53 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:46:56 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:46:58 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:47:01 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:47:04 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:47:06 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:47:09 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:47:12 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:47:15 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:47:17 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:47:20 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:47:23 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:47:26 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:47:28 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:47:31 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:47:34 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:47:36 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:47:39 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:47:42 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:47:45 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:47:47 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:47:50 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:47:53 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:47:56 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:47:58 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:48:01 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:48:04 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:48:06 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:48:09 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:48:12 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:48:15 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:48:17 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:48:20 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:48:23 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:48:26 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:48:28 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:48:31 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:48:34 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:48:37 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:48:40 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:48:43 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:48:45 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:48:49 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:48:51 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:48:54 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:48:57 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:49:00 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:49:02 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:49:05 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:49:08 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:49:11 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:49:14 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:49:17 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:49:19 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:49:22 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:49:22 @singletask_pets_sampler.py:45][0m done with episode
+[32m[0516 17:49:22 @singletask_pets_sampler.py:56][0m 201 timesteps from 1 episodes collected
+[32m[0516 17:49:22 @base_trainer.py:216][0m Mean reward: -306.854465038138
+[32m[0516 17:49:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3219462633132935, Train Loss: 0.8569084405899048
+[32m[0516 17:49:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.32206130027771, Train Loss: 0.8568788766860962
+[32m[0516 17:49:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3222057819366455, Train Loss: 0.8568388819694519
+[32m[0516 17:49:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.322365403175354, Train Loss: 0.856794536113739
+[32m[0516 17:49:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3225314617156982, Train Loss: 0.8567491769790649
+[32m[0516 17:49:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3226990699768066, Train Loss: 0.8567043542861938
+[32m[0516 17:49:22 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.322865605354309, Train Loss: 0.8566611409187317
+[32m[0516 17:49:23 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3230292797088623, Train Loss: 0.8566200137138367
+[32m[0516 17:49:23 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3231892585754395, Train Loss: 0.8565812110900879
+[32m[0516 17:49:23 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3233449459075928, Train Loss: 0.8565446138381958
+[32m[0516 17:49:23 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3234965801239014, Train Loss: 0.8565101623535156
+[32m[0516 17:49:23 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3236440420150757, Train Loss: 0.8564777374267578
+[32m[0516 17:49:23 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3237872123718262, Train Loss: 0.8564473986625671
+[32m[0516 17:49:23 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3239268064498901, Train Loss: 0.8564189076423645
+[32m[0516 17:49:23 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3240619897842407, Train Loss: 0.8563920855522156
+[32m[0516 17:49:23 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3241935968399048, Train Loss: 0.8563668131828308
+[32m[0516 17:49:23 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3243213891983032, Train Loss: 0.8563430905342102
+[32m[0516 17:49:23 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3244459629058838, Train Loss: 0.8563207387924194
+[32m[0516 17:49:23 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.324567198753357, Train Loss: 0.8562996983528137
+[32m[0516 17:49:23 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3246850967407227, Train Loss: 0.8562799692153931
+[32m[0516 17:49:23 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3247997760772705, Train Loss: 0.856261134147644
+[32m[0516 17:49:23 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3249114751815796, Train Loss: 0.8562436103820801
+[32m[0516 17:49:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3250203132629395, Train Loss: 0.856226921081543
+[32m[0516 17:49:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3251264095306396, Train Loss: 0.8562113046646118
+[32m[0516 17:49:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.325229525566101, Train Loss: 0.8561962842941284
+[32m[0516 17:49:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3253302574157715, Train Loss: 0.8561822772026062
+[32m[0516 17:49:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3254283666610718, Train Loss: 0.8561690449714661
+[32m[0516 17:49:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.325523853302002, Train Loss: 0.8561565279960632
+[32m[0516 17:49:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3256169557571411, Train Loss: 0.8561447262763977
+[32m[0516 17:49:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.325708031654358, Train Loss: 0.8561334609985352
+[32m[0516 17:49:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3257964849472046, Train Loss: 0.8561229705810547
+[32m[0516 17:49:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.325882911682129, Train Loss: 0.8561128377914429
+[32m[0516 17:49:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3259669542312622, Train Loss: 0.8561034202575684
+[32m[0516 17:49:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3260488510131836, Train Loss: 0.8560943603515625
+[32m[0516 17:49:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3261290788650513, Train Loss: 0.8560858964920044
+[32m[0516 17:49:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.326207160949707, Train Loss: 0.8560777902603149
+[32m[0516 17:49:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.32628333568573, Train Loss: 0.8560700416564941
+[32m[0516 17:49:24 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3263574838638306, Train Loss: 0.8560628890991211
+[32m[0516 17:49:25 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3264299631118774, Train Loss: 0.8560560345649719
+[32m[0516 17:49:25 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.326500654220581, Train Loss: 0.8560494184494019
+[32m[0516 17:49:25 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3265695571899414, Train Loss: 0.8560433387756348
+[32m[0516 17:49:25 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.326636791229248, Train Loss: 0.8560374975204468
+[32m[0516 17:49:25 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3267022371292114, Train Loss: 0.8560318946838379
+[32m[0516 17:49:25 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3267661333084106, Train Loss: 0.8560266494750977
+[32m[0516 17:49:25 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3268287181854248, Train Loss: 0.8560215830802917
+[32m[0516 17:49:25 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3268895149230957, Train Loss: 0.8560168147087097
+[32m[0516 17:49:25 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.326948881149292, Train Loss: 0.8560123443603516
+[32m[0516 17:49:25 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3270066976547241, Train Loss: 0.8560080528259277
+[32m[0516 17:49:25 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3270632028579712, Train Loss: 0.8560040593147278
+[32m[0516 17:49:25 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 1.3271183967590332, Train Loss: 0.8560001254081726
+[32m[0516 17:49:27 @base_main.py:38][0m --------------- Iteration 3 ---------------
+[32m[0516 17:49:27 @base_main.py:44][0m Time elapsed for [** Program Total Time **] is 18.8583 mins
+[32m[0516 17:49:27 @base_main.py:44][0m Time elapsed for [Generate Rollout] is 9.3517 mins
+[32m[0516 17:49:27 @base_main.py:44][0m Time elapsed for [Train Weights] is 0.0552 mins
+[32m[0516 17:49:27 @base_main.py:44][0m Time elapsed for [Assign Weights] is 0.0317 mins
+[32m[0516 17:49:27 @base_main.py:47][0m 603 total steps have happened
+[32m[0516 17:49:27 @base_main.py:52][0m [avg_reward]: -306.854465038138
+[32m[0516 17:49:27 @base_main.py:52][0m [avg_reward_std]: 0.0
+[32m[0516 17:49:27 @base_main.py:52][0m [update_op]: None
+[32m[0516 17:49:27 @base_main.py:52][0m [train_loss]: 0.3060828149318695
+[32m[0516 17:49:27 @base_main.py:52][0m [val_loss]: 1.3271183967590332
+[32m[0516 17:49:27 @base_main.py:52][0m [avg_train_loss]: 0.8560001254081726
+[32m[0516 17:49:30 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:49:32 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:49:35 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:49:38 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:49:41 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:49:44 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:49:46 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:49:49 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:49:52 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:49:55 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:49:58 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:50:01 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:50:03 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:50:06 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:50:09 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:50:12 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:50:15 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:50:18 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:50:20 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:50:23 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:50:25 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:50:28 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:50:31 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:50:34 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:50:37 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:50:40 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:50:42 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:50:45 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:50:48 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:50:51 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:50:53 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:50:56 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:50:59 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:51:02 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:51:05 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:51:08 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:51:11 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:51:14 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:51:17 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:51:19 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:51:22 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:51:25 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:51:28 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:51:31 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:51:34 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:51:37 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:51:40 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:51:42 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:51:45 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:51:48 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:51:51 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:51:54 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:51:57 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:52:00 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:52:03 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:52:05 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:52:09 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:52:11 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:52:14 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:52:17 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:52:20 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:52:22 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:52:25 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:52:28 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:52:30 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:52:33 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:52:35 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:52:38 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:52:41 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:52:44 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:52:46 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:52:49 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:52:52 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:52:55 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:52:57 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:53:00 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:53:03 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:53:05 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:53:08 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:53:11 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:53:14 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:53:16 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:53:18 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:53:21 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:53:24 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:53:27 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:53:29 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:53:32 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:53:35 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:53:37 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:53:40 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:53:43 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:53:46 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:53:49 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:53:52 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:53:54 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:53:57 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:54:00 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:54:03 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:54:06 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:54:09 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:54:11 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:54:14 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:54:17 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:54:20 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:54:23 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:54:25 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:54:28 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:54:31 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:54:34 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:54:36 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:54:39 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:54:42 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:54:44 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:54:47 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:54:50 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:54:53 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:54:56 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:54:59 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:55:02 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:55:04 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:55:07 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:55:10 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:55:13 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:55:15 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:55:18 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:55:21 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:55:24 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:55:26 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:55:29 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:55:32 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:55:35 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:55:38 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:55:40 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:55:43 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:55:46 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:55:49 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:55:51 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:55:54 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:55:57 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:56:00 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:56:03 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:56:06 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:56:09 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:56:11 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:56:14 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:56:17 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:56:20 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:56:22 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:56:25 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:56:28 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:56:30 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:56:33 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:56:36 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:56:39 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:56:41 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:56:45 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:56:47 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:56:50 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:56:53 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:56:56 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:56:58 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:57:01 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:57:04 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:57:07 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:57:10 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:57:13 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:57:15 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:57:18 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:57:21 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:57:24 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:57:27 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:57:30 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:57:33 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:57:36 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:57:38 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:57:41 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:57:44 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:57:47 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:57:49 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:57:52 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:57:55 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:57:57 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:58:00 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:58:03 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:58:06 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:58:09 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:58:12 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:58:14 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:58:17 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:58:20 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:58:22 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:58:25 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:58:28 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:58:31 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:58:33 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:58:36 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:58:39 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:58:42 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:58:45 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:58:48 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:58:48 @singletask_pets_sampler.py:45][0m done with episode
+[32m[0516 17:58:48 @singletask_pets_sampler.py:56][0m 201 timesteps from 1 episodes collected
+[32m[0516 17:58:48 @base_trainer.py:216][0m Mean reward: -317.2079660827644
+[32m[0516 17:58:48 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.258394956588745, Train Loss: 0.7400481104850769
+[32m[0516 17:58:48 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.2585105895996094, Train Loss: 0.7400277256965637
+[32m[0516 17:58:48 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.2586584091186523, Train Loss: 0.7399905323982239
+[32m[0516 17:58:48 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.258819103240967, Train Loss: 0.7399468421936035
+[32m[0516 17:58:48 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.2589850425720215, Train Loss: 0.7399018406867981
+[32m[0516 17:58:48 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.259150743484497, Train Loss: 0.7398576140403748
+[32m[0516 17:58:48 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.2593142986297607, Train Loss: 0.7398154139518738
+[32m[0516 17:58:48 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.259474754333496, Train Loss: 0.739775538444519
+[32m[0516 17:58:48 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.259631633758545, Train Loss: 0.739737868309021
+[32m[0516 17:58:49 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.2597849369049072, Train Loss: 0.7397027015686035
+[32m[0516 17:58:49 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.259934425354004, Train Loss: 0.739669680595398
+[32m[0516 17:58:49 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.260080575942993, Train Loss: 0.7396388053894043
+[32m[0516 17:58:49 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.2602221965789795, Train Loss: 0.7396100163459778
+[32m[0516 17:58:49 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.2603604793548584, Train Loss: 0.7395829558372498
+[32m[0516 17:58:49 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.26049542427063, Train Loss: 0.739557683467865
+[32m[0516 17:58:49 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.2606265544891357, Train Loss: 0.7395340204238892
+[32m[0516 17:58:49 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.2607545852661133, Train Loss: 0.7395119667053223
+[32m[0516 17:58:49 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.2608792781829834, Train Loss: 0.7394912838935852
+[32m[0516 17:58:49 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.261000633239746, Train Loss: 0.739471971988678
+[32m[0516 17:58:49 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.2611184120178223, Train Loss: 0.7394538521766663
+[32m[0516 17:58:50 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.261233329772949, Train Loss: 0.7394368052482605
+[32m[0516 17:58:50 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.261345148086548, Train Loss: 0.739421010017395
+[32m[0516 17:58:50 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.2614541053771973, Train Loss: 0.739406168460846
+[32m[0516 17:58:50 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.2615599632263184, Train Loss: 0.7393922805786133
+[32m[0516 17:58:50 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.261662244796753, Train Loss: 0.739379346370697
+[32m[0516 17:58:50 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.2617626190185547, Train Loss: 0.7393671274185181
+[32m[0516 17:58:50 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.261859893798828, Train Loss: 0.739355742931366
+[32m[0516 17:58:50 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.2619550228118896, Train Loss: 0.739345133304596
+[32m[0516 17:58:50 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.2620465755462646, Train Loss: 0.7393351793289185
+[32m[0516 17:58:50 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.2621359825134277, Train Loss: 0.7393258810043335
+[32m[0516 17:58:50 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.262223243713379, Train Loss: 0.7393171191215515
+[32m[0516 17:58:51 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.2623074054718018, Train Loss: 0.7393089532852173
+[32m[0516 17:58:51 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.2623894214630127, Train Loss: 0.7393013834953308
+[32m[0516 17:58:51 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.2624690532684326, Train Loss: 0.739294171333313
+[32m[0516 17:58:51 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.2625465393066406, Train Loss: 0.7392874956130981
+[32m[0516 17:58:51 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.2626216411590576, Train Loss: 0.7392812967300415
+[32m[0516 17:58:51 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.2626945972442627, Train Loss: 0.7392755150794983
+[32m[0516 17:58:51 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.262765645980835, Train Loss: 0.7392699122428894
+[32m[0516 17:58:51 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.262834310531616, Train Loss: 0.7392648458480835
+[32m[0516 17:58:51 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.2629010677337646, Train Loss: 0.7392600178718567
+[32m[0516 17:58:51 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.2629659175872803, Train Loss: 0.7392556071281433
+[32m[0516 17:58:51 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.263028621673584, Train Loss: 0.739251434803009
+[32m[0516 17:58:52 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.263089656829834, Train Loss: 0.7392474412918091
+[32m[0516 17:58:52 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.2631490230560303, Train Loss: 0.7392438054084778
+[32m[0516 17:58:52 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.2632062435150146, Train Loss: 0.7392403483390808
+[32m[0516 17:58:52 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.2632622718811035, Train Loss: 0.7392371296882629
+[32m[0516 17:58:52 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.2633163928985596, Train Loss: 0.7392340898513794
+[32m[0516 17:58:52 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.263368606567383, Train Loss: 0.7392312288284302
+[32m[0516 17:58:52 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.2634193897247314, Train Loss: 0.7392286658287048
+[32m[0516 17:58:52 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 2.2634689807891846, Train Loss: 0.739226222038269
+[32m[0516 17:58:54 @base_main.py:38][0m --------------- Iteration 4 ---------------
+[32m[0516 17:58:54 @base_main.py:44][0m Time elapsed for [** Program Total Time **] is 28.2969 mins
+[32m[0516 17:58:54 @base_main.py:44][0m Time elapsed for [Generate Rollout] is 9.3423 mins
+[32m[0516 17:58:54 @base_main.py:44][0m Time elapsed for [Train Weights] is 0.0756 mins
+[32m[0516 17:58:54 @base_main.py:44][0m Time elapsed for [Assign Weights] is 0.0367 mins
+[32m[0516 17:58:54 @base_main.py:47][0m 804 total steps have happened
+[32m[0516 17:58:54 @base_main.py:52][0m [avg_reward]: -317.2079660827644
+[32m[0516 17:58:54 @base_main.py:52][0m [avg_reward_std]: 0.0
+[32m[0516 17:58:54 @base_main.py:52][0m [update_op]: None
+[32m[0516 17:58:54 @base_main.py:52][0m [train_loss]: 1.3569672107696533
+[32m[0516 17:58:54 @base_main.py:52][0m [val_loss]: 2.2634689807891846
+[32m[0516 17:58:54 @base_main.py:52][0m [avg_train_loss]: 0.739226222038269
+[32m[0516 17:58:57 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:59:00 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:59:03 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:59:06 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:59:09 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:59:11 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:59:14 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:59:17 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:59:19 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:59:22 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:59:25 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:59:27 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:59:30 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:59:33 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:59:36 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:59:38 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:59:41 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:59:44 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:59:47 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:59:50 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:59:53 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:59:55 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 17:59:58 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:00:01 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:00:04 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:00:07 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:00:10 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:00:13 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:00:15 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:00:18 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:00:21 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:00:24 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:00:26 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:00:29 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:00:32 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:00:35 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:00:38 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:00:40 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:00:43 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:00:46 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:00:49 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:00:51 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:00:54 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:00:57 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:00:59 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:01:02 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:01:05 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:01:08 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:01:10 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:01:14 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:01:16 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:01:19 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:01:21 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:01:24 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:01:26 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:01:29 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:01:32 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:01:34 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:01:37 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:01:40 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:01:42 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:01:45 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:01:47 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:01:50 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:01:53 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:01:56 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:01:58 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:02:01 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:02:04 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:02:07 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:02:10 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:02:13 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:02:16 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:02:18 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:02:21 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:02:24 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:02:27 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:02:29 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:02:32 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:02:35 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:02:38 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:02:40 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:02:43 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:02:46 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:02:49 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:02:51 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:02:54 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:02:56 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:02:59 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:03:02 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:03:05 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:03:08 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:03:11 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:03:14 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:03:17 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:03:20 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:03:23 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:03:25 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:03:28 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:03:31 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:03:34 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:03:37 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:03:39 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:03:42 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:03:45 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:03:48 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:03:51 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:03:54 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:03:56 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:03:59 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:04:02 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:04:05 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:04:08 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:04:11 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:04:13 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:04:16 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:04:19 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:04:21 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:04:24 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:04:27 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:04:30 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:04:33 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:04:36 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:04:38 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:04:41 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:04:44 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:04:46 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:04:49 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:04:52 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:04:55 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:04:57 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:05:01 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:05:04 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:05:06 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:05:09 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:05:12 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:05:15 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:05:17 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:05:20 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:05:23 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:05:26 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:05:29 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:05:31 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:05:34 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:05:37 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:05:40 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:05:42 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:05:45 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:05:48 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:05:51 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:05:54 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:05:57 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:06:00 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:06:02 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:06:05 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:06:08 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:06:11 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:06:13 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:06:16 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:06:19 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:06:21 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:06:24 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:06:27 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:06:30 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:06:33 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:06:35 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:06:38 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:06:41 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:06:44 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:06:47 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:06:49 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:06:53 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:06:55 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:06:58 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:07:01 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:07:04 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:07:07 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:07:10 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:07:12 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:07:15 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:07:18 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:07:21 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:07:23 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:07:27 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:07:30 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:07:32 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:07:35 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:07:38 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:07:41 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:07:44 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:07:46 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:07:49 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:07:52 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:07:55 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:07:58 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:08:00 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:08:03 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:08:06 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:08:09 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:08:12 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:08:15 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:08:15 @singletask_pets_sampler.py:45][0m done with episode
+[32m[0516 18:08:15 @singletask_pets_sampler.py:56][0m 201 timesteps from 1 episodes collected
+[32m[0516 18:08:15 @base_trainer.py:216][0m Mean reward: -124.65035186097457
+[32m[0516 18:08:15 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.31541725993156433, Train Loss: 0.9649158120155334
+[32m[0516 18:08:15 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.31544920802116394, Train Loss: 0.9649130702018738
+[32m[0516 18:08:15 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.3154846131801605, Train Loss: 0.9649084806442261
+[32m[0516 18:08:15 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.31552040576934814, Train Loss: 0.9649035334587097
+[32m[0516 18:08:15 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.31555527448654175, Train Loss: 0.9648986458778381
+[32m[0516 18:08:15 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.3155888617038727, Train Loss: 0.96489417552948
+[32m[0516 18:08:15 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.3156209886074066, Train Loss: 0.9648899435997009
+[32m[0516 18:08:16 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.3156515955924988, Train Loss: 0.9648862481117249
+[32m[0516 18:08:16 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.31568071246147156, Train Loss: 0.9648827314376831
+[32m[0516 18:08:16 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.3157083988189697, Train Loss: 0.9648797512054443
+[32m[0516 18:08:16 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.3157346248626709, Train Loss: 0.9648770093917847
+[32m[0516 18:08:16 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.31575965881347656, Train Loss: 0.9648745059967041
+[32m[0516 18:08:16 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.31578338146209717, Train Loss: 0.9648721218109131
+[32m[0516 18:08:16 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.31580591201782227, Train Loss: 0.9648699164390564
+[32m[0516 18:08:16 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.315827339887619, Train Loss: 0.9648681282997131
+[32m[0516 18:08:16 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.31584763526916504, Train Loss: 0.9648663997650146
+[32m[0516 18:08:17 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.3158668875694275, Train Loss: 0.96486496925354
+[32m[0516 18:08:17 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.31588515639305115, Train Loss: 0.9648634791374207
+[32m[0516 18:08:17 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.3159025311470032, Train Loss: 0.9648621678352356
+[32m[0516 18:08:17 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.3159189522266388, Train Loss: 0.9648610353469849
+[32m[0516 18:08:17 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.31593456864356995, Train Loss: 0.9648600816726685
+[32m[0516 18:08:17 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.31594932079315186, Train Loss: 0.9648590087890625
+[32m[0516 18:08:17 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.31596341729164124, Train Loss: 0.9648581743240356
+[32m[0516 18:08:17 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.31597673892974854, Train Loss: 0.9648573994636536
+[32m[0516 18:08:17 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.31598934531211853, Train Loss: 0.9648565649986267
+[32m[0516 18:08:18 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.3160013258457184, Train Loss: 0.9648560285568237
+[32m[0516 18:08:18 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.3160126507282257, Train Loss: 0.964855432510376
+[32m[0516 18:08:18 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.3160233795642853, Train Loss: 0.9648547768592834
+[32m[0516 18:08:18 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.31603360176086426, Train Loss: 0.96485435962677
+[32m[0516 18:08:18 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.31604328751564026, Train Loss: 0.9648539423942566
+[32m[0516 18:08:18 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.31605246663093567, Train Loss: 0.9648535847663879
+[32m[0516 18:08:18 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.3160611391067505, Train Loss: 0.9648531675338745
+[32m[0516 18:08:18 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.3160693347454071, Train Loss: 0.9648528695106506
+[32m[0516 18:08:18 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.31607717275619507, Train Loss: 0.9648525714874268
+[32m[0516 18:08:19 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.3160845935344696, Train Loss: 0.9648523330688477
+[32m[0516 18:08:19 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.3160916268825531, Train Loss: 0.9648520350456238
+[32m[0516 18:08:19 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.3160982131958008, Train Loss: 0.9648517966270447
+[32m[0516 18:08:19 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.31610459089279175, Train Loss: 0.9648516178131104
+[32m[0516 18:08:19 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.3161105513572693, Train Loss: 0.9648513793945312
+[32m[0516 18:08:19 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.3161162734031677, Train Loss: 0.9648511409759521
+[32m[0516 18:08:19 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.3161216080188751, Train Loss: 0.9648509621620178
+[32m[0516 18:08:19 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.3161267638206482, Train Loss: 0.9648508429527283
+[32m[0516 18:08:19 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.3161316514015198, Train Loss: 0.9648507237434387
+[32m[0516 18:08:20 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.3161362111568451, Train Loss: 0.964850664138794
+[32m[0516 18:08:20 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.31614062190055847, Train Loss: 0.9648505449295044
+[32m[0516 18:08:20 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.316144734621048, Train Loss: 0.9648503065109253
+[32m[0516 18:08:20 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.31614863872528076, Train Loss: 0.9648503065109253
+[32m[0516 18:08:20 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.3161523640155792, Train Loss: 0.9648501873016357
+[32m[0516 18:08:20 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.31615591049194336, Train Loss: 0.9648501873016357
+[32m[0516 18:08:20 @deterministic_forward_dynamics.py:166][0m [dynamics]: Val Loss: 0.31615933775901794, Train Loss: 0.964850127696991
+[32m[0516 18:08:23 @base_main.py:38][0m --------------- Iteration 5 ---------------
+[32m[0516 18:08:23 @base_main.py:44][0m Time elapsed for [** Program Total Time **] is 37.7516 mins
+[32m[0516 18:08:23 @base_main.py:44][0m Time elapsed for [Generate Rollout] is 9.3376 mins
+[32m[0516 18:08:23 @base_main.py:44][0m Time elapsed for [Train Weights] is 0.0976 mins
+[32m[0516 18:08:23 @base_main.py:44][0m Time elapsed for [Assign Weights] is 0.0463 mins
+[32m[0516 18:08:23 @base_main.py:47][0m 1005 total steps have happened
+[32m[0516 18:08:23 @base_main.py:52][0m [avg_reward]: -124.65035186097457
+[32m[0516 18:08:23 @base_main.py:52][0m [avg_reward_std]: 0.0
+[32m[0516 18:08:23 @base_main.py:52][0m [update_op]: None
+[32m[0516 18:08:23 @base_main.py:52][0m [train_loss]: 2.2387561798095703
+[32m[0516 18:08:23 @base_main.py:52][0m [val_loss]: 0.31615933775901794
+[32m[0516 18:08:23 @base_main.py:52][0m [avg_train_loss]: 0.964850127696991
+[32m[0516 18:08:26 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:08:28 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:08:31 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:08:33 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:08:36 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:08:39 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:08:42 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:08:44 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:08:47 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:08:50 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:08:52 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:08:55 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:08:58 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:09:01 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:09:04 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:09:06 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:09:09 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:09:12 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:09:15 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:09:18 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:09:20 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:09:23 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:09:26 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:09:29 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:09:31 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:09:34 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:09:37 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:09:40 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:09:43 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:09:45 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:09:48 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:09:50 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:09:53 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:09:56 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:09:59 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:10:02 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:10:05 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:10:08 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:10:10 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:10:12 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:10:15 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:10:18 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:10:20 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:10:23 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:10:25 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:10:28 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:10:31 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:10:34 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:10:37 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:10:40 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:10:43 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:10:45 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:10:48 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:10:51 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:10:53 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:10:56 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:10:59 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:11:01 @singletask_pets_sampler.py:158][0m Finished one timestep
+[32m[0516 18:11:04 @singletask_pets_sampler.py:158][0m Finished one timestep
